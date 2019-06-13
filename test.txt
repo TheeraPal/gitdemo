@@ -1,5 +1,2 @@
 I love code mobile
-1234
-git 1
-git 2
-git 3
+555
