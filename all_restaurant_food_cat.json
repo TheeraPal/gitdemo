@@ -1,5 +1,6 @@
 {
     "name": "restaurant",
+	"test": "test",
     "children": [
         {
             "name": "Buffet style",
