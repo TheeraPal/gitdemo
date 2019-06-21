@@ -6,7 +6,7 @@
             "children": [
                 {
                     "name": "Buffet style",
-                    "rating": 3.306666666666666,
+                    "value": 3.306666666666666,
                     "children": [
                         {
                             "name": "Orudeidainingurajou",
@@ -66,7 +66,7 @@
                 },
                 {
                     "name": "Bistro",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Furenchiman",
@@ -81,7 +81,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.095135135135135,
+                    "value": 3.095135135135135,
                     "children": [
                         {
                             "name": "Izakayabambu",
@@ -420,7 +420,7 @@
                 },
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.065,
+                    "value": 3.065,
                     "children": [
                         {
                             "name": "Chabana",
@@ -444,7 +444,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.301428571428572,
+                    "value": 3.301428571428572,
                     "children": [
                         {
                             "name": "okuta-va",
@@ -513,7 +513,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.0975,
+                    "value": 3.0975,
                     "children": [
                         {
                             "name": "Daniel's Luce",
@@ -591,7 +591,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.125,
+                    "value": 3.125,
                     "children": [
                         {
                             "name": "furenchidainingutoppuobukyouto",
@@ -615,7 +615,7 @@
                 },
                 {
                     "name": "Shabu Shabu (Japanese Steamboat)",
-                    "rating": 3.0149999999999997,
+                    "value": 3.0149999999999997,
                     "children": [
                         {
                             "name": "Tajimaya",
@@ -639,7 +639,7 @@
                 },
                 {
                     "name": "Sukiyaki",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Sukiyakisunibiizakayahokuto",
@@ -654,7 +654,7 @@
                 },
                 {
                     "name": "Spain",
-                    "rating": 3.2,
+                    "value": 3.2,
                     "children": [
                         {
                             "name": "Erupojo",
@@ -669,7 +669,7 @@
                 },
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.38,
+                    "value": 3.38,
                     "children": [
                         {
                             "name": "torisemmontenyamadori",
@@ -684,7 +684,7 @@
                 },
                 {
                     "name": "Tempura",
-                    "rating": 3.255,
+                    "value": 3.255,
                     "children": [
                         {
                             "name": "Washokumai",
@@ -708,7 +708,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.085,
+                    "value": 3.085,
                     "children": [
                         {
                             "name": "Jukuseiyakinikupondo",
@@ -750,7 +750,7 @@
                 },
                 {
                     "name": "Teppanyaki",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "teppanyakiaoi",
@@ -765,7 +765,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Ichibakouji",
@@ -789,7 +789,7 @@
                 },
                 {
                     "name": "Creative cuisine",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Shusaijoujou",
@@ -804,7 +804,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.41,
+                    "value": 3.41,
                     "children": [
                         {
                             "name": "Ajidokoroterasaki",
@@ -837,7 +837,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "chuugokuryourikoukaryuuhou",
@@ -852,7 +852,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Eijuan",
@@ -867,7 +867,7 @@
                 },
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Chanchi",
@@ -900,7 +900,7 @@
                 },
                 {
                     "name": "Kushi-age (Fried Skewer)",
-                    "rating": 3.165,
+                    "value": 3.165,
                     "children": [
                         {
                             "name": "Kushinobou",
@@ -942,7 +942,7 @@
                 },
                 {
                     "name": "Viet Nam cuisine",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Nyavetonamu",
@@ -957,7 +957,7 @@
                 },
                 {
                     "name": "Beer garden",
-                    "rating": 3.045,
+                    "value": 3.045,
                     "children": [
                         {
                             "name": "hoterukeihankyoutogurandeokujoubiaga-den",
@@ -981,7 +981,7 @@
                 },
                 {
                     "name": "Sichuan Cuisine",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Shisen",
@@ -996,7 +996,7 @@
                 },
                 {
                     "name": "Fugu (Blowfish)",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Gempinfugukyoutoekimaenoseki",
@@ -1011,7 +1011,7 @@
                 },
                 {
                     "name": "Japanese food (other)",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Hitotose",
@@ -1026,7 +1026,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.0549999999999997,
+                    "value": 3.0549999999999997,
                     "children": [
                         {
                             "name": "Saredokafe",
@@ -1050,7 +1050,7 @@
                 },
                 {
                     "name": "Shanghai Cuisine",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Tenshinchashitsu",
@@ -1065,7 +1065,7 @@
                 },
                 {
                     "name": "Motsu Nabe (Offel Hot Pot)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "gansochiriteppanyakimotsunabeakachiriya",
@@ -1080,7 +1080,7 @@
                 },
                 {
                     "name": "Seafood",
-                    "rating": 3.4299999999999997,
+                    "value": 3.4299999999999997,
                     "children": [
                         {
                             "name": "toriiebisu",
@@ -1104,7 +1104,7 @@
                 },
                 {
                     "name": "Hamburger Steak",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Kitanoguriru",
@@ -1119,7 +1119,7 @@
                 },
                 {
                     "name": "Wine bar",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "waingurashiori",
@@ -1134,7 +1134,7 @@
                 },
                 {
                     "name": "Modern French",
-                    "rating": 3.42,
+                    "value": 3.42,
                     "children": [
                         {
                             "name": "Byuandodainingukotoshieru",
@@ -1149,7 +1149,7 @@
                 },
                 {
                     "name": "Western Food (Other)",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Resutoranrejina",
@@ -1164,7 +1164,7 @@
                 },
                 {
                     "name": "Standing style soba",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Heso",
@@ -1179,7 +1179,7 @@
                 },
                 {
                     "name": "Ramen",
-                    "rating": 3.5549999999999997,
+                    "value": 3.5549999999999997,
                     "children": [
                         {
                             "name": "Ebisu",
@@ -1203,7 +1203,7 @@
                 },
                 {
                     "name": "Beer",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ginzaraion",
@@ -1218,7 +1218,7 @@
                 },
                 {
                     "name": "Beer bar",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "YEBISU BAR",
@@ -1238,7 +1238,7 @@
             "children": [
                 {
                     "name": "Bistro",
-                    "rating": 3.306666666666667,
+                    "value": 3.306666666666667,
                     "children": [
                         {
                             "name": "Steak Frites Gaspard zinzin",
@@ -1271,7 +1271,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.1117241379310343,
+                    "value": 3.1117241379310343,
                     "children": [
                         {
                             "name": "nishikimachinoakarishoutengai",
@@ -1538,7 +1538,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "Haiborubakyoutokarasumaichikyuuniisan",
@@ -1589,7 +1589,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.295555555555555,
+                    "value": 3.295555555555555,
                     "children": [
                         {
                             "name": "Trattoria La Pace",
@@ -1676,7 +1676,7 @@
                 },
                 {
                     "name": "Spain",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Figerasu",
@@ -1691,7 +1691,7 @@
                 },
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.1125,
+                    "value": 3.1125,
                     "children": [
                         {
                             "name": "Izakayariraku",
@@ -1733,7 +1733,7 @@
                 },
                 {
                     "name": "Pork Shabu Shabu",
-                    "rating": 3.64,
+                    "value": 3.64,
                     "children": [
                         {
                             "name": "kyoutohyouto",
@@ -1748,7 +1748,7 @@
                 },
                 {
                     "name": "Tempura",
-                    "rating": 3.3049999999999997,
+                    "value": 3.3049999999999997,
                     "children": [
                         {
                             "name": "Komefuku",
@@ -1772,7 +1772,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.1933333333333334,
+                    "value": 3.1933333333333334,
                     "children": [
                         {
                             "name": "Ittetsugurache",
@@ -1805,7 +1805,7 @@
                 },
                 {
                     "name": "Teppanyaki",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "guridorufo-suitsuraku",
@@ -1820,7 +1820,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.45,
+                    "value": 3.45,
                     "children": [
                         {
                             "name": "Ajirokkon",
@@ -1835,7 +1835,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.18,
+                    "value": 3.18,
                     "children": [
                         {
                             "name": "SPOON",
@@ -1850,7 +1850,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Rakusenrou",
@@ -1865,7 +1865,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.4219999999999997,
+                    "value": 3.4219999999999997,
                     "children": [
                         {
                             "name": "Hanasaki",
@@ -1916,7 +1916,7 @@
                 },
                 {
                     "name": "Sushi",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "sushidainingudaihachi",
@@ -1931,7 +1931,7 @@
                 },
                 {
                     "name": "Japanese food (other)",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Bankettonishiki",
@@ -1946,7 +1946,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "kafeandopanke-kiguramu",
@@ -1961,7 +1961,7 @@
                 },
                 {
                     "name": "Sweets",
-                    "rating": 3.26,
+                    "value": 3.26,
                     "children": [
                         {
                             "name": "kyoutoayanokoujimangetsunohana",
@@ -1976,7 +1976,7 @@
                 },
                 {
                     "name": "Western Cuisine",
-                    "rating": 3.33,
+                    "value": 3.33,
                     "children": [
                         {
                             "name": "Kyouyoushokumatsumoto",
@@ -1991,7 +1991,7 @@
                 },
                 {
                     "name": "Beef dishes",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Nikuryouritobatoyo",
@@ -2006,7 +2006,7 @@
                 },
                 {
                     "name": "Wine bar",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "Wine Bar Mus\u00e9e",
@@ -2021,7 +2021,7 @@
                 },
                 {
                     "name": "Pasta",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "konana",
@@ -2036,7 +2036,7 @@
                 },
                 {
                     "name": "Crepes",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Kurepurikyoutoshanderu",
@@ -2051,7 +2051,7 @@
                 },
                 {
                     "name": "Ramen",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Takayasuzekuu",
@@ -2075,7 +2075,7 @@
                 },
                 {
                     "name": "Stand Bar",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Suiba",
@@ -2090,7 +2090,7 @@
                 },
                 {
                     "name": "Tsukemen",
-                    "rating": 3.58,
+                    "value": 3.58,
                     "children": [
                         {
                             "name": "Menshoutakamatsu",
@@ -2110,7 +2110,7 @@
             "children": [
                 {
                     "name": "Bistro",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "TENTATION",
@@ -2134,7 +2134,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.061764705882353,
+                    "value": 3.061764705882353,
                     "children": [
                         {
                             "name": "KAZUMA",
@@ -2293,7 +2293,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.0999999999999996,
+                    "value": 3.0999999999999996,
                     "children": [
                         {
                             "name": "Kenedhikurabu",
@@ -2335,7 +2335,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Resort dining&bar HaLe",
@@ -2350,7 +2350,7 @@
                 },
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.1333333333333333,
+                    "value": 3.1333333333333333,
                     "children": [
                         {
                             "name": "kushiyakimanten",
@@ -2383,7 +2383,7 @@
                 },
                 {
                     "name": "Tempura",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Komefuku",
@@ -2398,7 +2398,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.177142857142857,
+                    "value": 3.177142857142857,
                     "children": [
                         {
                             "name": "nikuyanodaidokoro",
@@ -2467,7 +2467,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "uotanafumibun",
@@ -2482,7 +2482,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.1340000000000003,
+                    "value": 3.1340000000000003,
                     "children": [
                         {
                             "name": "Sunny",
@@ -2533,7 +2533,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Hamachou",
@@ -2557,7 +2557,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.3259999999999996,
+                    "value": 3.3259999999999996,
                     "children": [
                         {
                             "name": "Pontochourobin",
@@ -2608,7 +2608,7 @@
                 },
                 {
                     "name": "Steak",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "GRILL&PUB The NICK STOCK",
@@ -2641,7 +2641,7 @@
                 },
                 {
                     "name": "Sushi",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Sushiyoshino",
@@ -2656,7 +2656,7 @@
                 },
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Kampaiboupuruda",
@@ -2671,7 +2671,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Ace cafe",
@@ -2686,7 +2686,7 @@
                 },
                 {
                     "name": "Vegetable dishes",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "yasaidainingukusushi",
@@ -2701,7 +2701,7 @@
                 },
                 {
                     "name": "Motsu Nabe (Offel Hot Pot)",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "motsunabekamehachi",
@@ -2716,7 +2716,7 @@
                 },
                 {
                     "name": "Suppon (Soft-shelled Turtle)",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Tsubakurosupponshokudou",
@@ -2731,7 +2731,7 @@
                 },
                 {
                     "name": "Mexico cuisine",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "mekishikandaininguabokado",
@@ -2746,7 +2746,7 @@
                 },
                 {
                     "name": "Pizza",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Pittsusarubatorekuomoandoguriru",
@@ -2766,7 +2766,7 @@
             "children": [
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "okonomiyakiteppanyakimiki",
@@ -2781,7 +2781,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.0549999999999997,
+                    "value": 3.0549999999999997,
                     "children": [
                         {
                             "name": "REAL NETA DINING ICHIZ",
@@ -2805,7 +2805,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.3433333333333333,
+                    "value": 3.3433333333333333,
                     "children": [
                         {
                             "name": "Yakinikusebun",
@@ -2838,7 +2838,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.465,
+                    "value": 3.465,
                     "children": [
                         {
                             "name": "Hachisei",
@@ -2862,7 +2862,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "nikugaumaikafenikkusutokku",
@@ -2877,7 +2877,7 @@
                 },
                 {
                     "name": "Horumon (BBQ Offel)",
-                    "rating": 3.52,
+                    "value": 3.52,
                     "children": [
                         {
                             "name": "Akayashiro",
@@ -2892,7 +2892,7 @@
                 },
                 {
                     "name": "Hamburger Steak",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "hamba-guandosute-kipondo",
@@ -2907,7 +2907,7 @@
                 },
                 {
                     "name": "Ramen",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "Ajinomeimon",
@@ -2927,7 +2927,7 @@
             "children": [
                 {
                     "name": "Bistro",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "FORTUNE GARDEN KYOTO",
@@ -2942,7 +2942,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0933333333333337,
+                    "value": 3.0933333333333337,
                     "children": [
                         {
                             "name": "Togiya",
@@ -3002,7 +3002,7 @@
                 },
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Yumeya",
@@ -3026,7 +3026,7 @@
                 },
                 {
                     "name": "Chinese hot pot / fire pot",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "Shaofeiyan",
@@ -3041,7 +3041,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.0766666666666667,
+                    "value": 3.0766666666666667,
                     "children": [
                         {
                             "name": "Setsugekka",
@@ -3074,7 +3074,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.1300000000000003,
+                    "value": 3.1300000000000003,
                     "children": [
                         {
                             "name": "STRADA",
@@ -3107,7 +3107,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.3049999999999997,
+                    "value": 3.3049999999999997,
                     "children": [
                         {
                             "name": "Furenchibado",
@@ -3131,7 +3131,7 @@
                 },
                 {
                     "name": "Spain",
-                    "rating": 3.48,
+                    "value": 3.48,
                     "children": [
                         {
                             "name": "Poquito",
@@ -3155,7 +3155,7 @@
                 },
                 {
                     "name": "Tempura",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "sumibiyakiyasaiyaoki",
@@ -3170,7 +3170,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Yakinikudainingukinoe",
@@ -3194,7 +3194,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.4749999999999996,
+                    "value": 3.4749999999999996,
                     "children": [
                         {
                             "name": "Aritsune",
@@ -3218,7 +3218,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.048,
+                    "value": 3.048,
                     "children": [
                         {
                             "name": "Nosutarujia",
@@ -3269,7 +3269,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.5066666666666664,
+                    "value": 3.5066666666666664,
                     "children": [
                         {
                             "name": "Ganko",
@@ -3302,7 +3302,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.415,
+                    "value": 3.415,
                     "children": [
                         {
                             "name": "Satsuki",
@@ -3344,7 +3344,7 @@
                 },
                 {
                     "name": "Steak",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "LODGE",
@@ -3359,7 +3359,7 @@
                 },
                 {
                     "name": "Sushi",
-                    "rating": 3.315,
+                    "value": 3.315,
                     "children": [
                         {
                             "name": "Nijoukiduki",
@@ -3383,7 +3383,7 @@
                 },
                 {
                     "name": "Fowl",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "Rinku",
@@ -3398,7 +3398,7 @@
                 },
                 {
                     "name": "Dumplings",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "gyouzaba-anzukko",
@@ -3413,7 +3413,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.335,
+                    "value": 3.335,
                     "children": [
                         {
                             "name": "mo-shondaina-",
@@ -3437,7 +3437,7 @@
                 },
                 {
                     "name": "Udon",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Marugameseimen",
@@ -3452,7 +3452,7 @@
                 },
                 {
                     "name": "Thailand cooking",
-                    "rating": 3.52,
+                    "value": 3.52,
                     "children": [
                         {
                             "name": "Sajjoupakuchi",
@@ -3467,7 +3467,7 @@
                 },
                 {
                     "name": "Hamburger Steak",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Teramachihambagugokurakutombo",
@@ -3482,7 +3482,7 @@
                 },
                 {
                     "name": "Soba",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Shiunsen",
@@ -3497,7 +3497,7 @@
                 },
                 {
                     "name": "Stand Bar",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Suiba",
@@ -3512,7 +3512,7 @@
                 },
                 {
                     "name": "Pub",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Daburin",
@@ -3527,7 +3527,7 @@
                 },
                 {
                     "name": "India cuisine",
-                    "rating": 3.22,
+                    "value": 3.22,
                     "children": [
                         {
                             "name": "Kerara",
@@ -3542,7 +3542,7 @@
                 },
                 {
                     "name": "Curry (other)",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Kaosusupaisudaina",
@@ -3557,7 +3557,7 @@
                 },
                 {
                     "name": "Traditional Caf\u00e9",
-                    "rating": 3.52,
+                    "value": 3.52,
                     "children": [
                         {
                             "name": "Karafuneyakohiten",
@@ -3572,7 +3572,7 @@
                 },
                 {
                     "name": "Indonesia cuisine",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Wayang Bali",
@@ -3592,7 +3592,7 @@
             "children": [
                 {
                     "name": "Buffet style",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Kyounishikiobanzaibyuffehinataya",
@@ -3607,7 +3607,7 @@
                 },
                 {
                     "name": "Bistro",
-                    "rating": 3.58,
+                    "value": 3.58,
                     "children": [
                         {
                             "name": "Ranka",
@@ -3622,7 +3622,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.1818181818181817,
+                    "value": 3.1818181818181817,
                     "children": [
                         {
                             "name": "Sumika",
@@ -3826,7 +3826,7 @@
                 },
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.065,
+                    "value": 3.065,
                     "children": [
                         {
                             "name": "Shougetsu",
@@ -3850,7 +3850,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.2039999999999997,
+                    "value": 3.2039999999999997,
                     "children": [
                         {
                             "name": "biakicchinnikubarujikabiyajikabiya",
@@ -3901,7 +3901,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.3040000000000007,
+                    "value": 3.3040000000000007,
                     "children": [
                         {
                             "name": "Pizzeria e Bar La Voce",
@@ -3952,7 +3952,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.4,
+                    "value": 3.4,
                     "children": [
                         {
                             "name": "Rejon",
@@ -3967,7 +3967,7 @@
                 },
                 {
                     "name": "Spain",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "BELLOTA concha",
@@ -3982,7 +3982,7 @@
                 },
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.1199999999999997,
+                    "value": 3.1199999999999997,
                     "children": [
                         {
                             "name": "Sumibikushiyakitsujiya",
@@ -4015,7 +4015,7 @@
                 },
                 {
                     "name": "Tempura",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Tempurashinjukutsunahachi",
@@ -4030,7 +4030,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.165,
+                    "value": 3.165,
                     "children": [
                         {
                             "name": "Banikuryourisemmontenumayarou",
@@ -4126,7 +4126,7 @@
                 },
                 {
                     "name": "Okinawan Cuisine",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Peppa",
@@ -4141,7 +4141,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Supuringubareburuwarikyouto",
@@ -4156,7 +4156,7 @@
                 },
                 {
                     "name": "Creative cuisine",
-                    "rating": 3.245,
+                    "value": 3.245,
                     "children": [
                         {
                             "name": "Mimasuyamonami",
@@ -4180,7 +4180,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "Tankumakitamise",
@@ -4195,7 +4195,7 @@
                 },
                 {
                     "name": "Steak",
-                    "rating": 3.1766666666666663,
+                    "value": 3.1766666666666663,
                     "children": [
                         {
                             "name": "Parinijuuikku",
@@ -4228,7 +4228,7 @@
                 },
                 {
                     "name": "Unagi (Freshwater eel)",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "unagihitsumabushisumiyagura",
@@ -4243,7 +4243,7 @@
                 },
                 {
                     "name": "Japanese food (other)",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Obanzaitatsunosuke",
@@ -4258,7 +4258,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.39,
+                    "value": 3.39,
                     "children": [
                         {
                             "name": "RH Cafe",
@@ -4273,7 +4273,7 @@
                 },
                 {
                     "name": "Horumon (BBQ Offel)",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Kyouhorumontaisha",
@@ -4288,7 +4288,7 @@
                 },
                 {
                     "name": "Motsu Nabe (Offel Hot Pot)",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Hakatamotsunabefukuya",
@@ -4303,7 +4303,7 @@
                 },
                 {
                     "name": "Thailand cooking",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "konken",
@@ -4318,7 +4318,7 @@
                 },
                 {
                     "name": "Seafood",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Jounetsushokusaikyoushoku",
@@ -4333,7 +4333,7 @@
                 },
                 {
                     "name": "Nihonshu (Japanese sake)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Osakekafepuchipuchi",
@@ -4348,7 +4348,7 @@
                 },
                 {
                     "name": "Ramen",
-                    "rating": 3.085,
+                    "value": 3.085,
                     "children": [
                         {
                             "name": "Noukoutoripaitanramemmisora",
@@ -4372,7 +4372,7 @@
                 },
                 {
                     "name": "Pancake",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "eruku",
@@ -4387,7 +4387,7 @@
                 },
                 {
                     "name": "Caf\u00e9 / coffee shop (and others)",
-                    "rating": 3.46,
+                    "value": 3.46,
                     "children": [
                         {
                             "name": "Nishikiichiha",
@@ -4402,7 +4402,7 @@
                 },
                 {
                     "name": "Udon Suki",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "Kyoutogontaro",
@@ -4422,7 +4422,7 @@
             "children": [
                 {
                     "name": "Bistro",
-                    "rating": 3.48,
+                    "value": 3.48,
                     "children": [
                         {
                             "name": "Bisutoroemuiaru",
@@ -4437,7 +4437,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.1290909090909094,
+                    "value": 3.1290909090909094,
                     "children": [
                         {
                             "name": "Ishibekoujimamecha",
@@ -4542,7 +4542,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.15625,
+                    "value": 3.15625,
                     "children": [
                         {
                             "name": "In the Soup.",
@@ -4620,7 +4620,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.428,
+                    "value": 3.428,
                     "children": [
                         {
                             "name": "Zasoudouhigashiyamakyouto",
@@ -4716,7 +4716,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.72,
+                    "value": 3.72,
                     "children": [
                         {
                             "name": "Gionabesu",
@@ -4758,7 +4758,7 @@
                 },
                 {
                     "name": "Shabu Shabu (Japanese Steamboat)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Giongyuuzen",
@@ -4773,7 +4773,7 @@
                 },
                 {
                     "name": "Spain",
-                    "rating": 3.3200000000000003,
+                    "value": 3.3200000000000003,
                     "children": [
                         {
                             "name": "Figerasu",
@@ -4797,7 +4797,7 @@
                 },
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Kashiwa",
@@ -4830,7 +4830,7 @@
                 },
                 {
                     "name": "Tempura",
-                    "rating": 3.385,
+                    "value": 3.385,
                     "children": [
                         {
                             "name": "Kyoutogiontempurayasakaendou",
@@ -4854,7 +4854,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.1457142857142855,
+                    "value": 3.1457142857142855,
                     "children": [
                         {
                             "name": "Gionyakinikukokoro",
@@ -4923,7 +4923,7 @@
                 },
                 {
                     "name": "Teppanyaki",
-                    "rating": 3.3066666666666666,
+                    "value": 3.3066666666666666,
                     "children": [
                         {
                             "name": "teppandainingukyoushikian",
@@ -4956,7 +4956,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.420769230769231,
+                    "value": 3.420769230769231,
                     "children": [
                         {
                             "name": "daininguba-daburyu-",
@@ -5079,7 +5079,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.235,
+                    "value": 3.235,
                     "children": [
                         {
                             "name": "Kuragarimasa",
@@ -5103,7 +5103,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.3000000000000003,
+                    "value": 3.3000000000000003,
                     "children": [
                         {
                             "name": "Manjirou",
@@ -5163,7 +5163,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.383333333333333,
+                    "value": 3.383333333333333,
                     "children": [
                         {
                             "name": "chuugokuryourichimmin",
@@ -5196,7 +5196,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.310625,
+                    "value": 3.310625,
                     "children": [
                         {
                             "name": "Gionkyouryourihanasaki",
@@ -5346,7 +5346,7 @@
                 },
                 {
                     "name": "Steak",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "Matsuzakagyuuwattsuzakicchin",
@@ -5397,7 +5397,7 @@
                 },
                 {
                     "name": "Sushi",
-                    "rating": 3.1100000000000003,
+                    "value": 3.1100000000000003,
                     "children": [
                         {
                             "name": "Hikohachi",
@@ -5421,7 +5421,7 @@
                 },
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.56,
+                    "value": 3.56,
                     "children": [
                         {
                             "name": "Kankokuanjupontochourinanha",
@@ -5436,7 +5436,7 @@
                 },
                 {
                     "name": "Kushi-age (Fried Skewer)",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Rakuchin",
@@ -5451,7 +5451,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Haroukithisaryou",
@@ -5466,7 +5466,7 @@
                 },
                 {
                     "name": "Regional Cuisine (Other)",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "gionnotonjiruyasanadachiya",
@@ -5481,7 +5481,7 @@
                 },
                 {
                     "name": "Thailand cooking",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Nettaishokudou",
@@ -5496,7 +5496,7 @@
                 },
                 {
                     "name": "Western Cuisine",
-                    "rating": 3.18,
+                    "value": 3.18,
                     "children": [
                         {
                             "name": "Kikusui",
@@ -5511,7 +5511,7 @@
                 },
                 {
                     "name": "Hot Pot (other)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Kitayama",
@@ -5526,7 +5526,7 @@
                 },
                 {
                     "name": "Ryokan",
-                    "rating": 3.65,
+                    "value": 3.65,
                     "children": [
                         {
                             "name": "Gionhatanaka",
@@ -5541,7 +5541,7 @@
                 },
                 {
                     "name": "Meat dishes",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "giombashunrou",
@@ -5556,7 +5556,7 @@
                 },
                 {
                     "name": "Bread",
-                    "rating": 3.56,
+                    "value": 3.56,
                     "children": [
                         {
                             "name": "ORENO PAN okumura",
@@ -5571,7 +5571,7 @@
                 },
                 {
                     "name": "Izakaya (other)",
-                    "rating": 3.32,
+                    "value": 3.32,
                     "children": [
                         {
                             "name": "Haiborubakyoutoichikyunisan",
@@ -5586,7 +5586,7 @@
                 },
                 {
                     "name": "Sumibiyaki",
-                    "rating": 3.6,
+                    "value": 3.6,
                     "children": [
                         {
                             "name": "Takasegawa",
@@ -5601,7 +5601,7 @@
                 },
                 {
                     "name": "Oyako-don (Chicken Bowl)",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Hisago",
@@ -5621,7 +5621,7 @@
             "children": [
                 {
                     "name": "Italian",
-                    "rating": 3.85,
+                    "value": 3.85,
                     "children": [
                         {
                             "name": "gionni-yongo",
@@ -5636,7 +5636,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Gionyuyama",
@@ -5651,7 +5651,7 @@
                 },
                 {
                     "name": "Sichuan Cuisine",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "Ryuumon",
@@ -5666,7 +5666,7 @@
                 },
                 {
                     "name": "Ryokan",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Gionshimmonsou",
@@ -5681,7 +5681,7 @@
                 },
                 {
                     "name": "Soba",
-                    "rating": 3.6,
+                    "value": 3.6,
                     "children": [
                         {
                             "name": "Giwontokiwa",
@@ -5701,7 +5701,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.209090909090909,
+                    "value": 3.209090909090909,
                     "children": [
                         {
                             "name": "Shuteimichiya",
@@ -5806,7 +5806,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.2175,
+                    "value": 3.2175,
                     "children": [
                         {
                             "name": "Bejotamuamua",
@@ -5848,7 +5848,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Italian bar Lugol",
@@ -5899,7 +5899,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Pierupureshiuzu",
@@ -5914,7 +5914,7 @@
                 },
                 {
                     "name": "Shabu Shabu (Japanese Steamboat)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Mumon",
@@ -5929,7 +5929,7 @@
                 },
                 {
                     "name": "Tempura",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Tempurabaruharuichi",
@@ -5944,7 +5944,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.34,
+                    "value": 3.34,
                     "children": [
                         {
                             "name": "Idutsuya",
@@ -5986,7 +5986,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Higashinotouinsou",
@@ -6010,7 +6010,7 @@
                 },
                 {
                     "name": "Okinawan Cuisine",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Aguuru",
@@ -6025,7 +6025,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "BEER PUB Takumiya",
@@ -6040,7 +6040,7 @@
                 },
                 {
                     "name": "Steak",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "sumibisute-kisakaikyoutosanjou",
@@ -6055,7 +6055,7 @@
                 },
                 {
                     "name": "Sushi",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "SOUDEN",
@@ -6070,7 +6070,7 @@
                 },
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ampan",
@@ -6085,7 +6085,7 @@
                 },
                 {
                     "name": "Kushi-age (Fried Skewer)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Aiyoxtsu",
@@ -6100,7 +6100,7 @@
                 },
                 {
                     "name": "Viet Nam cuisine",
-                    "rating": 3.41,
+                    "value": 3.41,
                     "children": [
                         {
                             "name": "Thiemuanfonvietto",
@@ -6115,7 +6115,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "coLLabo",
@@ -6130,7 +6130,7 @@
                 },
                 {
                     "name": "Udon",
-                    "rating": 3.18,
+                    "value": 3.18,
                     "children": [
                         {
                             "name": "Ikiikiudon",
@@ -6145,7 +6145,7 @@
                 },
                 {
                     "name": "Western (Others)",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Brochette",
@@ -6160,7 +6160,7 @@
                 },
                 {
                     "name": "Seafood",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Kaisendokorowatanabeya",
@@ -6175,7 +6175,7 @@
                 },
                 {
                     "name": "Soba",
-                    "rating": 3.17,
+                    "value": 3.17,
                     "children": [
                         {
                             "name": "Teuchisobaminagawa",
@@ -6190,7 +6190,7 @@
                 },
                 {
                     "name": "Robatayaki",
-                    "rating": 3.38,
+                    "value": 3.38,
                     "children": [
                         {
                             "name": "Robatasushihotaru",
@@ -6205,7 +6205,7 @@
                 },
                 {
                     "name": "Innovative cuisine",
-                    "rating": 4.06,
+                    "value": 4.06,
                     "children": [
                         {
                             "name": "ORTO",
@@ -6225,7 +6225,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.1725,
+                    "value": 3.1725,
                     "children": [
                         {
                             "name": "Chizutakkarubitonichinandorisachi",
@@ -6267,7 +6267,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Kaitoshirowainnobarukakimaru",
@@ -6291,7 +6291,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.0700000000000003,
+                    "value": 3.0700000000000003,
                     "children": [
                         {
                             "name": "itariandainingutoreotto",
@@ -6324,7 +6324,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.13,
+                    "value": 3.13,
                     "children": [
                         {
                             "name": "Daikokuebisu",
@@ -6366,7 +6366,7 @@
                 },
                 {
                     "name": "Teppanyaki",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Teppansakuwan",
@@ -6381,7 +6381,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Tatsumi",
@@ -6396,7 +6396,7 @@
                 },
                 {
                     "name": "Kushi-age (Fried Skewer)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Kushikatsutanaka",
@@ -6411,7 +6411,7 @@
                 },
                 {
                     "name": "Crab",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Kameya",
@@ -6426,7 +6426,7 @@
                 },
                 {
                     "name": "Genghis Khan (BBQ Rum)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Rakudaya",
@@ -6446,7 +6446,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "ANAGOYA NORESORE",
@@ -6470,7 +6470,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.17,
+                    "value": 3.17,
                     "children": [
                         {
                             "name": "Rozurumu",
@@ -6485,7 +6485,7 @@
                 },
                 {
                     "name": "Teppanyaki",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Nijou",
@@ -6500,7 +6500,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "jikidoukagura",
@@ -6524,7 +6524,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.18,
+                    "value": 3.18,
                     "children": [
                         {
                             "name": "Unkai",
@@ -6539,7 +6539,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Karin",
@@ -6554,7 +6554,7 @@
                 },
                 {
                     "name": "Western Cuisine",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "Koji",
@@ -6569,7 +6569,7 @@
                 },
                 {
                     "name": "Beef dishes",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Watanabe",
@@ -6584,7 +6584,7 @@
                 },
                 {
                     "name": "Pancake",
-                    "rating": 3.58,
+                    "value": 3.58,
                     "children": [
                         {
                             "name": "Yukinoshita",
@@ -6604,7 +6604,7 @@
             "children": [
                 {
                     "name": "Buffet style",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "THE BUFFET STYLE SARA",
@@ -6619,7 +6619,7 @@
                 },
                 {
                     "name": "Bistro",
-                    "rating": 3.45,
+                    "value": 3.45,
                     "children": [
                         {
                             "name": "BISTRO BAR A VIN  C",
@@ -6643,7 +6643,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.186842105263158,
+                    "value": 3.186842105263158,
                     "children": [
                         {
                             "name": "Ichifuji",
@@ -6820,7 +6820,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "SinSin",
@@ -6835,7 +6835,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.4214285714285713,
+                    "value": 3.4214285714285713,
                     "children": [
                         {
                             "name": "Charcoal",
@@ -6904,7 +6904,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.44,
+                    "value": 3.44,
                     "children": [
                         {
                             "name": "Erushimmachi",
@@ -6919,7 +6919,7 @@
                 },
                 {
                     "name": "Shabu Shabu (Japanese Steamboat)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Gyuuzen",
@@ -6934,7 +6934,7 @@
                 },
                 {
                     "name": "Spain",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "bejo-tamucho",
@@ -6949,7 +6949,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "Gyuurakutei",
@@ -6973,7 +6973,7 @@
                 },
                 {
                     "name": "Teppanyaki",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "kyoutoteppantachibana",
@@ -6997,7 +6997,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.0399999999999996,
+                    "value": 3.0399999999999996,
                     "children": [
                         {
                             "name": "Takishokudou",
@@ -7030,7 +7030,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "tounyuutonshabutoratarou",
@@ -7045,7 +7045,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.5999999999999996,
+                    "value": 3.5999999999999996,
                     "children": [
                         {
                             "name": "Orudohonkonresutorankyouto",
@@ -7069,7 +7069,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.185,
+                    "value": 3.185,
                     "children": [
                         {
                             "name": "Nagomijun",
@@ -7093,7 +7093,7 @@
                 },
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.295,
+                    "value": 3.295,
                     "children": [
                         {
                             "name": "Bejitejiya",
@@ -7117,7 +7117,7 @@
                 },
                 {
                     "name": "Kushi-age (Fried Skewer)",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "arashiyamakushibun",
@@ -7132,7 +7132,7 @@
                 },
                 {
                     "name": "Horumon (BBQ Offel)",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Hayashi",
@@ -7147,7 +7147,7 @@
                 },
                 {
                     "name": "Thailand cooking",
-                    "rating": 3.34,
+                    "value": 3.34,
                     "children": [
                         {
                             "name": "shijoupakuchi-",
@@ -7162,7 +7162,7 @@
                 },
                 {
                     "name": "Mexico cuisine",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Roti Chicken&Jackie Tacos",
@@ -7177,7 +7177,7 @@
                 },
                 {
                     "name": "Ramen",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Maboroshinochuukasobakatouyashijounibojirou",
@@ -7192,7 +7192,7 @@
                 },
                 {
                     "name": "Fried Foods (other)",
-                    "rating": 3.25,
+                    "value": 3.25,
                     "children": [
                         {
                             "name": "Shunsaitempuraarima",
@@ -7207,7 +7207,7 @@
                 },
                 {
                     "name": "Tonkatsu (Pork cutlet)",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Kimukatsu",
@@ -7227,7 +7227,7 @@
             "children": [
                 {
                     "name": "Italian",
-                    "rating": 3.44,
+                    "value": 3.44,
                     "children": [
                         {
                             "name": "Torattoriaviare",
@@ -7242,7 +7242,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Kishouzakura",
@@ -7257,7 +7257,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.6,
+                    "value": 3.6,
                     "children": [
                         {
                             "name": "Harise",
@@ -7272,7 +7272,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "Shouentei",
@@ -7287,7 +7287,7 @@
                 },
                 {
                     "name": "Fowl",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "OICHO",
@@ -7302,7 +7302,7 @@
                 },
                 {
                     "name": "Thailand cooking",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "Bussarakan",
@@ -7317,7 +7317,7 @@
                 },
                 {
                     "name": "Tofu",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Kiyomizujunsei",
@@ -7332,7 +7332,7 @@
                 },
                 {
                     "name": "Wine bar",
-                    "rating": 3.26,
+                    "value": 3.26,
                     "children": [
                         {
                             "name": "Kyoutogiommiyagawachououmie",
@@ -7347,7 +7347,7 @@
                 },
                 {
                     "name": "Ramen",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "Ramenfuji",
@@ -7367,7 +7367,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.25,
+                    "value": 3.25,
                     "children": [
                         {
                             "name": "Sanji",
@@ -7391,7 +7391,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.41,
+                    "value": 3.41,
                     "children": [
                         {
                             "name": "ITALIAN BAR MODERNTIMES",
@@ -7424,7 +7424,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Kyo gastronomy KOZO",
@@ -7439,7 +7439,7 @@
                 },
                 {
                     "name": "Shabu Shabu (Japanese Steamboat)",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Kyoutotsuyushabuchiriri",
@@ -7454,7 +7454,7 @@
                 },
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "Sumibikushiyakitsujiya",
@@ -7469,7 +7469,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.23,
+                    "value": 3.23,
                     "children": [
                         {
                             "name": "Kurogewagyuutenshou",
@@ -7502,7 +7502,7 @@
                 },
                 {
                     "name": "Teppanyaki",
-                    "rating": 3.23,
+                    "value": 3.23,
                     "children": [
                         {
                             "name": "L'ajitto",
@@ -7517,7 +7517,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.3266666666666667,
+                    "value": 3.3266666666666667,
                     "children": [
                         {
                             "name": "Kyoutonijoutosaka",
@@ -7550,7 +7550,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.526666666666667,
+                    "value": 3.526666666666667,
                     "children": [
                         {
                             "name": "Kyouryouritategami",
@@ -7583,7 +7583,7 @@
                 },
                 {
                     "name": "Steak",
-                    "rating": 3.2,
+                    "value": 3.2,
                     "children": [
                         {
                             "name": "sute-kihausupondo",
@@ -7598,7 +7598,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.45,
+                    "value": 3.45,
                     "children": [
                         {
                             "name": "Kafecherisshu",
@@ -7613,7 +7613,7 @@
                 },
                 {
                     "name": "Thailand cooking",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Bankokugaden",
@@ -7628,7 +7628,7 @@
                 },
                 {
                     "name": "European-style Curry",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Oumiyaseiemon",
@@ -7643,7 +7643,7 @@
                 },
                 {
                     "name": "Oden",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Shou",
@@ -7663,7 +7663,7 @@
             "children": [
                 {
                     "name": "Italian",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Gori's Kitchen",
@@ -7678,7 +7678,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Gokyou",
@@ -7707,7 +7707,7 @@
             "children": [
                 {
                     "name": "Italian",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Occobe.",
@@ -7722,7 +7722,7 @@
                 },
                 {
                     "name": "Tempura",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Kyoutotempuraendou",
@@ -7737,7 +7737,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Isobe",
@@ -7752,7 +7752,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Ryuumon",
@@ -7767,7 +7767,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Kasuian",
@@ -7782,7 +7782,7 @@
                 },
                 {
                     "name": "Sushi",
-                    "rating": 3.48,
+                    "value": 3.48,
                     "children": [
                         {
                             "name": "Gionemon",
@@ -7797,7 +7797,7 @@
                 },
                 {
                     "name": "Tofu",
-                    "rating": 3.11,
+                    "value": 3.11,
                     "children": [
                         {
                             "name": "Rengetsudiya",
@@ -7812,7 +7812,7 @@
                 },
                 {
                     "name": "Cantonese Cuisine",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Giwommorikou",
@@ -7832,7 +7832,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "sakesakanatanagokoro",
@@ -7847,7 +7847,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.57,
+                    "value": 3.57,
                     "children": [
                         {
                             "name": "Baruagiyao",
@@ -7862,7 +7862,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.2350000000000003,
+                    "value": 3.2350000000000003,
                     "children": [
                         {
                             "name": "waintoonikudaisen",
@@ -7886,7 +7886,7 @@
                 },
                 {
                     "name": "Teppanyaki",
-                    "rating": 3.47,
+                    "value": 3.47,
                     "children": [
                         {
                             "name": "Teppanryourihanaroku",
@@ -7901,7 +7901,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.42,
+                    "value": 3.42,
                     "children": [
                         {
                             "name": "Kinugawa",
@@ -7916,7 +7916,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.63,
+                    "value": 3.63,
                     "children": [
                         {
                             "name": "chisouyouga",
@@ -7936,7 +7936,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.1719999999999997,
+                    "value": 3.1719999999999997,
                     "children": [
                         {
                             "name": "Izakayashinoomiya",
@@ -7987,7 +7987,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "jukuseiyakinikupondo",
@@ -8016,7 +8016,7 @@
             "children": [
                 {
                     "name": "Buffet style",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "Buraitonkicchin",
@@ -8031,7 +8031,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.032222222222222,
+                    "value": 3.032222222222222,
                     "children": [
                         {
                             "name": "Nikokubaru",
@@ -8118,7 +8118,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Fesshimon",
@@ -8133,7 +8133,7 @@
                 },
                 {
                     "name": "Dandan noodles",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "YEBISU",
@@ -8153,7 +8153,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Kyuushuunecchuuya",
@@ -8168,7 +8168,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "Kaiuntei",
@@ -8183,7 +8183,7 @@
                 },
                 {
                     "name": "Sushi",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Sushidokoroima",
@@ -8198,7 +8198,7 @@
                 },
                 {
                     "name": "Pasta",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ishiyakinamapasutakuranosuke",
@@ -8218,7 +8218,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Momojirou",
@@ -8233,7 +8233,7 @@
                 },
                 {
                     "name": "Pork Shabu Shabu",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Kyouwasabi",
@@ -8253,7 +8253,7 @@
             "children": [
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Yakinikusakayaisshin",
@@ -8282,7 +8282,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0375,
+                    "value": 3.0375,
                     "children": [
                         {
                             "name": "nihonshusumiyakiyaiki",
@@ -8324,7 +8324,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Tsukinokurabito",
@@ -8339,7 +8339,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ajoiichanchi",
@@ -8354,7 +8354,7 @@
                 },
                 {
                     "name": "Creative cuisine",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Enrian",
@@ -8369,7 +8369,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ishise",
@@ -8384,7 +8384,7 @@
                 },
                 {
                     "name": "Seafood",
-                    "rating": 3.33,
+                    "value": 3.33,
                     "children": [
                         {
                             "name": "shunsairyoushin",
@@ -8399,7 +8399,7 @@
                 },
                 {
                     "name": "Hamburger Steak",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Saradanomisesancho",
@@ -8419,7 +8419,7 @@
             "children": [
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Hanagokoro",
@@ -8434,7 +8434,7 @@
                 },
                 {
                     "name": "Fowl",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Taketori",
@@ -8454,7 +8454,7 @@
             "children": [
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Yakinikuichiba",
@@ -8474,7 +8474,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Taishuusakabatenuzumasatenjingawaten",
@@ -8489,7 +8489,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Garejisankyukafe",
@@ -8509,7 +8509,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "ajidokorosamon",
@@ -8524,7 +8524,7 @@
                 },
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Mossannobetayaki",
@@ -8539,7 +8539,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Taishuunikubarujuu",
@@ -8554,7 +8554,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.155,
+                    "value": 3.155,
                     "children": [
                         {
                             "name": "HOMURA",
@@ -8578,7 +8578,7 @@
                 },
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "KORAN",
@@ -8598,7 +8598,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.1625,
+                    "value": 3.1625,
                     "children": [
                         {
                             "name": "YAMAMURA GYUUBEI",
@@ -8640,7 +8640,7 @@
                 },
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Arata",
@@ -8655,7 +8655,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "itariambarutoreotto",
@@ -8670,7 +8670,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Nikumon",
@@ -8703,7 +8703,7 @@
                 },
                 {
                     "name": "Sichuan Cuisine",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Machiyashisenhoshitsukiyo",
@@ -8723,7 +8723,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.1633333333333336,
+                    "value": 3.1633333333333336,
                     "children": [
                         {
                             "name": "ryoushigoya",
@@ -8756,7 +8756,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Ameirobisutoroaruru",
@@ -8771,7 +8771,7 @@
                 },
                 {
                     "name": "Okinawan Cuisine",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Ryuuhourakuenchura",
@@ -8786,7 +8786,7 @@
                 },
                 {
                     "name": "Seafood",
-                    "rating": 3.22,
+                    "value": 3.22,
                     "children": [
                         {
                             "name": "Toto",
@@ -8806,7 +8806,7 @@
             "children": [
                 {
                     "name": "Bistro",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Ashuckurk",
@@ -8821,7 +8821,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0199999999999996,
+                    "value": 3.0199999999999996,
                     "children": [
                         {
                             "name": "rakuenzakayaannachuraru",
@@ -8854,7 +8854,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.6533333333333338,
+                    "value": 3.6533333333333338,
                     "children": [
                         {
                             "name": "Teramachiyoshikura",
@@ -8887,7 +8887,7 @@
                 },
                 {
                     "name": "Pasta",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Rinya",
@@ -8907,7 +8907,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.17,
+                    "value": 3.17,
                     "children": [
                         {
                             "name": "sakanaryouritosakeshinsengumi",
@@ -8931,7 +8931,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "yakinikuyaruki",
@@ -8946,7 +8946,7 @@
                 },
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.33,
+                    "value": 3.33,
                     "children": [
                         {
                             "name": "karubidontosundoufusemmontenkandon",
@@ -8966,7 +8966,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "gochisouizakayaippaiippai",
@@ -8981,7 +8981,7 @@
                 },
                 {
                     "name": "Fugu (Blowfish)",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ipponyari",
@@ -9001,7 +9001,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "momojirouichiba",
@@ -9016,7 +9016,7 @@
                 },
                 {
                     "name": "Dumplings",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Gyouzamatsukichi",
@@ -9031,7 +9031,7 @@
                 },
                 {
                     "name": "Chiritori nabe (tripe)",
-                    "rating": 3.52,
+                    "value": 3.52,
                     "children": [
                         {
                             "name": "Chiritorinabeiyama",
@@ -9046,7 +9046,7 @@
                 },
                 {
                     "name": "Tofu",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Kurosuke",
@@ -9066,7 +9066,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.01,
+                    "value": 3.01,
                     "children": [
                         {
                             "name": "Hanatanuki",
@@ -9086,7 +9086,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.073333333333333,
+                    "value": 3.073333333333333,
                     "children": [
                         {
                             "name": "Himiko",
@@ -9119,7 +9119,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "yakinikuajidouraku",
@@ -9139,7 +9139,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.17,
+                    "value": 3.17,
                     "children": [
                         {
                             "name": "YURURI",
@@ -9154,7 +9154,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.585,
+                    "value": 3.585,
                     "children": [
                         {
                             "name": "Yakinikuyoshimi",
@@ -9178,7 +9178,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.1,
+                    "value": 3.1,
                     "children": [
                         {
                             "name": "Rakuzenkakinuma",
@@ -9193,7 +9193,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Ilifune",
@@ -9208,7 +9208,7 @@
                 },
                 {
                     "name": "Pasta",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Nagagutsutei",
@@ -9228,7 +9228,7 @@
             "children": [
                 {
                     "name": "Cafe",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "nikugaumaikafenikkusutokku",
@@ -9248,7 +9248,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Teppankushiyakisakura",
@@ -9268,7 +9268,7 @@
             "children": [
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.5499999999999994,
+                    "value": 3.5499999999999994,
                     "children": [
                         {
                             "name": "Hiroya",
@@ -9301,7 +9301,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Kifuneugenta",
@@ -9316,7 +9316,7 @@
                 },
                 {
                     "name": "Soba",
-                    "rating": 3.24,
+                    "value": 3.24,
                     "children": [
                         {
                             "name": "Dembei",
@@ -9336,7 +9336,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.115,
+                    "value": 3.115,
                     "children": [
                         {
                             "name": "Sousakukoshitsuizakayasugiurakyoutoekimaeshichijouten",
@@ -9360,7 +9360,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.57,
+                    "value": 3.57,
                     "children": [
                         {
                             "name": "trattoria sette",
@@ -9375,7 +9375,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Nikuyasuzu",
@@ -9399,7 +9399,7 @@
                 },
                 {
                     "name": "Thailand cooking",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Kinkao",
@@ -9414,7 +9414,7 @@
                 },
                 {
                     "name": "Pizza",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Aiemuo",
@@ -9434,7 +9434,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Iorisantouka",
@@ -9449,7 +9449,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Chishokufu",
@@ -9464,7 +9464,7 @@
                 },
                 {
                     "name": "Champon Noodle",
-                    "rating": 3.38,
+                    "value": 3.38,
                     "children": [
                         {
                             "name": "Hisa",
@@ -9484,7 +9484,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "kyoutoebisuya",
@@ -9499,7 +9499,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Shichirinya",
@@ -9523,7 +9523,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Shunsaifujii",
@@ -9538,7 +9538,7 @@
                 },
                 {
                     "name": "Sushi",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "Sushikawano",
@@ -9553,7 +9553,7 @@
                 },
                 {
                     "name": "Kushi-age (Fried Skewer)",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Kushiageadachi",
@@ -9573,7 +9573,7 @@
             "children": [
                 {
                     "name": "Tempura",
-                    "rating": 3.56,
+                    "value": 3.56,
                     "children": [
                         {
                             "name": "Tempurakawatatsu",
@@ -9588,7 +9588,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "BARVIDA",
@@ -9603,7 +9603,7 @@
                 },
                 {
                     "name": "Chinese",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "Bairan",
@@ -9623,7 +9623,7 @@
             "children": [
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "KITAYAMA MONOLITH",
@@ -9638,7 +9638,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.56,
+                    "value": 3.56,
                     "children": [
                         {
                             "name": "Yamabanaheihachidiya",
@@ -9653,7 +9653,7 @@
                 },
                 {
                     "name": "Ryokan",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Apikaruinkyouto",
@@ -9673,7 +9673,7 @@
             "children": [
                 {
                     "name": "Buffet style",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Gyaatei",
@@ -9688,7 +9688,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.365,
+                    "value": 3.365,
                     "children": [
                         {
                             "name": "Arashiyamamitate",
@@ -9712,7 +9712,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Arashiyamataniguchi",
@@ -9727,7 +9727,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Saryouhassui",
@@ -9742,7 +9742,7 @@
                 },
                 {
                     "name": "Tofu",
-                    "rating": 3.36,
+                    "value": 3.36,
                     "children": [
                         {
                             "name": "Yudoufutakemura",
@@ -9775,7 +9775,7 @@
                 },
                 {
                     "name": "Other",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "kyoutoarashiyamagoseiyuunoyadoranzan",
@@ -9795,7 +9795,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Kyouhorumonhana",
@@ -9837,7 +9837,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Shuuhou",
@@ -9857,7 +9857,7 @@
             "children": [
                 {
                     "name": "Bar",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Bar PLAYGROUND",
@@ -9872,7 +9872,7 @@
                 },
                 {
                     "name": "Kappo (Traditional Japanese)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Tarou",
@@ -9887,7 +9887,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.39,
+                    "value": 3.39,
                     "children": [
                         {
                             "name": "Amakudoparadhikambaikan",
@@ -9902,7 +9902,7 @@
                 },
                 {
                     "name": "Ramen",
-                    "rating": 3.425,
+                    "value": 3.425,
                     "children": [
                         {
                             "name": "Zekuu",
@@ -9931,7 +9931,7 @@
             "children": [
                 {
                     "name": "Ryokan",
-                    "rating": 3.42,
+                    "value": 3.42,
                     "children": [
                         {
                             "name": "Kyoutokeburikawa",
@@ -9951,7 +9951,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Taichirouya",
@@ -9966,7 +9966,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Aburiya",
@@ -9986,7 +9986,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Taketorineo",
@@ -10001,7 +10001,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Gokyou",
@@ -10021,7 +10021,7 @@
             "children": [
                 {
                     "name": "Buffet style",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Cafe Lavender",
@@ -10036,7 +10036,7 @@
                 },
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "shikimanzenhanahana",
@@ -10051,7 +10051,7 @@
                 },
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Gurugurudon",
@@ -10066,7 +10066,7 @@
                 },
                 {
                     "name": "Bar",
-                    "rating": 3.29,
+                    "value": 3.29,
                     "children": [
                         {
                             "name": "kaisembarukamebarueito",
@@ -10081,7 +10081,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Gansochikaranikumiyoshi",
@@ -10101,7 +10101,7 @@
             "children": [
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Sumibiyakinikuou",
@@ -10121,7 +10121,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Youfuushuzenumakarou",
@@ -10141,7 +10141,7 @@
             "children": [
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Karibunoutage",
@@ -10161,7 +10161,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Aburaya",
@@ -10176,7 +10176,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.42,
+                    "value": 3.42,
                     "children": [
                         {
                             "name": "Satsumayakinikukurozakurakurozakura",
@@ -10191,7 +10191,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "THE ROCKIN' HEARTS",
@@ -10215,7 +10215,7 @@
                 },
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.0549999999999997,
+                    "value": 3.0549999999999997,
                     "children": [
                         {
                             "name": "Chikurin",
@@ -10239,7 +10239,7 @@
                 },
                 {
                     "name": "Sweets",
-                    "rating": 3.58,
+                    "value": 3.58,
                     "children": [
                         {
                             "name": "Itoukyuuemon",
@@ -10254,7 +10254,7 @@
                 },
                 {
                     "name": "Ryokan",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Kyouryouriujigawaryokan",
@@ -10269,7 +10269,7 @@
                 },
                 {
                     "name": "Parfait",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "tsujiriheehonten",
@@ -10289,7 +10289,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.025,
+                    "value": 3.025,
                     "children": [
                         {
                             "name": "LOBUTA",
@@ -10313,7 +10313,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Seichuuan",
@@ -10328,7 +10328,7 @@
                 },
                 {
                     "name": "Sichuan Cuisine",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ryuumon",
@@ -10343,7 +10343,7 @@
                 },
                 {
                     "name": "Takoyaki",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "takoyakimihashiya",
@@ -10363,7 +10363,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Chikyuuizakayashibuya",
@@ -10378,7 +10378,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.035,
+                    "value": 3.035,
                     "children": [
                         {
                             "name": "yakinikuyaruki",
@@ -10407,7 +10407,7 @@
             "children": [
                 {
                     "name": "Italian",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "pino",
@@ -10422,7 +10422,7 @@
                 },
                 {
                     "name": "Spain",
-                    "rating": 3.28,
+                    "value": 3.28,
                     "children": [
                         {
                             "name": "supeimbarurapaera",
@@ -10437,7 +10437,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Erudoru",
@@ -10457,7 +10457,7 @@
             "children": [
                 {
                     "name": "Italian",
-                    "rating": 3.295,
+                    "value": 3.295,
                     "children": [
                         {
                             "name": "Risutoranteazekura",
@@ -10481,7 +10481,7 @@
                 },
                 {
                     "name": "French",
-                    "rating": 3.39,
+                    "value": 3.39,
                     "children": [
                         {
                             "name": "Kaiseitei",
@@ -10496,7 +10496,7 @@
                 },
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Kitayamafuurin",
@@ -10511,7 +10511,7 @@
                 },
                 {
                     "name": "Kushi-age (Fried Skewer)",
-                    "rating": 3.44,
+                    "value": 3.44,
                     "children": [
                         {
                             "name": "Kushiagetoshiko",
@@ -10531,7 +10531,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Torimasa",
@@ -10551,7 +10551,7 @@
             "children": [
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Yakinikunonki",
@@ -10566,7 +10566,7 @@
                 },
                 {
                     "name": "Cafe",
-                    "rating": 3.33,
+                    "value": 3.33,
                     "children": [
                         {
                             "name": "Kunseimaketto",
@@ -10586,7 +10586,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Bunta",
@@ -10606,7 +10606,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "burassuri-kontowa-ru",
@@ -10639,7 +10639,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Norakuro",
@@ -10654,7 +10654,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "Kankokusakuratei",
@@ -10674,7 +10674,7 @@
             "children": [
                 {
                     "name": "Kyoto Cuisine",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Manchou",
@@ -10694,7 +10694,7 @@
             "children": [
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "yakinikuyaruki",
@@ -10709,7 +10709,7 @@
                 },
                 {
                     "name": "Ramen",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "chuukasobatakayasu",
@@ -10729,7 +10729,7 @@
             "children": [
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Teppen",
@@ -10744,7 +10744,7 @@
                 },
                 {
                     "name": "Italian",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Al Vere",
@@ -10759,7 +10759,7 @@
                 },
                 {
                     "name": "Dining bar",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Kyoumachibaru",
@@ -10779,7 +10779,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Torishinoguraten",
@@ -10794,7 +10794,7 @@
                 },
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Saikouchou",
@@ -10809,7 +10809,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Kaiuntei",
@@ -10824,7 +10824,7 @@
                 },
                 {
                     "name": "Korean cuisine",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Kaiuntei",
@@ -10844,7 +10844,7 @@
             "children": [
                 {
                     "name": "Chinese",
-                    "rating": 3.2,
+                    "value": 3.2,
                     "children": [
                         {
                             "name": "Miyakohanten",
@@ -10864,7 +10864,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Kirarazaka",
@@ -10879,7 +10879,7 @@
                 },
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "yakinikushokudoukandon",
@@ -10899,7 +10899,7 @@
             "children": [
                 {
                     "name": "Buffet style",
-                    "rating": 3.0149999999999997,
+                    "value": 3.0149999999999997,
                     "children": [
                         {
                             "name": "Shunsaisousakubifferoan",
@@ -10928,7 +10928,7 @@
             "children": [
                 {
                     "name": "Cafe",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "kodawaritamagosemmontentamagoya",
@@ -10948,7 +10948,7 @@
             "children": [
                 {
                     "name": "table d'h\u00f4te",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Hairaitoshiyokudou",
@@ -10968,7 +10968,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.23,
+                    "value": 3.23,
                     "children": [
                         {
                             "name": "Genkiya",
@@ -10983,7 +10983,7 @@
                 },
                 {
                     "name": "Yakitori (Grilled chicken)",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Sumibiyakitorikajian",
@@ -11003,7 +11003,7 @@
             "children": [
                 {
                     "name": "Okonomiyaki",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Gurumatei",
@@ -11023,7 +11023,7 @@
             "children": [
                 {
                     "name": "Chinese",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Jounanen",
@@ -11043,7 +11043,7 @@
             "children": [
                 {
                     "name": "Ryokan",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Shourenkanyoshinoya",
@@ -11063,7 +11063,7 @@
             "children": [
                 {
                     "name": "Yakiniku (BBQ Beef)",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Ichiyoshi",
@@ -11083,7 +11083,7 @@
             "children": [
                 {
                     "name": "Kaiseki (Traditional Japanese)",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "Toretatedaininguyagyuu",
@@ -11103,7 +11103,7 @@
             "children": [
                 {
                     "name": "Tofu",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Yubasen",
@@ -11123,7 +11123,7 @@
             "children": [
                 {
                     "name": "Izakaya (Tavern)",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Waraku",

@@ -6,7 +6,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.306666666666666,
+                    "value": 3.306666666666666,
                     "children": [
                         {
                             "name": "Orudeidainingurajou",
@@ -66,7 +66,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Kyounishikiobanzaibyuffehinataya",
@@ -81,7 +81,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "THE BUFFET STYLE SARA",
@@ -96,7 +96,7 @@
                 },
                 {
                     "name": "Keihan Yamashina",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "Buraitonkicchin",
@@ -111,7 +111,7 @@
                 },
                 {
                     "name": "Arashiyama",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Gyaatei",
@@ -126,7 +126,7 @@
                 },
                 {
                     "name": "Nijo",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Cafe Lavender",
@@ -141,7 +141,7 @@
                 },
                 {
                     "name": "Yawatashi",
-                    "rating": 3.0149999999999997,
+                    "value": 3.0149999999999997,
                     "children": [
                         {
                             "name": "Shunsaisousakubifferoan",
@@ -170,7 +170,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Furenchiman",
@@ -185,7 +185,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.306666666666667,
+                    "value": 3.306666666666667,
                     "children": [
                         {
                             "name": "Steak Frites Gaspard zinzin",
@@ -218,7 +218,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "TENTATION",
@@ -242,7 +242,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "FORTUNE GARDEN KYOTO",
@@ -257,7 +257,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.58,
+                    "value": 3.58,
                     "children": [
                         {
                             "name": "Ranka",
@@ -272,7 +272,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.48,
+                    "value": 3.48,
                     "children": [
                         {
                             "name": "Bisutoroemuiaru",
@@ -287,7 +287,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.45,
+                    "value": 3.45,
                     "children": [
                         {
                             "name": "BISTRO BAR A VIN  C",
@@ -311,7 +311,7 @@
                 },
                 {
                     "name": "Demachiyanagi",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Ashuckurk",
@@ -331,7 +331,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.095135135135135,
+                    "value": 3.095135135135135,
                     "children": [
                         {
                             "name": "Izakayabambu",
@@ -670,7 +670,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.1117241379310343,
+                    "value": 3.1117241379310343,
                     "children": [
                         {
                             "name": "nishikimachinoakarishoutengai",
@@ -937,7 +937,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.061764705882353,
+                    "value": 3.061764705882353,
                     "children": [
                         {
                             "name": "KAZUMA",
@@ -1096,7 +1096,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.0933333333333337,
+                    "value": 3.0933333333333337,
                     "children": [
                         {
                             "name": "Togiya",
@@ -1156,7 +1156,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.1818181818181817,
+                    "value": 3.1818181818181817,
                     "children": [
                         {
                             "name": "Sumika",
@@ -1360,7 +1360,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.1290909090909094,
+                    "value": 3.1290909090909094,
                     "children": [
                         {
                             "name": "Ishibekoujimamecha",
@@ -1465,7 +1465,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.209090909090909,
+                    "value": 3.209090909090909,
                     "children": [
                         {
                             "name": "Shuteimichiya",
@@ -1570,7 +1570,7 @@
                 },
                 {
                     "name": "Saiin",
-                    "rating": 3.1725,
+                    "value": 3.1725,
                     "children": [
                         {
                             "name": "Chizutakkarubitonichinandorisachi",
@@ -1612,7 +1612,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "ANAGOYA NORESORE",
@@ -1636,7 +1636,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.186842105263158,
+                    "value": 3.186842105263158,
                     "children": [
                         {
                             "name": "Ichifuji",
@@ -1813,7 +1813,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.25,
+                    "value": 3.25,
                     "children": [
                         {
                             "name": "Sanji",
@@ -1837,7 +1837,7 @@
                 },
                 {
                     "name": "Gojo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "sakesakanatanagokoro",
@@ -1852,7 +1852,7 @@
                 },
                 {
                     "name": "Shijo Omiya",
-                    "rating": 3.1719999999999997,
+                    "value": 3.1719999999999997,
                     "children": [
                         {
                             "name": "Izakayashinoomiya",
@@ -1903,7 +1903,7 @@
                 },
                 {
                     "name": "Keihan Yamashina",
-                    "rating": 3.032222222222222,
+                    "value": 3.032222222222222,
                     "children": [
                         {
                             "name": "Nikokubaru",
@@ -1990,7 +1990,7 @@
                 },
                 {
                     "name": "Katsura",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Kyuushuunecchuuya",
@@ -2005,7 +2005,7 @@
                 },
                 {
                     "name": "Fukakusa",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Momojirou",
@@ -2020,7 +2020,7 @@
                 },
                 {
                     "name": "Fushimi Momoyama",
-                    "rating": 3.0375,
+                    "value": 3.0375,
                     "children": [
                         {
                             "name": "nihonshusumiyakiyaiki",
@@ -2062,7 +2062,7 @@
                 },
                 {
                     "name": "Uzumasa Tenjingawa",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Taishuusakabatenuzumasatenjingawaten",
@@ -2077,7 +2077,7 @@
                 },
                 {
                     "name": "Sai",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "ajidokorosamon",
@@ -2092,7 +2092,7 @@
                 },
                 {
                     "name": "Omiya",
-                    "rating": 3.1625,
+                    "value": 3.1625,
                     "children": [
                         {
                             "name": "YAMAMURA GYUUBEI",
@@ -2134,7 +2134,7 @@
                 },
                 {
                     "name": "Nishi Maizuru",
-                    "rating": 3.1633333333333336,
+                    "value": 3.1633333333333336,
                     "children": [
                         {
                             "name": "ryoushigoya",
@@ -2167,7 +2167,7 @@
                 },
                 {
                     "name": "Demachiyanagi",
-                    "rating": 3.0199999999999996,
+                    "value": 3.0199999999999996,
                     "children": [
                         {
                             "name": "rakuenzakayaannachuraru",
@@ -2200,7 +2200,7 @@
                 },
                 {
                     "name": "Fushimi",
-                    "rating": 3.17,
+                    "value": 3.17,
                     "children": [
                         {
                             "name": "sakanaryouritosakeshinsengumi",
@@ -2224,7 +2224,7 @@
                 },
                 {
                     "name": "Fujinomori",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "gochisouizakayaippaiippai",
@@ -2239,7 +2239,7 @@
                 },
                 {
                     "name": "Kitano Hakubaicho",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "momojirouichiba",
@@ -2254,7 +2254,7 @@
                 },
                 {
                     "name": "Nishioji Oike",
-                    "rating": 3.01,
+                    "value": 3.01,
                     "children": [
                         {
                             "name": "Hanatanuki",
@@ -2269,7 +2269,7 @@
                 },
                 {
                     "name": "Higashi Maizuru",
-                    "rating": 3.073333333333333,
+                    "value": 3.073333333333333,
                     "children": [
                         {
                             "name": "Himiko",
@@ -2302,7 +2302,7 @@
                 },
                 {
                     "name": "Jingu Marutamachi",
-                    "rating": 3.17,
+                    "value": 3.17,
                     "children": [
                         {
                             "name": "YURURI",
@@ -2317,7 +2317,7 @@
                 },
                 {
                     "name": "Chushojima",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Teppankushiyakisakura",
@@ -2332,7 +2332,7 @@
                 },
                 {
                     "name": "Shichijo",
-                    "rating": 3.115,
+                    "value": 3.115,
                     "children": [
                         {
                             "name": "Sousakukoshitsuizakayasugiurakyoutoekimaeshichijouten",
@@ -2356,7 +2356,7 @@
                 },
                 {
                     "name": "Emmachi",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Iorisantouka",
@@ -2371,7 +2371,7 @@
                 },
                 {
                     "name": "Kitaoji",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "kyoutoebisuya",
@@ -2386,7 +2386,7 @@
                 },
                 {
                     "name": "Kujo",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Kyouhorumonhana",
@@ -2428,7 +2428,7 @@
                 },
                 {
                     "name": "Nishikyogoku",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Taichirouya",
@@ -2443,7 +2443,7 @@
                 },
                 {
                     "name": "Kuramaguchi",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Taketorineo",
@@ -2458,7 +2458,7 @@
                 },
                 {
                     "name": "Nijo",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "shikimanzenhanahana",
@@ -2473,7 +2473,7 @@
                 },
                 {
                     "name": "Higashi Muko",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Youfuushuzenumakarou",
@@ -2488,7 +2488,7 @@
                 },
                 {
                     "name": "Uji",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Aburaya",
@@ -2503,7 +2503,7 @@
                 },
                 {
                     "name": "Mototanaka",
-                    "rating": 3.025,
+                    "value": 3.025,
                     "children": [
                         {
                             "name": "LOBUTA",
@@ -2527,7 +2527,7 @@
                 },
                 {
                     "name": "Nagitsuji",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Chikyuuizakayashibuya",
@@ -2542,7 +2542,7 @@
                 },
                 {
                     "name": "Kutsukawa",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Torimasa",
@@ -2557,7 +2557,7 @@
                 },
                 {
                     "name": "Nagaoka Tenjin",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Bunta",
@@ -2572,7 +2572,7 @@
                 },
                 {
                     "name": "Nishioji",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "burassuri-kontowa-ru",
@@ -2605,7 +2605,7 @@
                 },
                 {
                     "name": "Ogura",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Torishinoguraten",
@@ -2620,7 +2620,7 @@
                 },
                 {
                     "name": "Matsuiyamate",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Kirarazaka",
@@ -2635,7 +2635,7 @@
                 },
                 {
                     "name": "Nagaokakyo",
-                    "rating": 3.23,
+                    "value": 3.23,
                     "children": [
                         {
                             "name": "Genkiya",
@@ -2650,7 +2650,7 @@
                 },
                 {
                     "name": "Fukuchiyama",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Waraku",
@@ -2670,7 +2670,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.065,
+                    "value": 3.065,
                     "children": [
                         {
                             "name": "Chabana",
@@ -2694,7 +2694,7 @@
                 },
                 {
                     "name": "Tambaguchi",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "okonomiyakiteppanyakimiki",
@@ -2709,7 +2709,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Yumeya",
@@ -2733,7 +2733,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.065,
+                    "value": 3.065,
                     "children": [
                         {
                             "name": "Shougetsu",
@@ -2757,7 +2757,7 @@
                 },
                 {
                     "name": "Sai",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Mossannobetayaki",
@@ -2772,7 +2772,7 @@
                 },
                 {
                     "name": "Omiya",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Arata",
@@ -2787,7 +2787,7 @@
                 },
                 {
                     "name": "Nijo",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Gurugurudon",
@@ -2802,7 +2802,7 @@
                 },
                 {
                     "name": "Momoyamagoryomae",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Teppen",
@@ -2817,7 +2817,7 @@
                 },
                 {
                     "name": "Shin Tanabe",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Gurumatei",
@@ -2837,7 +2837,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "Shaofeiyan",
@@ -2857,7 +2857,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.301428571428572,
+                    "value": 3.301428571428572,
                     "children": [
                         {
                             "name": "okuta-va",
@@ -2926,7 +2926,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "Haiborubakyoutokarasumaichikyuuniisan",
@@ -2977,7 +2977,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.0999999999999996,
+                    "value": 3.0999999999999996,
                     "children": [
                         {
                             "name": "Kenedhikurabu",
@@ -3019,7 +3019,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.0766666666666667,
+                    "value": 3.0766666666666667,
                     "children": [
                         {
                             "name": "Setsugekka",
@@ -3052,7 +3052,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.2039999999999997,
+                    "value": 3.2039999999999997,
                     "children": [
                         {
                             "name": "biakicchinnikubarujikabiyajikabiya",
@@ -3103,7 +3103,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.15625,
+                    "value": 3.15625,
                     "children": [
                         {
                             "name": "In the Soup.",
@@ -3181,7 +3181,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.2175,
+                    "value": 3.2175,
                     "children": [
                         {
                             "name": "Bejotamuamua",
@@ -3223,7 +3223,7 @@
                 },
                 {
                     "name": "Saiin",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Kaitoshirowainnobarukakimaru",
@@ -3247,7 +3247,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "SinSin",
@@ -3262,7 +3262,7 @@
                 },
                 {
                     "name": "Gojo",
-                    "rating": 3.57,
+                    "value": 3.57,
                     "children": [
                         {
                             "name": "Baruagiyao",
@@ -3277,7 +3277,7 @@
                 },
                 {
                     "name": "Sai",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Taishuunikubarujuu",
@@ -3292,7 +3292,7 @@
                 },
                 {
                     "name": "Imadegawa",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Bar PLAYGROUND",
@@ -3307,7 +3307,7 @@
                 },
                 {
                     "name": "Nijo",
-                    "rating": 3.29,
+                    "value": 3.29,
                     "children": [
                         {
                             "name": "kaisembarukamebarueito",
@@ -3327,7 +3327,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.0975,
+                    "value": 3.0975,
                     "children": [
                         {
                             "name": "Daniel's Luce",
@@ -3405,7 +3405,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.295555555555555,
+                    "value": 3.295555555555555,
                     "children": [
                         {
                             "name": "Trattoria La Pace",
@@ -3492,7 +3492,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Resort dining&bar HaLe",
@@ -3507,7 +3507,7 @@
                 },
                 {
                     "name": "Tambaguchi",
-                    "rating": 3.0549999999999997,
+                    "value": 3.0549999999999997,
                     "children": [
                         {
                             "name": "REAL NETA DINING ICHIZ",
@@ -3531,7 +3531,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.1300000000000003,
+                    "value": 3.1300000000000003,
                     "children": [
                         {
                             "name": "STRADA",
@@ -3564,7 +3564,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.3040000000000007,
+                    "value": 3.3040000000000007,
                     "children": [
                         {
                             "name": "Pizzeria e Bar La Voce",
@@ -3615,7 +3615,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.428,
+                    "value": 3.428,
                     "children": [
                         {
                             "name": "Zasoudouhigashiyamakyouto",
@@ -3711,7 +3711,7 @@
                 },
                 {
                     "name": "Sanjo Keihan",
-                    "rating": 3.85,
+                    "value": 3.85,
                     "children": [
                         {
                             "name": "gionni-yongo",
@@ -3726,7 +3726,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Italian bar Lugol",
@@ -3777,7 +3777,7 @@
                 },
                 {
                     "name": "Saiin",
-                    "rating": 3.0700000000000003,
+                    "value": 3.0700000000000003,
                     "children": [
                         {
                             "name": "itariandainingutoreotto",
@@ -3810,7 +3810,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.4214285714285713,
+                    "value": 3.4214285714285713,
                     "children": [
                         {
                             "name": "Charcoal",
@@ -3879,7 +3879,7 @@
                 },
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.44,
+                    "value": 3.44,
                     "children": [
                         {
                             "name": "Torattoriaviare",
@@ -3894,7 +3894,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.41,
+                    "value": 3.41,
                     "children": [
                         {
                             "name": "ITALIAN BAR MODERNTIMES",
@@ -3927,7 +3927,7 @@
                 },
                 {
                     "name": "Jujo",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Gori's Kitchen",
@@ -3942,7 +3942,7 @@
                 },
                 {
                     "name": "Higashiyama",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Occobe.",
@@ -3957,7 +3957,7 @@
                 },
                 {
                     "name": "Gojo",
-                    "rating": 3.2350000000000003,
+                    "value": 3.2350000000000003,
                     "children": [
                         {
                             "name": "waintoonikudaisen",
@@ -3981,7 +3981,7 @@
                 },
                 {
                     "name": "Keihan Yamashina",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Fesshimon",
@@ -3996,7 +3996,7 @@
                 },
                 {
                     "name": "Omiya",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "itariambarutoreotto",
@@ -4011,7 +4011,7 @@
                 },
                 {
                     "name": "Nishi Maizuru",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Ameirobisutoroaruru",
@@ -4026,7 +4026,7 @@
                 },
                 {
                     "name": "Shichijo",
-                    "rating": 3.57,
+                    "value": 3.57,
                     "children": [
                         {
                             "name": "trattoria sette",
@@ -4041,7 +4041,7 @@
                 },
                 {
                     "name": "Matsugasaki",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "pino",
@@ -4056,7 +4056,7 @@
                 },
                 {
                     "name": "Kitayama",
-                    "rating": 3.295,
+                    "value": 3.295,
                     "children": [
                         {
                             "name": "Risutoranteazekura",
@@ -4080,7 +4080,7 @@
                 },
                 {
                     "name": "Nishioji",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Norakuro",
@@ -4095,7 +4095,7 @@
                 },
                 {
                     "name": "Momoyamagoryomae",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Al Vere",
@@ -4115,7 +4115,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.125,
+                    "value": 3.125,
                     "children": [
                         {
                             "name": "furenchidainingutoppuobukyouto",
@@ -4139,7 +4139,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.3049999999999997,
+                    "value": 3.3049999999999997,
                     "children": [
                         {
                             "name": "Furenchibado",
@@ -4163,7 +4163,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.4,
+                    "value": 3.4,
                     "children": [
                         {
                             "name": "Rejon",
@@ -4178,7 +4178,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.72,
+                    "value": 3.72,
                     "children": [
                         {
                             "name": "Gionabesu",
@@ -4220,7 +4220,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Pierupureshiuzu",
@@ -4235,7 +4235,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.17,
+                    "value": 3.17,
                     "children": [
                         {
                             "name": "Rozurumu",
@@ -4250,7 +4250,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.44,
+                    "value": 3.44,
                     "children": [
                         {
                             "name": "Erushimmachi",
@@ -4265,7 +4265,7 @@
                 },
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Kishouzakura",
@@ -4280,7 +4280,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Kyo gastronomy KOZO",
@@ -4295,7 +4295,7 @@
                 },
                 {
                     "name": "Arashiyama",
-                    "rating": 3.365,
+                    "value": 3.365,
                     "children": [
                         {
                             "name": "Arashiyamamitate",
@@ -4319,7 +4319,7 @@
                 },
                 {
                     "name": "Mototanaka",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Seichuuan",
@@ -4334,7 +4334,7 @@
                 },
                 {
                     "name": "Kitayama",
-                    "rating": 3.39,
+                    "value": 3.39,
                     "children": [
                         {
                             "name": "Kaiseitei",
@@ -4354,7 +4354,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.0149999999999997,
+                    "value": 3.0149999999999997,
                     "children": [
                         {
                             "name": "Tajimaya",
@@ -4378,7 +4378,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Giongyuuzen",
@@ -4393,7 +4393,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Mumon",
@@ -4408,7 +4408,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Gyuuzen",
@@ -4423,7 +4423,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Kyoutotsuyushabuchiriri",
@@ -4443,7 +4443,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Sukiyakisunibiizakayahokuto",
@@ -4463,7 +4463,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.2,
+                    "value": 3.2,
                     "children": [
                         {
                             "name": "Erupojo",
@@ -4478,7 +4478,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Figerasu",
@@ -4493,7 +4493,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.48,
+                    "value": 3.48,
                     "children": [
                         {
                             "name": "Poquito",
@@ -4517,7 +4517,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "BELLOTA concha",
@@ -4532,7 +4532,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.3200000000000003,
+                    "value": 3.3200000000000003,
                     "children": [
                         {
                             "name": "Figerasu",
@@ -4556,7 +4556,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "bejo-tamucho",
@@ -4571,7 +4571,7 @@
                 },
                 {
                     "name": "Matsugasaki",
-                    "rating": 3.28,
+                    "value": 3.28,
                     "children": [
                         {
                             "name": "supeimbarurapaera",
@@ -4591,7 +4591,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.38,
+                    "value": 3.38,
                     "children": [
                         {
                             "name": "torisemmontenyamadori",
@@ -4606,7 +4606,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.1125,
+                    "value": 3.1125,
                     "children": [
                         {
                             "name": "Izakayariraku",
@@ -4648,7 +4648,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.1333333333333333,
+                    "value": 3.1333333333333333,
                     "children": [
                         {
                             "name": "kushiyakimanten",
@@ -4681,7 +4681,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.1199999999999997,
+                    "value": 3.1199999999999997,
                     "children": [
                         {
                             "name": "Sumibikushiyakitsujiya",
@@ -4714,7 +4714,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Kashiwa",
@@ -4747,7 +4747,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "Sumibikushiyakitsujiya",
@@ -4762,7 +4762,7 @@
                 },
                 {
                     "name": "Okubo",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Karibunoutage",
@@ -4777,7 +4777,7 @@
                 },
                 {
                     "name": "Ogura",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Saikouchou",
@@ -4792,7 +4792,7 @@
                 },
                 {
                     "name": "Nagaokakyo",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Sumibiyakitorikajian",
@@ -4812,7 +4812,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.64,
+                    "value": 3.64,
                     "children": [
                         {
                             "name": "kyoutohyouto",
@@ -4827,7 +4827,7 @@
                 },
                 {
                     "name": "Fukakusa",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Kyouwasabi",
@@ -4847,7 +4847,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.255,
+                    "value": 3.255,
                     "children": [
                         {
                             "name": "Washokumai",
@@ -4871,7 +4871,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.3049999999999997,
+                    "value": 3.3049999999999997,
                     "children": [
                         {
                             "name": "Komefuku",
@@ -4895,7 +4895,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Komefuku",
@@ -4910,7 +4910,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "sumibiyakiyasaiyaoki",
@@ -4925,7 +4925,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Tempurashinjukutsunahachi",
@@ -4940,7 +4940,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.385,
+                    "value": 3.385,
                     "children": [
                         {
                             "name": "Kyoutogiontempurayasakaendou",
@@ -4964,7 +4964,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Tempurabaruharuichi",
@@ -4979,7 +4979,7 @@
                 },
                 {
                     "name": "Higashiyama",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Kyoutotempuraendou",
@@ -4994,7 +4994,7 @@
                 },
                 {
                     "name": "Katsuragawa",
-                    "rating": 3.56,
+                    "value": 3.56,
                     "children": [
                         {
                             "name": "Tempurakawatatsu",
@@ -5014,7 +5014,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.085,
+                    "value": 3.085,
                     "children": [
                         {
                             "name": "Jukuseiyakinikupondo",
@@ -5056,7 +5056,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.1933333333333334,
+                    "value": 3.1933333333333334,
                     "children": [
                         {
                             "name": "Ittetsugurache",
@@ -5089,7 +5089,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.177142857142857,
+                    "value": 3.177142857142857,
                     "children": [
                         {
                             "name": "nikuyanodaidokoro",
@@ -5158,7 +5158,7 @@
                 },
                 {
                     "name": "Tambaguchi",
-                    "rating": 3.3433333333333333,
+                    "value": 3.3433333333333333,
                     "children": [
                         {
                             "name": "Yakinikusebun",
@@ -5191,7 +5191,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Yakinikudainingukinoe",
@@ -5215,7 +5215,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.165,
+                    "value": 3.165,
                     "children": [
                         {
                             "name": "Banikuryourisemmontenumayarou",
@@ -5311,7 +5311,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.1457142857142855,
+                    "value": 3.1457142857142855,
                     "children": [
                         {
                             "name": "Gionyakinikukokoro",
@@ -5380,7 +5380,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.34,
+                    "value": 3.34,
                     "children": [
                         {
                             "name": "Idutsuya",
@@ -5422,7 +5422,7 @@
                 },
                 {
                     "name": "Saiin",
-                    "rating": 3.13,
+                    "value": 3.13,
                     "children": [
                         {
                             "name": "Daikokuebisu",
@@ -5464,7 +5464,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "Gyuurakutei",
@@ -5488,7 +5488,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.23,
+                    "value": 3.23,
                     "children": [
                         {
                             "name": "Kurogewagyuutenshou",
@@ -5521,7 +5521,7 @@
                 },
                 {
                     "name": "Jujo",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Gokyou",
@@ -5545,7 +5545,7 @@
                 },
                 {
                     "name": "Shijo Omiya",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "jukuseiyakinikupondo",
@@ -5569,7 +5569,7 @@
                 },
                 {
                     "name": "Katsura",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "Kaiuntei",
@@ -5584,7 +5584,7 @@
                 },
                 {
                     "name": "Rokujizo",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Yakinikusakayaisshin",
@@ -5608,7 +5608,7 @@
                 },
                 {
                     "name": "Chayama",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Yakinikuichiba",
@@ -5623,7 +5623,7 @@
                 },
                 {
                     "name": "Sai",
-                    "rating": 3.155,
+                    "value": 3.155,
                     "children": [
                         {
                             "name": "HOMURA",
@@ -5647,7 +5647,7 @@
                 },
                 {
                     "name": "Omiya",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Nikumon",
@@ -5680,7 +5680,7 @@
                 },
                 {
                     "name": "Fushimi",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "yakinikuyaruki",
@@ -5695,7 +5695,7 @@
                 },
                 {
                     "name": "Higashi Maizuru",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "yakinikuajidouraku",
@@ -5710,7 +5710,7 @@
                 },
                 {
                     "name": "Jingu Marutamachi",
-                    "rating": 3.585,
+                    "value": 3.585,
                     "children": [
                         {
                             "name": "Yakinikuyoshimi",
@@ -5734,7 +5734,7 @@
                 },
                 {
                     "name": "Shichijo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Nikuyasuzu",
@@ -5758,7 +5758,7 @@
                 },
                 {
                     "name": "Kitaoji",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Shichirinya",
@@ -5782,7 +5782,7 @@
                 },
                 {
                     "name": "Kujo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Shuuhou",
@@ -5797,7 +5797,7 @@
                 },
                 {
                     "name": "Nishikyogoku",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Aburiya",
@@ -5812,7 +5812,7 @@
                 },
                 {
                     "name": "Kuramaguchi",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Gokyou",
@@ -5827,7 +5827,7 @@
                 },
                 {
                     "name": "Nijo",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Gansochikaranikumiyoshi",
@@ -5842,7 +5842,7 @@
                 },
                 {
                     "name": "Uji",
-                    "rating": 3.42,
+                    "value": 3.42,
                     "children": [
                         {
                             "name": "Satsumayakinikukurozakurakurozakura",
@@ -5857,7 +5857,7 @@
                 },
                 {
                     "name": "Nagitsuji",
-                    "rating": 3.035,
+                    "value": 3.035,
                     "children": [
                         {
                             "name": "yakinikuyaruki",
@@ -5881,7 +5881,7 @@
                 },
                 {
                     "name": "Matsugasaki",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Erudoru",
@@ -5896,7 +5896,7 @@
                 },
                 {
                     "name": "Higashino",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Yakinikunonki",
@@ -5911,7 +5911,7 @@
                 },
                 {
                     "name": "Nishioji",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "Kankokusakuratei",
@@ -5926,7 +5926,7 @@
                 },
                 {
                     "name": "Ichijoji",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "yakinikuyaruki",
@@ -5941,7 +5941,7 @@
                 },
                 {
                     "name": "Ogura",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Kaiuntei",
@@ -5956,7 +5956,7 @@
                 },
                 {
                     "name": "Matsuiyamate",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "yakinikushokudoukandon",
@@ -5971,7 +5971,7 @@
                 },
                 {
                     "name": "Kyotanabe",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Ichiyoshi",
@@ -5991,7 +5991,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "teppanyakiaoi",
@@ -6006,7 +6006,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "guridorufo-suitsuraku",
@@ -6021,7 +6021,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.3066666666666666,
+                    "value": 3.3066666666666666,
                     "children": [
                         {
                             "name": "teppandainingukyoushikian",
@@ -6054,7 +6054,7 @@
                 },
                 {
                     "name": "Saiin",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Teppansakuwan",
@@ -6069,7 +6069,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Nijou",
@@ -6084,7 +6084,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "kyoutoteppantachibana",
@@ -6108,7 +6108,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.23,
+                    "value": 3.23,
                     "children": [
                         {
                             "name": "L'ajitto",
@@ -6123,7 +6123,7 @@
                 },
                 {
                     "name": "Gojo",
-                    "rating": 3.47,
+                    "value": 3.47,
                     "children": [
                         {
                             "name": "Teppanryourihanaroku",
@@ -6143,7 +6143,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.45,
+                    "value": 3.45,
                     "children": [
                         {
                             "name": "Ajirokkon",
@@ -6158,7 +6158,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "uotanafumibun",
@@ -6173,7 +6173,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.4749999999999996,
+                    "value": 3.4749999999999996,
                     "children": [
                         {
                             "name": "Aritsune",
@@ -6197,7 +6197,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.420769230769231,
+                    "value": 3.420769230769231,
                     "children": [
                         {
                             "name": "daininguba-daburyu-",
@@ -6320,7 +6320,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Higashinotouinsou",
@@ -6344,7 +6344,7 @@
                 },
                 {
                     "name": "Saiin",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Tatsumi",
@@ -6359,7 +6359,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "jikidoukagura",
@@ -6383,7 +6383,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.3266666666666667,
+                    "value": 3.3266666666666667,
                     "children": [
                         {
                             "name": "Kyoutonijoutosaka",
@@ -6416,7 +6416,7 @@
                 },
                 {
                     "name": "Gojo",
-                    "rating": 3.42,
+                    "value": 3.42,
                     "children": [
                         {
                             "name": "Kinugawa",
@@ -6431,7 +6431,7 @@
                 },
                 {
                     "name": "Fushimi Momoyama",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Tsukinokurabito",
@@ -6446,7 +6446,7 @@
                 },
                 {
                     "name": "Jingu Marutamachi",
-                    "rating": 3.1,
+                    "value": 3.1,
                     "children": [
                         {
                             "name": "Rakuzenkakinuma",
@@ -6461,7 +6461,7 @@
                 },
                 {
                     "name": "Kitaoji",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Shunsaifujii",
@@ -6476,7 +6476,7 @@
                 },
                 {
                     "name": "Imadegawa",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Tarou",
@@ -6496,7 +6496,7 @@
             "children": [
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Peppa",
@@ -6511,7 +6511,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Aguuru",
@@ -6526,7 +6526,7 @@
                 },
                 {
                     "name": "Nishi Maizuru",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Ryuuhourakuenchura",
@@ -6546,7 +6546,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Ichibakouji",
@@ -6570,7 +6570,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.18,
+                    "value": 3.18,
                     "children": [
                         {
                             "name": "SPOON",
@@ -6585,7 +6585,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.1340000000000003,
+                    "value": 3.1340000000000003,
                     "children": [
                         {
                             "name": "Sunny",
@@ -6636,7 +6636,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.048,
+                    "value": 3.048,
                     "children": [
                         {
                             "name": "Nosutarujia",
@@ -6687,7 +6687,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Supuringubareburuwarikyouto",
@@ -6702,7 +6702,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.235,
+                    "value": 3.235,
                     "children": [
                         {
                             "name": "Kuragarimasa",
@@ -6726,7 +6726,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "BEER PUB Takumiya",
@@ -6741,7 +6741,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.0399999999999996,
+                    "value": 3.0399999999999996,
                     "children": [
                         {
                             "name": "Takishokudou",
@@ -6774,7 +6774,7 @@
                 },
                 {
                     "name": "Fushimi Momoyama",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ajoiichanchi",
@@ -6789,7 +6789,7 @@
                 },
                 {
                     "name": "Jingu Marutamachi",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Ilifune",
@@ -6804,7 +6804,7 @@
                 },
                 {
                     "name": "Katsuragawa",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "BARVIDA",
@@ -6819,7 +6819,7 @@
                 },
                 {
                     "name": "Uji",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "THE ROCKIN' HEARTS",
@@ -6843,7 +6843,7 @@
                 },
                 {
                     "name": "Momoyamagoryomae",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Kyoumachibaru",
@@ -6863,7 +6863,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Shusaijoujou",
@@ -6878,7 +6878,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.245,
+                    "value": 3.245,
                     "children": [
                         {
                             "name": "Mimasuyamonami",
@@ -6902,7 +6902,7 @@
                 },
                 {
                     "name": "Fushimi Momoyama",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Enrian",
@@ -6922,7 +6922,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.41,
+                    "value": 3.41,
                     "children": [
                         {
                             "name": "Ajidokoroterasaki",
@@ -6955,7 +6955,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Hamachou",
@@ -6979,7 +6979,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.5066666666666664,
+                    "value": 3.5066666666666664,
                     "children": [
                         {
                             "name": "Ganko",
@@ -7012,7 +7012,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.3000000000000003,
+                    "value": 3.3000000000000003,
                     "children": [
                         {
                             "name": "Manjirou",
@@ -7072,7 +7072,7 @@
                 },
                 {
                     "name": "Sanjo Keihan",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Gionyuyama",
@@ -7087,7 +7087,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.18,
+                    "value": 3.18,
                     "children": [
                         {
                             "name": "Unkai",
@@ -7102,7 +7102,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "tounyuutonshabutoratarou",
@@ -7117,7 +7117,7 @@
                 },
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.6,
+                    "value": 3.6,
                     "children": [
                         {
                             "name": "Harise",
@@ -7132,7 +7132,7 @@
                 },
                 {
                     "name": "Higashiyama",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Isobe",
@@ -7147,7 +7147,7 @@
                 },
                 {
                     "name": "Gojo",
-                    "rating": 3.63,
+                    "value": 3.63,
                     "children": [
                         {
                             "name": "chisouyouga",
@@ -7162,7 +7162,7 @@
                 },
                 {
                     "name": "Demachiyanagi",
-                    "rating": 3.6533333333333338,
+                    "value": 3.6533333333333338,
                     "children": [
                         {
                             "name": "Teramachiyoshikura",
@@ -7195,7 +7195,7 @@
                 },
                 {
                     "name": "Kurama",
-                    "rating": 3.5499999999999994,
+                    "value": 3.5499999999999994,
                     "children": [
                         {
                             "name": "Hiroya",
@@ -7228,7 +7228,7 @@
                 },
                 {
                     "name": "Shugakuin",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "KITAYAMA MONOLITH",
@@ -7243,7 +7243,7 @@
                 },
                 {
                     "name": "Arashiyama",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Arashiyamataniguchi",
@@ -7258,7 +7258,7 @@
                 },
                 {
                     "name": "Kitayama",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Kitayamafuurin",
@@ -7273,7 +7273,7 @@
                 },
                 {
                     "name": "Narayama",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "Toretatedaininguyagyuu",
@@ -7293,7 +7293,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "chuugokuryourikoukaryuuhou",
@@ -7308,7 +7308,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Rakusenrou",
@@ -7323,7 +7323,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.383333333333333,
+                    "value": 3.383333333333333,
                     "children": [
                         {
                             "name": "chuugokuryourichimmin",
@@ -7356,7 +7356,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Karin",
@@ -7371,7 +7371,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.5999999999999996,
+                    "value": 3.5999999999999996,
                     "children": [
                         {
                             "name": "Orudohonkonresutorankyouto",
@@ -7395,7 +7395,7 @@
                 },
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "Shouentei",
@@ -7410,7 +7410,7 @@
                 },
                 {
                     "name": "Higashiyama",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Ryuumon",
@@ -7425,7 +7425,7 @@
                 },
                 {
                     "name": "Emmachi",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Chishokufu",
@@ -7440,7 +7440,7 @@
                 },
                 {
                     "name": "Katsuragawa",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "Bairan",
@@ -7455,7 +7455,7 @@
                 },
                 {
                     "name": "Kuzuha",
-                    "rating": 3.2,
+                    "value": 3.2,
                     "children": [
                         {
                             "name": "Miyakohanten",
@@ -7470,7 +7470,7 @@
                 },
                 {
                     "name": "Takeda",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Jounanen",
@@ -7490,7 +7490,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Eijuan",
@@ -7505,7 +7505,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.4219999999999997,
+                    "value": 3.4219999999999997,
                     "children": [
                         {
                             "name": "Hanasaki",
@@ -7556,7 +7556,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.3259999999999996,
+                    "value": 3.3259999999999996,
                     "children": [
                         {
                             "name": "Pontochourobin",
@@ -7607,7 +7607,7 @@
                 },
                 {
                     "name": "Tambaguchi",
-                    "rating": 3.465,
+                    "value": 3.465,
                     "children": [
                         {
                             "name": "Hachisei",
@@ -7631,7 +7631,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.415,
+                    "value": 3.415,
                     "children": [
                         {
                             "name": "Satsuki",
@@ -7673,7 +7673,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "Tankumakitamise",
@@ -7688,7 +7688,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.310625,
+                    "value": 3.310625,
                     "children": [
                         {
                             "name": "Gionkyouryourihanasaki",
@@ -7838,7 +7838,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.185,
+                    "value": 3.185,
                     "children": [
                         {
                             "name": "Nagomijun",
@@ -7862,7 +7862,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.526666666666667,
+                    "value": 3.526666666666667,
                     "children": [
                         {
                             "name": "Kyouryouritategami",
@@ -7895,7 +7895,7 @@
                 },
                 {
                     "name": "Higashiyama",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Kasuian",
@@ -7910,7 +7910,7 @@
                 },
                 {
                     "name": "Fushimi Momoyama",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ishise",
@@ -7925,7 +7925,7 @@
                 },
                 {
                     "name": "Hanazono",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Hanagokoro",
@@ -7940,7 +7940,7 @@
                 },
                 {
                     "name": "Kurama",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Kifuneugenta",
@@ -7955,7 +7955,7 @@
                 },
                 {
                     "name": "Shugakuin",
-                    "rating": 3.56,
+                    "value": 3.56,
                     "children": [
                         {
                             "name": "Yamabanaheihachidiya",
@@ -7970,7 +7970,7 @@
                 },
                 {
                     "name": "Uji",
-                    "rating": 3.0549999999999997,
+                    "value": 3.0549999999999997,
                     "children": [
                         {
                             "name": "Chikurin",
@@ -7994,7 +7994,7 @@
                 },
                 {
                     "name": "Myoshinji",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Manchou",
@@ -8014,7 +8014,7 @@
             "children": [
                 {
                     "name": "Sanjo",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "GRILL&PUB The NICK STOCK",
@@ -8047,7 +8047,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "LODGE",
@@ -8062,7 +8062,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.1766666666666663,
+                    "value": 3.1766666666666663,
                     "children": [
                         {
                             "name": "Parinijuuikku",
@@ -8095,7 +8095,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "Matsuzakagyuuwattsuzakicchin",
@@ -8146,7 +8146,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "sumibisute-kisakaikyoutosanjou",
@@ -8161,7 +8161,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.2,
+                    "value": 3.2,
                     "children": [
                         {
                             "name": "sute-kihausupondo",
@@ -8181,7 +8181,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "sushidainingudaihachi",
@@ -8196,7 +8196,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Sushiyoshino",
@@ -8211,7 +8211,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.315,
+                    "value": 3.315,
                     "children": [
                         {
                             "name": "Nijoukiduki",
@@ -8235,7 +8235,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.1100000000000003,
+                    "value": 3.1100000000000003,
                     "children": [
                         {
                             "name": "Hikohachi",
@@ -8259,7 +8259,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "SOUDEN",
@@ -8274,7 +8274,7 @@
                 },
                 {
                     "name": "Higashiyama",
-                    "rating": 3.48,
+                    "value": 3.48,
                     "children": [
                         {
                             "name": "Gionemon",
@@ -8289,7 +8289,7 @@
                 },
                 {
                     "name": "Katsura",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Sushidokoroima",
@@ -8304,7 +8304,7 @@
                 },
                 {
                     "name": "Kitaoji",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "Sushikawano",
@@ -8324,7 +8324,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Chanchi",
@@ -8357,7 +8357,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Kampaiboupuruda",
@@ -8372,7 +8372,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.56,
+                    "value": 3.56,
                     "children": [
                         {
                             "name": "Kankokuanjupontochourinanha",
@@ -8387,7 +8387,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ampan",
@@ -8402,7 +8402,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.295,
+                    "value": 3.295,
                     "children": [
                         {
                             "name": "Bejitejiya",
@@ -8426,7 +8426,7 @@
                 },
                 {
                     "name": "Sai",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "KORAN",
@@ -8441,7 +8441,7 @@
                 },
                 {
                     "name": "Fushimi",
-                    "rating": 3.33,
+                    "value": 3.33,
                     "children": [
                         {
                             "name": "karubidontosundoufusemmontenkandon",
@@ -8456,7 +8456,7 @@
                 },
                 {
                     "name": "Nishioji Sanjo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Sumibiyakinikuou",
@@ -8471,7 +8471,7 @@
                 },
                 {
                     "name": "Ogura",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Kaiuntei",
@@ -8491,7 +8491,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.165,
+                    "value": 3.165,
                     "children": [
                         {
                             "name": "Kushinobou",
@@ -8533,7 +8533,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Rakuchin",
@@ -8548,7 +8548,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Aiyoxtsu",
@@ -8563,7 +8563,7 @@
                 },
                 {
                     "name": "Saiin",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Kushikatsutanaka",
@@ -8578,7 +8578,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "arashiyamakushibun",
@@ -8593,7 +8593,7 @@
                 },
                 {
                     "name": "Kitaoji",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Kushiageadachi",
@@ -8608,7 +8608,7 @@
                 },
                 {
                     "name": "Kitayama",
-                    "rating": 3.44,
+                    "value": 3.44,
                     "children": [
                         {
                             "name": "Kushiagetoshiko",
@@ -8628,7 +8628,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "Rinku",
@@ -8643,7 +8643,7 @@
                 },
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "OICHO",
@@ -8658,7 +8658,7 @@
                 },
                 {
                     "name": "Hanazono",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Taketori",
@@ -8678,7 +8678,7 @@
             "children": [
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "unagihitsumabushisumiyagura",
@@ -8698,7 +8698,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Nyavetonamu",
@@ -8713,7 +8713,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.41,
+                    "value": 3.41,
                     "children": [
                         {
                             "name": "Thiemuanfonvietto",
@@ -8733,7 +8733,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.045,
+                    "value": 3.045,
                     "children": [
                         {
                             "name": "hoterukeihankyoutogurandeokujoubiaga-den",
@@ -8762,7 +8762,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "gyouzaba-anzukko",
@@ -8777,7 +8777,7 @@
                 },
                 {
                     "name": "Kitano Hakubaicho",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Gyouzamatsukichi",
@@ -8797,7 +8797,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Shisen",
@@ -8812,7 +8812,7 @@
                 },
                 {
                     "name": "Sanjo Keihan",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "Ryuumon",
@@ -8827,7 +8827,7 @@
                 },
                 {
                     "name": "Omiya",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Machiyashisenhoshitsukiyo",
@@ -8842,7 +8842,7 @@
                 },
                 {
                     "name": "Mototanaka",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ryuumon",
@@ -8862,7 +8862,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Gempinfugukyoutoekimaenoseki",
@@ -8877,7 +8877,7 @@
                 },
                 {
                     "name": "Fujinomori",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ipponyari",
@@ -8897,7 +8897,7 @@
             "children": [
                 {
                     "name": "Kitano Hakubaicho",
-                    "rating": 3.52,
+                    "value": 3.52,
                     "children": [
                         {
                             "name": "Chiritorinabeiyama",
@@ -8917,7 +8917,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Hitotose",
@@ -8932,7 +8932,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Bankettonishiki",
@@ -8947,7 +8947,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "Obanzaitatsunosuke",
@@ -8967,7 +8967,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.0549999999999997,
+                    "value": 3.0549999999999997,
                     "children": [
                         {
                             "name": "Saredokafe",
@@ -8991,7 +8991,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "kafeandopanke-kiguramu",
@@ -9006,7 +9006,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Ace cafe",
@@ -9021,7 +9021,7 @@
                 },
                 {
                     "name": "Tambaguchi",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "nikugaumaikafenikkusutokku",
@@ -9036,7 +9036,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.335,
+                    "value": 3.335,
                     "children": [
                         {
                             "name": "mo-shondaina-",
@@ -9060,7 +9060,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.39,
+                    "value": 3.39,
                     "children": [
                         {
                             "name": "RH Cafe",
@@ -9075,7 +9075,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Haroukithisaryou",
@@ -9090,7 +9090,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.27,
+                    "value": 3.27,
                     "children": [
                         {
                             "name": "coLLabo",
@@ -9105,7 +9105,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.45,
+                    "value": 3.45,
                     "children": [
                         {
                             "name": "Kafecherisshu",
@@ -9120,7 +9120,7 @@
                 },
                 {
                     "name": "Uzumasa Tenjingawa",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Garejisankyukafe",
@@ -9135,7 +9135,7 @@
                 },
                 {
                     "name": "Toji",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "nikugaumaikafenikkusutokku",
@@ -9150,7 +9150,7 @@
                 },
                 {
                     "name": "Arashiyama",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Saryouhassui",
@@ -9165,7 +9165,7 @@
                 },
                 {
                     "name": "Imadegawa",
-                    "rating": 3.39,
+                    "value": 3.39,
                     "children": [
                         {
                             "name": "Amakudoparadhikambaikan",
@@ -9180,7 +9180,7 @@
                 },
                 {
                     "name": "Higashino",
-                    "rating": 3.33,
+                    "value": 3.33,
                     "children": [
                         {
                             "name": "Kunseimaketto",
@@ -9195,7 +9195,7 @@
                 },
                 {
                     "name": "Arashiyama Torokko Station",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "kodawaritamagosemmontentamagoya",
@@ -9215,7 +9215,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Tenshinchashitsu",
@@ -9235,7 +9235,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.26,
+                    "value": 3.26,
                     "children": [
                         {
                             "name": "kyoutoayanokoujimangetsunohana",
@@ -9250,7 +9250,7 @@
                 },
                 {
                     "name": "Uji",
-                    "rating": 3.58,
+                    "value": 3.58,
                     "children": [
                         {
                             "name": "Itoukyuuemon",
@@ -9270,7 +9270,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Marugameseimen",
@@ -9285,7 +9285,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.18,
+                    "value": 3.18,
                     "children": [
                         {
                             "name": "Ikiikiudon",
@@ -9305,7 +9305,7 @@
             "children": [
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Brochette",
@@ -9325,7 +9325,7 @@
             "children": [
                 {
                     "name": "Tambaguchi",
-                    "rating": 3.52,
+                    "value": 3.52,
                     "children": [
                         {
                             "name": "Akayashiro",
@@ -9340,7 +9340,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Kyouhorumontaisha",
@@ -9355,7 +9355,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Hayashi",
@@ -9375,7 +9375,7 @@
             "children": [
                 {
                     "name": "Sanjo",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "yasaidainingukusushi",
@@ -9395,7 +9395,7 @@
             "children": [
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "gionnotonjiruyasanadachiya",
@@ -9415,7 +9415,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "gansochiriteppanyakimotsunabeakachiriya",
@@ -9430,7 +9430,7 @@
                 },
                 {
                     "name": "Sanjo",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "motsunabekamehachi",
@@ -9445,7 +9445,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Hakatamotsunabefukuya",
@@ -9465,7 +9465,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.52,
+                    "value": 3.52,
                     "children": [
                         {
                             "name": "Sajjoupakuchi",
@@ -9480,7 +9480,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.12,
+                    "value": 3.12,
                     "children": [
                         {
                             "name": "konken",
@@ -9495,7 +9495,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.15,
+                    "value": 3.15,
                     "children": [
                         {
                             "name": "Nettaishokudou",
@@ -9510,7 +9510,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.34,
+                    "value": 3.34,
                     "children": [
                         {
                             "name": "shijoupakuchi-",
@@ -9525,7 +9525,7 @@
                 },
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "Bussarakan",
@@ -9540,7 +9540,7 @@
                 },
                 {
                     "name": "Marutamachi",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Bankokugaden",
@@ -9555,7 +9555,7 @@
                 },
                 {
                     "name": "Shichijo",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Kinkao",
@@ -9575,7 +9575,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.33,
+                    "value": 3.33,
                     "children": [
                         {
                             "name": "Kyouyoushokumatsumoto",
@@ -9590,7 +9590,7 @@
                 },
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.18,
+                    "value": 3.18,
                     "children": [
                         {
                             "name": "Kikusui",
@@ -9605,7 +9605,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "Koji",
@@ -9625,7 +9625,7 @@
             "children": [
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Kitayama",
@@ -9645,7 +9645,7 @@
             "children": [
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.31,
+                    "value": 3.31,
                     "children": [
                         {
                             "name": "Kiyomizujunsei",
@@ -9660,7 +9660,7 @@
                 },
                 {
                     "name": "Higashiyama",
-                    "rating": 3.11,
+                    "value": 3.11,
                     "children": [
                         {
                             "name": "Rengetsudiya",
@@ -9675,7 +9675,7 @@
                 },
                 {
                     "name": "Kitano Hakubaicho",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Kurosuke",
@@ -9690,7 +9690,7 @@
                 },
                 {
                     "name": "Arashiyama",
-                    "rating": 3.36,
+                    "value": 3.36,
                     "children": [
                         {
                             "name": "Yudoufutakemura",
@@ -9723,7 +9723,7 @@
                 },
                 {
                     "name": "Kokusaikaikan",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Yubasen",
@@ -9743,7 +9743,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.4299999999999997,
+                    "value": 3.4299999999999997,
                     "children": [
                         {
                             "name": "toriiebisu",
@@ -9767,7 +9767,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Jounetsushokusaikyoushoku",
@@ -9782,7 +9782,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Kaisendokorowatanabeya",
@@ -9797,7 +9797,7 @@
                 },
                 {
                     "name": "Fushimi Momoyama",
-                    "rating": 3.33,
+                    "value": 3.33,
                     "children": [
                         {
                             "name": "shunsairyoushin",
@@ -9812,7 +9812,7 @@
                 },
                 {
                     "name": "Nishi Maizuru",
-                    "rating": 3.22,
+                    "value": 3.22,
                     "children": [
                         {
                             "name": "Toto",
@@ -9832,7 +9832,7 @@
             "children": [
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.65,
+                    "value": 3.65,
                     "children": [
                         {
                             "name": "Gionhatanaka",
@@ -9847,7 +9847,7 @@
                 },
                 {
                     "name": "Sanjo Keihan",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Gionshimmonsou",
@@ -9862,7 +9862,7 @@
                 },
                 {
                     "name": "Shugakuin",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Apikaruinkyouto",
@@ -9877,7 +9877,7 @@
                 },
                 {
                     "name": "Kameoka",
-                    "rating": 3.42,
+                    "value": 3.42,
                     "children": [
                         {
                             "name": "Kyoutokeburikawa",
@@ -9892,7 +9892,7 @@
                 },
                 {
                     "name": "Uji",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Kyouryouriujigawaryokan",
@@ -9907,7 +9907,7 @@
                 },
                 {
                     "name": "Kyotango",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Shourenkanyoshinoya",
@@ -9927,7 +9927,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Nikuryouritobatoyo",
@@ -9942,7 +9942,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Watanabe",
@@ -9962,7 +9962,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Kitanoguriru",
@@ -9977,7 +9977,7 @@
                 },
                 {
                     "name": "Tambaguchi",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "hamba-guandosute-kipondo",
@@ -9992,7 +9992,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Teramachihambagugokurakutombo",
@@ -10007,7 +10007,7 @@
                 },
                 {
                     "name": "Fushimi Momoyama",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Saradanomisesancho",
@@ -10027,7 +10027,7 @@
             "children": [
                 {
                     "name": "Sanjo",
-                    "rating": 3.09,
+                    "value": 3.09,
                     "children": [
                         {
                             "name": "Tsubakurosupponshokudou",
@@ -10047,7 +10047,7 @@
             "children": [
                 {
                     "name": "Sanjo",
-                    "rating": 3.14,
+                    "value": 3.14,
                     "children": [
                         {
                             "name": "mekishikandaininguabokado",
@@ -10062,7 +10062,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Roti Chicken&Jackie Tacos",
@@ -10082,7 +10082,7 @@
             "children": [
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.05,
+                    "value": 3.05,
                     "children": [
                         {
                             "name": "Osakekafepuchipuchi",
@@ -10102,7 +10102,7 @@
             "children": [
                 {
                     "name": "Marutamachi",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Oumiyaseiemon",
@@ -10122,7 +10122,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "waingurashiori",
@@ -10137,7 +10137,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "Wine Bar Mus\u00e9e",
@@ -10152,7 +10152,7 @@
                 },
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.26,
+                    "value": 3.26,
                     "children": [
                         {
                             "name": "Kyoutogiommiyagawachououmie",
@@ -10172,7 +10172,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "konana",
@@ -10187,7 +10187,7 @@
                 },
                 {
                     "name": "Katsura",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ishiyakinamapasutakuranosuke",
@@ -10202,7 +10202,7 @@
                 },
                 {
                     "name": "Demachiyanagi",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Rinya",
@@ -10217,7 +10217,7 @@
                 },
                 {
                     "name": "Jingu Marutamachi",
-                    "rating": 3.0,
+                    "value": 3.0,
                     "children": [
                         {
                             "name": "Nagagutsutei",
@@ -10237,7 +10237,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Kurepurikyoutoshanderu",
@@ -10257,7 +10257,7 @@
             "children": [
                 {
                     "name": "Sanjo",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "Pittsusarubatorekuomoandoguriru",
@@ -10272,7 +10272,7 @@
                 },
                 {
                     "name": "Shichijo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Aiemuo",
@@ -10292,7 +10292,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.42,
+                    "value": 3.42,
                     "children": [
                         {
                             "name": "Byuandodainingukotoshieru",
@@ -10312,7 +10312,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.03,
+                    "value": 3.03,
                     "children": [
                         {
                             "name": "Resutoranrejina",
@@ -10332,7 +10332,7 @@
             "children": [
                 {
                     "name": "Marutamachi",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Shou",
@@ -10352,7 +10352,7 @@
             "children": [
                 {
                     "name": "Saiin",
-                    "rating": 3.02,
+                    "value": 3.02,
                     "children": [
                         {
                             "name": "Kameya",
@@ -10372,7 +10372,7 @@
             "children": [
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "giombashunrou",
@@ -10392,7 +10392,7 @@
             "children": [
                 {
                     "name": "Emmachi",
-                    "rating": 3.38,
+                    "value": 3.38,
                     "children": [
                         {
                             "name": "Hisa",
@@ -10412,7 +10412,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Heso",
@@ -10432,7 +10432,7 @@
             "children": [
                 {
                     "name": "Arashiyama",
-                    "rating": 3.21,
+                    "value": 3.21,
                     "children": [
                         {
                             "name": "kyoutoarashiyamagoseiyuunoyadoranzan",
@@ -10452,7 +10452,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Shiunsen",
@@ -10467,7 +10467,7 @@
                 },
                 {
                     "name": "Sanjo Keihan",
-                    "rating": 3.6,
+                    "value": 3.6,
                     "children": [
                         {
                             "name": "Giwontokiwa",
@@ -10482,7 +10482,7 @@
                 },
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.17,
+                    "value": 3.17,
                     "children": [
                         {
                             "name": "Teuchisobaminagawa",
@@ -10497,7 +10497,7 @@
                 },
                 {
                     "name": "Kurama",
-                    "rating": 3.24,
+                    "value": 3.24,
                     "children": [
                         {
                             "name": "Dembei",
@@ -10517,7 +10517,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.5549999999999997,
+                    "value": 3.5549999999999997,
                     "children": [
                         {
                             "name": "Ebisu",
@@ -10541,7 +10541,7 @@
                 },
                 {
                     "name": "Karasuma",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Takayasuzekuu",
@@ -10565,7 +10565,7 @@
                 },
                 {
                     "name": "Tambaguchi",
-                    "rating": 3.19,
+                    "value": 3.19,
                     "children": [
                         {
                             "name": "Ajinomeimon",
@@ -10580,7 +10580,7 @@
                 },
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.085,
+                    "value": 3.085,
                     "children": [
                         {
                             "name": "Noukoutoripaitanramemmisora",
@@ -10604,7 +10604,7 @@
                 },
                 {
                     "name": "Shijo",
-                    "rating": 3.51,
+                    "value": 3.51,
                     "children": [
                         {
                             "name": "Maboroshinochuukasobakatouyashijounibojirou",
@@ -10619,7 +10619,7 @@
                 },
                 {
                     "name": "Kiyomizu Gojo",
-                    "rating": 3.16,
+                    "value": 3.16,
                     "children": [
                         {
                             "name": "Ramenfuji",
@@ -10634,7 +10634,7 @@
                 },
                 {
                     "name": "Imadegawa",
-                    "rating": 3.425,
+                    "value": 3.425,
                     "children": [
                         {
                             "name": "Zekuu",
@@ -10658,7 +10658,7 @@
                 },
                 {
                     "name": "Ichijoji",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "chuukasobatakayasu",
@@ -10678,7 +10678,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "Suiba",
@@ -10693,7 +10693,7 @@
                 },
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.55,
+                    "value": 3.55,
                     "children": [
                         {
                             "name": "Suiba",
@@ -10713,7 +10713,7 @@
             "children": [
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.53,
+                    "value": 3.53,
                     "children": [
                         {
                             "name": "eruku",
@@ -10728,7 +10728,7 @@
                 },
                 {
                     "name": "Nijojo Mae",
-                    "rating": 3.58,
+                    "value": 3.58,
                     "children": [
                         {
                             "name": "Yukinoshita",
@@ -10748,7 +10748,7 @@
             "children": [
                 {
                     "name": "Keihan Yamashina",
-                    "rating": 3.07,
+                    "value": 3.07,
                     "children": [
                         {
                             "name": "YEBISU",
@@ -10768,7 +10768,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Daburin",
@@ -10788,7 +10788,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.22,
+                    "value": 3.22,
                     "children": [
                         {
                             "name": "Kerara",
@@ -10808,7 +10808,7 @@
             "children": [
                 {
                     "name": "Mototanaka",
-                    "rating": 3.3,
+                    "value": 3.3,
                     "children": [
                         {
                             "name": "takoyakimihashiya",
@@ -10828,7 +10828,7 @@
             "children": [
                 {
                     "name": "Shijo",
-                    "rating": 3.25,
+                    "value": 3.25,
                     "children": [
                         {
                             "name": "Shunsaitempuraarima",
@@ -10848,7 +10848,7 @@
             "children": [
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.56,
+                    "value": 3.56,
                     "children": [
                         {
                             "name": "ORENO PAN okumura",
@@ -10868,7 +10868,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.35,
+                    "value": 3.35,
                     "children": [
                         {
                             "name": "Kaosusupaisudaina",
@@ -10888,7 +10888,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Ginzaraion",
@@ -10908,7 +10908,7 @@
             "children": [
                 {
                     "name": "Karasuma Oike",
-                    "rating": 3.38,
+                    "value": 3.38,
                     "children": [
                         {
                             "name": "Robatasushihotaru",
@@ -10928,7 +10928,7 @@
             "children": [
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.46,
+                    "value": 3.46,
                     "children": [
                         {
                             "name": "Nishikiichiha",
@@ -10948,7 +10948,7 @@
             "children": [
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.32,
+                    "value": 3.32,
                     "children": [
                         {
                             "name": "Haiborubakyoutoichikyunisan",
@@ -10968,7 +10968,7 @@
             "children": [
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.6,
+                    "value": 3.6,
                     "children": [
                         {
                             "name": "Takasegawa",
@@ -10988,7 +10988,7 @@
             "children": [
                 {
                     "name": "Yamanouchi",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Hairaitoshiyokudou",
@@ -11008,7 +11008,7 @@
             "children": [
                 {
                     "name": "Shijo",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "Kimukatsu",
@@ -11028,7 +11028,7 @@
             "children": [
                 {
                     "name": "Gion Shijo",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "Hisago",
@@ -11048,7 +11048,7 @@
             "children": [
                 {
                     "name": "Kawaramachi",
-                    "rating": 3.59,
+                    "value": 3.59,
                     "children": [
                         {
                             "name": "Kyoutogontaro",
@@ -11068,7 +11068,7 @@
             "children": [
                 {
                     "name": "Higashiyama",
-                    "rating": 3.5,
+                    "value": 3.5,
                     "children": [
                         {
                             "name": "Giwommorikou",
@@ -11088,7 +11088,7 @@
             "children": [
                 {
                     "name": "Karasuma Oike",
-                    "rating": 4.06,
+                    "value": 4.06,
                     "children": [
                         {
                             "name": "ORTO",
@@ -11108,7 +11108,7 @@
             "children": [
                 {
                     "name": "Uji",
-                    "rating": 3.54,
+                    "value": 3.54,
                     "children": [
                         {
                             "name": "tsujiriheehonten",
@@ -11128,7 +11128,7 @@
             "children": [
                 {
                     "name": "Saiin",
-                    "rating": 3.06,
+                    "value": 3.06,
                     "children": [
                         {
                             "name": "Rakudaya",
@@ -11148,7 +11148,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.52,
+                    "value": 3.52,
                     "children": [
                         {
                             "name": "Karafuneyakohiten",
@@ -11168,7 +11168,7 @@
             "children": [
                 {
                     "name": "Karasuma",
-                    "rating": 3.58,
+                    "value": 3.58,
                     "children": [
                         {
                             "name": "Menshoutakamatsu",
@@ -11188,7 +11188,7 @@
             "children": [
                 {
                     "name": "Kyoto Shiyakusho Mae",
-                    "rating": 3.04,
+                    "value": 3.04,
                     "children": [
                         {
                             "name": "Wayang Bali",
@@ -11208,7 +11208,7 @@
             "children": [
                 {
                     "name": "Kyoto",
-                    "rating": 3.08,
+                    "value": 3.08,
                     "children": [
                         {
                             "name": "YEBISU BAR",
