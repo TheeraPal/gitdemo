@@ -1,0 +1,4516 @@
+{
+    "name": "restaurant",
+    "children": [
+        {
+            "name": "Buffet style",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Orudeidainingurajou",
+                            "value": 3.39,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 56.0
+                        },
+                        {
+                            "name": "o-rudeidainingukaza",
+                            "value": 3.41,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 15.0
+                        },
+                        {
+                            "name": "Tawaterasu",
+                            "value": 3.35,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 29.0
+                        },
+                        {
+                            "name": "Cafe Restaurant Le Temps",
+                            "value": 3.46,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 129.0
+                        },
+                        {
+                            "name": "Buruvaru",
+                            "value": 3.08,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 39.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "THE BUFFET STYLE SARA",
+                            "value": 3.12,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 93.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Kyounishikiobanzaibyuffehinataya",
+                            "value": 3.03,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 15.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nijo",
+                    "children": [
+                        {
+                            "name": "Cafe Lavender",
+                            "value": 3.04,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 2.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Keihan Yamashina",
+                    "children": [
+                        {
+                            "name": "Buraitonkicchin",
+                            "value": 3.16,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 23.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Yawatashi",
+                    "children": [
+                        {
+                            "name": "Shunsaisousakubifferoan",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 21.0
+                        },
+                        {
+                            "name": "Susumevaikingubaikingu",
+                            "value": 3.03,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 21.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bistro",
+            "children": [
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Steak Frites Gaspard zinzin",
+                            "value": 3.18,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 70.0
+                        },
+                        {
+                            "name": "Kyoutodaina",
+                            "value": 3.54,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 82.0
+                        },
+                        {
+                            "name": "bisutorowaraku",
+                            "value": 3.2,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 37.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "FORTUNE GARDEN KYOTO",
+                            "value": 3.59,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 107.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "BISTRO BAR A VIN  C",
+                            "value": 3.51,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 49.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Ranka",
+                            "value": 3.58,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 48.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chinese hot pot / fire pot",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Shaofeiyan",
+                            "value": 3.16,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 23.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bar",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "okuta-va",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 24.0
+                        },
+                        {
+                            "name": "nikubaruginjirou",
+                            "value": 3.44,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 32.0
+                        },
+                        {
+                            "name": "Sukairaunjikuu",
+                            "value": 3.09,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 56.0
+                        },
+                        {
+                            "name": "nikutowaimbaruwaraku",
+                            "value": 3.52,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 26.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Kumamotosougouinshokutemmao",
+                            "value": 3.25,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 35.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Osakenobijutsukan",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 6.0
+                        },
+                        {
+                            "name": "nikubaruandohorumonnabetaigu",
+                            "value": 3.04,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 2.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Nikukappoubarugyugyu",
+                            "value": 3.06,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 22.0
+                        },
+                        {
+                            "name": "furenchigiombarumaruhashi",
+                            "value": 3.54,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 54.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "osakenobijutsukankyoutosanjoukarasumaretoropabu",
+                            "value": 3.07,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 14.0
+                        },
+                        {
+                            "name": "nikubaruginjirou",
+                            "value": 3.52,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 39.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Imadegawa",
+                    "children": [
+                        {
+                            "name": "Bar PLAYGROUND",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 2.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Italian",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "CRAFT BEER & PIZZA 100K HYAKKEI",
+                            "value": 3.0,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 8.0
+                        },
+                        {
+                            "name": "Zakicchinsaruvatorekuomo",
+                            "value": 3.49,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 196.0
+                        },
+                        {
+                            "name": "PASTA MORE",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 77.0
+                        },
+                        {
+                            "name": "Kyounojiyasaiitariampacchokone",
+                            "value": 3.03,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 7.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Trattoria La Pace",
+                            "value": 3.51,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 52.0
+                        },
+                        {
+                            "name": "pittsuxeriaba-rurenapori",
+                            "value": 3.37,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 37.0
+                        },
+                        {
+                            "name": "Feliz-Lana",
+                            "value": 3.2,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 23.0
+                        },
+                        {
+                            "name": "Trattoria La Voce",
+                            "value": 3.5,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 76.0
+                        },
+                        {
+                            "name": "Danieruzusore",
+                            "value": 3.21,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 51.0
+                        },
+                        {
+                            "name": "kafeandodainingubambikarasuma",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 9.0
+                        },
+                        {
+                            "name": "Osteria Bastille",
+                            "value": 3.42,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 86.0
+                        },
+                        {
+                            "name": "Daniel's",
+                            "value": 3.26,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 108.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "kafeandodainingubambi",
+                            "value": 3.19,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 21.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo",
+                    "children": [
+                        {
+                            "name": "Resort dining&bar HaLe",
+                            "value": 3.04,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 22.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Zasoudouhigashiyamakyouto",
+                            "value": 3.61,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 272.0
+                        },
+                        {
+                            "name": "RIGOLETTO SMOKE GRILL & BAR",
+                            "value": 3.52,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 113.0
+                        },
+                        {
+                            "name": "itaria-nasagura",
+                            "value": 3.59,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 76.0
+                        },
+                        {
+                            "name": "Kenzoesuteitowainarigionten",
+                            "value": 3.61,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 18.0
+                        },
+                        {
+                            "name": "Risutoranteoraegion",
+                            "value": 3.59,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 13.0
+                        },
+                        {
+                            "name": "Ristorante t.v.b",
+                            "value": 3.67,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "15000-19999",
+                            "review_num": 121.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo Keihan",
+                    "children": [
+                        {
+                            "name": "gionni-yongo",
+                            "value": 3.85,
+                            "lunch_price": "6000-7999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 39.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kiyomizu Gojo",
+                    "children": [
+                        {
+                            "name": "Torattoriaviare",
+                            "value": 3.44,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 33.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "ITALIAN BAR MODERNTIMES",
+                            "value": 3.29,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 15.0
+                        },
+                        {
+                            "name": "Rudensu",
+                            "value": 3.46,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 4.0
+                        },
+                        {
+                            "name": "ottimo",
+                            "value": 3.48,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 22.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "wainandooyasaibarubejibaru",
+                            "value": 3.51,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 33.0
+                        },
+                        {
+                            "name": "Sala Suite Caffe Rucola",
+                            "value": 3.38,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 99.0
+                        },
+                        {
+                            "name": "Oushokuyakappa",
+                            "value": 3.06,
+                            "lunch_price": "999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 10.0
+                        },
+                        {
+                            "name": "Osuteriakochinerra",
+                            "value": 3.53,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 19.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashiyama",
+                    "children": [
+                        {
+                            "name": "Occobe.",
+                            "value": 3.0,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 7.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Pizzeria e Bar La Voce",
+                            "value": 3.18,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 14.0
+                        },
+                        {
+                            "name": "kyoumachiyaitarianronkusu",
+                            "value": 3.0,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 15.0
+                        },
+                        {
+                            "name": "Kamon",
+                            "value": 3.31,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 20.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Italian bar Lugol",
+                            "value": 3.03,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 28.0
+                        },
+                        {
+                            "name": "rino",
+                            "value": 3.2,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 10.0
+                        },
+                        {
+                            "name": "il pozzo",
+                            "value": 3.1,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 47.0
+                        },
+                        {
+                            "name": "danieruzuaruba",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 26.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Tambaguchi",
+                    "children": [
+                        {
+                            "name": "REAL NETA DINING ICHIZ",
+                            "value": 3.05,
+                            "lunch_price": "999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 14.0
+                        },
+                        {
+                            "name": "Umekoujikorabo",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 11.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nishi Maizuru",
+                    "children": [
+                        {
+                            "name": "Ameirobisutoroaruru",
+                            "value": 3.05,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 8.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Matsugasaki",
+                    "children": [
+                        {
+                            "name": "pino",
+                            "value": 3.07,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 48.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kitayama",
+                    "children": [
+                        {
+                            "name": "Risutoranteazekura",
+                            "value": 3.07,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 20.0
+                        },
+                        {
+                            "name": "IN THE GREEN",
+                            "value": 3.52,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 101.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shichijo",
+                    "children": [
+                        {
+                            "name": "trattoria sette",
+                            "value": 3.57,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 112.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nishioji",
+                    "children": [
+                        {
+                            "name": "Norakuro",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 10.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Momoyamagoryomae",
+                    "children": [
+                        {
+                            "name": "Al Vere",
+                            "value": 3.0,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 6.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "French",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "furenchidainingutoppuobukyouto",
+                            "value": 3.07,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 33.0
+                        },
+                        {
+                            "name": "kaisekifuransuryourigurumantachibana",
+                            "value": 3.18,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 12.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Norumandhi",
+                            "value": 3.55,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 38.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Gionabesu",
+                            "value": 3.58,
+                            "lunch_price": "6000-7999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 120.0
+                        },
+                        {
+                            "name": "Yosuke YAMAJI",
+                            "value": 4.02,
+                            "lunch_price": "8000-9999",
+                            "dinner_price": "20000-29999",
+                            "review_num": 44.0
+                        },
+                        {
+                            "name": "Grelot",
+                            "value": 3.45,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 16.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nijojo Mae",
+                    "children": [
+                        {
+                            "name": "Rozurumu",
+                            "value": 3.17,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 23.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kiyomizu Gojo",
+                    "children": [
+                        {
+                            "name": "Kishouzakura",
+                            "value": 3.31,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 18.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Kyo gastronomy KOZO",
+                            "value": 3.06,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 12.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Erushimmachi",
+                            "value": 3.44,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 15.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Rejon",
+                            "value": 3.4,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 5.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Pierupureshiuzu",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 14.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Arashiyama",
+                    "children": [
+                        {
+                            "name": "Arashiyamamitate",
+                            "value": 3.66,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 30.0
+                        },
+                        {
+                            "name": "Arashiyamakohakudou",
+                            "value": 3.07,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 27.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kitayama",
+                    "children": [
+                        {
+                            "name": "Kaiseitei",
+                            "value": 3.39,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 36.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Mototanaka",
+                    "children": [
+                        {
+                            "name": "Seichuuan",
+                            "value": 3.04,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 16.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Izakaya (Tavern)",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Gochiya",
+                            "value": 3.18,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 33.0
+                        },
+                        {
+                            "name": "Ichishun",
+                            "value": 3.53,
+                            "lunch_price": "999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 72.0
+                        },
+                        {
+                            "name": "Saketosakanatootokomaeshokudou",
+                            "value": 3.0,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 5.0
+                        },
+                        {
+                            "name": "Torisei",
+                            "value": 3.16,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 21.0
+                        },
+                        {
+                            "name": "Kyoutokimurayahonten",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 48.0
+                        },
+                        {
+                            "name": "Okonomiyakitsuruhashifuugetsu",
+                            "value": 3.09,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 21.0
+                        },
+                        {
+                            "name": "Juunikiyakan",
+                            "value": 3.06,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 31.0
+                        },
+                        {
+                            "name": "Kidoriya",
+                            "value": 3.0,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 12.0
+                        },
+                        {
+                            "name": "Kokekokko",
+                            "value": 3.05,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 70.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Sakaean",
+                            "value": 3.09,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 31.0
+                        },
+                        {
+                            "name": "Kushiyachouemon",
+                            "value": 3.03,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 10.0
+                        },
+                        {
+                            "name": "Satsumagokamon",
+                            "value": 3.07,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 27.0
+                        },
+                        {
+                            "name": "Toriasa",
+                            "value": 3.09,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 23.0
+                        },
+                        {
+                            "name": "Kinnotsubasaerudoru",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 23.0
+                        },
+                        {
+                            "name": "nikubarudakara",
+                            "value": 3.04,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 6.0
+                        },
+                        {
+                            "name": "Enyanishiki",
+                            "value": 3.12,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 37.0
+                        },
+                        {
+                            "name": "Sakaguratamanohikari",
+                            "value": 3.05,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 6.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "ajiromanishigamatei",
+                            "value": 3.12,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 27.0
+                        },
+                        {
+                            "name": "kyoutofushimigurapontochouminamian",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 4.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nijojo Mae",
+                    "children": [
+                        {
+                            "name": "ANAGOYA NORESORE",
+                            "value": 3.5,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 16.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Tsukihikarasuma",
+                            "value": 3.17,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 35.0
+                        },
+                        {
+                            "name": "pasutakorekushonandoba-dougetsuneo",
+                            "value": 3.43,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 9.0
+                        },
+                        {
+                            "name": "Kyoutosakagurakan",
+                            "value": 3.25,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 8.0
+                        },
+                        {
+                            "name": "Kyounozenkuruma",
+                            "value": 3.52,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 42.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "TORIBUN",
+                            "value": 3.02,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 10.0
+                        },
+                        {
+                            "name": "Ichibakouji",
+                            "value": 3.51,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 69.0
+                        },
+                        {
+                            "name": "Kawamuraryourihei",
+                            "value": 3.07,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 24.0
+                        },
+                        {
+                            "name": "Kyounojidoriyaaki",
+                            "value": 3.06,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 8.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Yamadaruma",
+                            "value": 3.03,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 10.0
+                        },
+                        {
+                            "name": "Gohanya",
+                            "value": 3.05,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 11.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo Omiya",
+                    "children": [
+                        {
+                            "name": "Tsushima",
+                            "value": 3.5,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 18.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Omiya",
+                    "children": [
+                        {
+                            "name": "YAMAMURA GYUUBEI",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 17.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nishi Maizuru",
+                    "children": [
+                        {
+                            "name": "ryoushigoya",
+                            "value": 3.39,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 9.0
+                        },
+                        {
+                            "name": "teuchiudonishokuyabongu",
+                            "value": 3.07,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 14.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sai",
+                    "children": [
+                        {
+                            "name": "ajidokorosamon",
+                            "value": 3.05,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 2.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashi Maizuru",
+                    "children": [
+                        {
+                            "name": "Himiko",
+                            "value": 3.12,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 29.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Chushojima",
+                    "children": [
+                        {
+                            "name": "Teppankushiyakisakura",
+                            "value": 3.05,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 7.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fushimi Momoyama",
+                    "children": [
+                        {
+                            "name": "fu-zuba-shioriya",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 27.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nishioji",
+                    "children": [
+                        {
+                            "name": "burassuri-kontowa-ru",
+                            "value": 3.53,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 16.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Matsuiyamate",
+                    "children": [
+                        {
+                            "name": "Kirarazaka",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 8.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nagaokakyo",
+                    "children": [
+                        {
+                            "name": "Genkiya",
+                            "value": 3.23,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 24.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nagitsuji",
+                    "children": [
+                        {
+                            "name": "Chikyuuizakayashibuya",
+                            "value": 3.0,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 10.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fukuchiyama",
+                    "children": [
+                        {
+                            "name": "Waraku",
+                            "value": 3.0,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 12.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pork Shabu Shabu",
+            "children": [
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "kyoutohyouto",
+                            "value": 3.64,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 46.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fukakusa",
+                    "children": [
+                        {
+                            "name": "Kyouwasabi",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 5.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yakiniku (BBQ Beef)",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Jukuseiyakinikupondo",
+                            "value": 3.13,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 14.0
+                        },
+                        {
+                            "name": "Tenkanoyakinikudaishougun",
+                            "value": 3.05,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 19.0
+                        },
+                        {
+                            "name": "Yakinikutoraji",
+                            "value": 3.13,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 39.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Ittetsugurache",
+                            "value": 3.52,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 33.0
+                        },
+                        {
+                            "name": "yakinikutobi-ruichibakouji",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 4.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo",
+                    "children": [
+                        {
+                            "name": "nikuyanodaidokoro",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 6.0
+                        },
+                        {
+                            "name": "wagyuuyakinikutoku",
+                            "value": 3.53,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 29.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Ryuuan",
+                            "value": 3.22,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 15.0
+                        },
+                        {
+                            "name": "Yakinikuyaruki",
+                            "value": 3.07,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 29.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Kurogewagyuutenshou",
+                            "value": 3.5,
+                            "lunch_price": "999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 13.0
+                        },
+                        {
+                            "name": "nikudokoroikkou",
+                            "value": 3.04,
+                            "lunch_price": "999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 12.0
+                        },
+                        {
+                            "name": "Kihara",
+                            "value": 3.15,
+                            "lunch_price": "999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 15.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Kyouhorumonkura",
+                            "value": 3.04,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 16.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "kyouyakinikukikyou",
+                            "value": 3.24,
+                            "lunch_price": "999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 33.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo Omiya",
+                    "children": [
+                        {
+                            "name": "jukuseiyakinikupondo",
+                            "value": 3.28,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 26.0
+                        },
+                        {
+                            "name": "Yakinikuhorumongyuuteruryourianiki",
+                            "value": 3.14,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 14.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Omiya",
+                    "children": [
+                        {
+                            "name": "Tenkanoyakinikudaishougun",
+                            "value": 3.2,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 27.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sai",
+                    "children": [
+                        {
+                            "name": "Sumibiyakinikugyuugyuutei",
+                            "value": 3.03,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 21.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Uji",
+                    "children": [
+                        {
+                            "name": "Satsumayakinikukurozakurakurozakura",
+                            "value": 3.42,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 13.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Matsugasaki",
+                    "children": [
+                        {
+                            "name": "Erudoru",
+                            "value": 3.09,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 13.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashino",
+                    "children": [
+                        {
+                            "name": "Yakinikunonki",
+                            "value": 3.07,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 22.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Jingu Marutamachi",
+                    "children": [
+                        {
+                            "name": "Yakinikuyoshimi",
+                            "value": 3.58,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 18.0
+                        },
+                        {
+                            "name": "Kamogawatakashi",
+                            "value": 3.59,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 58.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shichijo",
+                    "children": [
+                        {
+                            "name": "Nikuyasuzu",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 5.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Katsura",
+                    "children": [
+                        {
+                            "name": "Kaiuntei",
+                            "value": 3.19,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 11.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Matsuiyamate",
+                    "children": [
+                        {
+                            "name": "yakinikushokudoukandon",
+                            "value": 3.07,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 10.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Ogura",
+                    "children": [
+                        {
+                            "name": "Kaiuntei",
+                            "value": 3.05,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 19.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tempura",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Washokumai",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 9.0
+                        },
+                        {
+                            "name": "Tenichi",
+                            "value": 3.51,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 52.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Komefuku",
+                            "value": 3.55,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 140.0
+                        },
+                        {
+                            "name": "Kyoutonishikitempurasakabataneshichi",
+                            "value": 3.06,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 12.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Kyoutogiontempurayasakaendou",
+                            "value": 3.68,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 252.0
+                        },
+                        {
+                            "name": "KYOTO GATTEN",
+                            "value": 3.09,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 11.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashiyama",
+                    "children": [
+                        {
+                            "name": "Kyoutotempuraendou",
+                            "value": 3.55,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 6.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Tempurashinjukutsunahachi",
+                            "value": 3.02,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 17.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Katsuragawa",
+                    "children": [
+                        {
+                            "name": "Tempurakawatatsu",
+                            "value": 3.56,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 40.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dining bar",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Ichibakouji",
+                            "value": 3.5,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 68.0
+                        },
+                        {
+                            "name": "Southern Court",
+                            "value": 3.58,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 82.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Mew\u2019z cafe",
+                            "value": 3.06,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 19.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo",
+                    "children": [
+                        {
+                            "name": "Sunny",
+                            "value": 3.48,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 39.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Maribu",
+                            "value": 3.07,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 32.0
+                        },
+                        {
+                            "name": "Ginzaraion",
+                            "value": 3.03,
+                            "lunch_price": "999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 21.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Supuringubareburuwarikyouto",
+                            "value": 3.53,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 36.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Katsuragawa",
+                    "children": [
+                        {
+                            "name": "BARVIDA",
+                            "value": 3.04,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 10.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fushimi Momoyama",
+                    "children": [
+                        {
+                            "name": "Ajoiichanchi",
+                            "value": 3.08,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 40.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Uji",
+                    "children": [
+                        {
+                            "name": "THE ROCKIN' HEARTS",
+                            "value": 3.07,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 11.0
+                        },
+                        {
+                            "name": "Ujisoukokoro",
+                            "value": 3.07,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 25.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kaiseki (Traditional Japanese)",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Nihonryouriukihashi",
+                            "value": 3.53,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 42.0
+                        },
+                        {
+                            "name": "Ganko",
+                            "value": 3.18,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 50.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Ganko",
+                            "value": 3.52,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 79.0
+                        },
+                        {
+                            "name": "nihonryourisakuragawa",
+                            "value": 3.89,
+                            "lunch_price": "8000-9999",
+                            "dinner_price": "20000-29999",
+                            "review_num": 61.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo",
+                    "children": [
+                        {
+                            "name": "kyouryouriuryuu",
+                            "value": 3.23,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 15.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Manjirou",
+                            "value": 3.57,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 57.0
+                        },
+                        {
+                            "name": "Gionyamamoto",
+                            "value": 3.06,
+                            "lunch_price": "10000-14999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 2.0
+                        },
+                        {
+                            "name": "kyoutogyuukaisekiinayoshi",
+                            "value": 3.52,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 36.0
+                        },
+                        {
+                            "name": "Nagamegawapontochouhana",
+                            "value": 3.56,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 36.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo Keihan",
+                    "children": [
+                        {
+                            "name": "Gionyuyama",
+                            "value": 3.51,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 23.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nijojo Mae",
+                    "children": [
+                        {
+                            "name": "Unkai",
+                            "value": 3.18,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 28.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kiyomizu Gojo",
+                    "children": [
+                        {
+                            "name": "Harise",
+                            "value": 3.6,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 31.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "tounyuutonshabutoratarou",
+                            "value": 3.0,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 31.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashiyama",
+                    "children": [
+                        {
+                            "name": "Isobe",
+                            "value": 3.06,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 12.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Demachiyanagi",
+                    "children": [
+                        {
+                            "name": "Teramachiyoshikura",
+                            "value": 3.16,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 33.0
+                        },
+                        {
+                            "name": "Shimogamosaryou",
+                            "value": 3.61,
+                            "lunch_price": "8000-9999",
+                            "dinner_price": "15000-19999",
+                            "review_num": 72.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gojo",
+                    "children": [
+                        {
+                            "name": "chisouyouga",
+                            "value": 3.63,
+                            "lunch_price": "6000-7999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 8.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kurama",
+                    "children": [
+                        {
+                            "name": "Hiroya",
+                            "value": 3.59,
+                            "lunch_price": "15000-19999",
+                            "dinner_price": "15000-19999",
+                            "review_num": 51.0
+                        },
+                        {
+                            "name": "Kifunekiraku",
+                            "value": 3.52,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 23.0
+                        },
+                        {
+                            "name": "kibunebeniya",
+                            "value": 3.54,
+                            "lunch_price": "6000-7999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 30.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shugakuin",
+                    "children": [
+                        {
+                            "name": "KITAYAMA MONOLITH",
+                            "value": 3.06,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 22.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Arashiyama",
+                    "children": [
+                        {
+                            "name": "Arashiyamataniguchi",
+                            "value": 3.06,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 8.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Narayama",
+                    "children": [
+                        {
+                            "name": "Toretatedaininguyagyuu",
+                            "value": 3.27,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 17.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chinese",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "chuugokuryourikoukaryuuhou",
+                            "value": 3.31,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 16.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Rakusenrou",
+                            "value": 3.5,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 66.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "chuugokuryourichimmin",
+                            "value": 3.5,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 44.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nijojo Mae",
+                    "children": [
+                        {
+                            "name": "Karin",
+                            "value": 3.51,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 32.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kiyomizu Gojo",
+                    "children": [
+                        {
+                            "name": "Shouentei",
+                            "value": 3.14,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 19.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Orudohonkonresutorankyouto",
+                            "value": 3.88,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 148.0
+                        },
+                        {
+                            "name": "Yukari",
+                            "value": 3.32,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 8.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashiyama",
+                    "children": [
+                        {
+                            "name": "Ryuumon",
+                            "value": 3.09,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 36.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Katsuragawa",
+                    "children": [
+                        {
+                            "name": "Bairan",
+                            "value": 3.12,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 29.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Emmachi",
+                    "children": [
+                        {
+                            "name": "Chishokufu",
+                            "value": 3.06,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 9.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kuzuha",
+                    "children": [
+                        {
+                            "name": "Miyakohanten",
+                            "value": 3.2,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 62.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Takeda",
+                    "children": [
+                        {
+                            "name": "Jounanen",
+                            "value": 3.15,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 25.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kyoto Cuisine",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Eijuan",
+                            "value": 3.0,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 6.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Hanasaki",
+                            "value": 3.58,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 30.0
+                        },
+                        {
+                            "name": "Mukadeya",
+                            "value": 3.07,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 21.0
+                        },
+                        {
+                            "name": "Kyouwazentainotai",
+                            "value": 3.42,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 3.0
+                        },
+                        {
+                            "name": "Ippinhashinaga",
+                            "value": 3.51,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 15.0
+                        },
+                        {
+                            "name": "IZAMA",
+                            "value": 3.53,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 40.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Mameyagenzou",
+                            "value": 3.38,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 21.0
+                        },
+                        {
+                            "name": "Kyouryouritakeshimaichigo",
+                            "value": 3.07,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 10.0
+                        },
+                        {
+                            "name": "Ryuunohige",
+                            "value": 3.7,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 70.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo",
+                    "children": [
+                        {
+                            "name": "Nabetoshunsaitokyouryourikaryuu",
+                            "value": 3.48,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 29.0
+                        },
+                        {
+                            "name": "Fujiya",
+                            "value": 3.09,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 7.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Gionkyouryourihanasaki",
+                            "value": 3.5,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 56.0
+                        },
+                        {
+                            "name": "Gionramburu",
+                            "value": 3.56,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 24.0
+                        },
+                        {
+                            "name": "Daitouryou",
+                            "value": 3.08,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 16.0
+                        },
+                        {
+                            "name": "Karyou",
+                            "value": 3.68,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 56.0
+                        },
+                        {
+                            "name": "gionkurashita",
+                            "value": 3.39,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 20.0
+                        },
+                        {
+                            "name": "Gionshimbashinakatani",
+                            "value": 3.56,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 8.0
+                        },
+                        {
+                            "name": "Gioniwamoto",
+                            "value": 3.63,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 18.0
+                        },
+                        {
+                            "name": "Kyoutomamehachi",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 22.0
+                        },
+                        {
+                            "name": "Kyoutogionkawamuraryourihei",
+                            "value": 3.0,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 3.0
+                        },
+                        {
+                            "name": "Koudaijihashiba",
+                            "value": 3.23,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 31.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Kyouryouritategami",
+                            "value": 3.51,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 11.0
+                        },
+                        {
+                            "name": "kyouryourikaji",
+                            "value": 3.56,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 67.0
+                        },
+                        {
+                            "name": "Kyouryouriyumekaisekitaniguchi",
+                            "value": 3.51,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 6.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Nagomijun",
+                            "value": 3.15,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 16.0
+                        },
+                        {
+                            "name": "Shusaishokubouichi",
+                            "value": 3.22,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 50.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashiyama",
+                    "children": [
+                        {
+                            "name": "Kasuian",
+                            "value": 3.06,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 7.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Tankumakitamise",
+                            "value": 3.59,
+                            "lunch_price": "6000-7999",
+                            "dinner_price": "20000-29999",
+                            "review_num": 74.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Tambaguchi",
+                    "children": [
+                        {
+                            "name": "Hachisei",
+                            "value": 3.02,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 4.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Hanazono",
+                    "children": [
+                        {
+                            "name": "Hanagokoro",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 11.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kurama",
+                    "children": [
+                        {
+                            "name": "Kifuneugenta",
+                            "value": 3.54,
+                            "lunch_price": "6000-7999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 55.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shugakuin",
+                    "children": [
+                        {
+                            "name": "Yamabanaheihachidiya",
+                            "value": 3.56,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 29.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Uji",
+                    "children": [
+                        {
+                            "name": "Chikurin",
+                            "value": 3.04,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 5.0
+                        },
+                        {
+                            "name": "Tatsumiya",
+                            "value": 3.07,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 20.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Myoshinji",
+                    "children": [
+                        {
+                            "name": "Manchou",
+                            "value": 3.07,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 12.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Spain",
+            "children": [
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "CHULETA",
+                            "value": 3.58,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 24.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "BELLOTA concha",
+                            "value": 3.16,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 23.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Matsugasaki",
+                    "children": [
+                        {
+                            "name": "supeimbarurapaera",
+                            "value": 3.28,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 10.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Korean cuisine",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Chanchi",
+                            "value": 3.46,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 34.0
+                        },
+                        {
+                            "name": "Minari",
+                            "value": 3.05,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 18.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Ampan",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 20.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fushimi",
+                    "children": [
+                        {
+                            "name": "karubidontosundoufusemmontenkandon",
+                            "value": 3.33,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 78.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Ogura",
+                    "children": [
+                        {
+                            "name": "Kaiuntei",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 22.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Unagi (Freshwater eel)",
+            "children": [
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "unagihitsumabushisumiyagura",
+                            "value": 3.21,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 7.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Viet Nam cuisine",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Nyavetonamu",
+                            "value": 3.04,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 18.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Thiemuanfonvietto",
+                            "value": 3.41,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 50.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kappo (Traditional Japanese)",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Roko",
+                            "value": 3.26,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 21.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Kappouyoshizen",
+                            "value": 3.58,
+                            "lunch_price": "10000-14999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 16.0
+                        },
+                        {
+                            "name": "matono",
+                            "value": 3.72,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 69.0
+                        },
+                        {
+                            "name": "Kabochanotane",
+                            "value": 3.51,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 25.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Kyoutonijoutosaka",
+                            "value": 3.53,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 13.0
+                        },
+                        {
+                            "name": "Kyoukarasuma",
+                            "value": 3.04,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 3.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Higashinotouinsou",
+                            "value": 3.15,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 6.0
+                        },
+                        {
+                            "name": "Kaisekihyouki",
+                            "value": 3.47,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 39.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fushimi Momoyama",
+                    "children": [
+                        {
+                            "name": "Tsukinokurabito",
+                            "value": 3.5,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 110.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Jingu Marutamachi",
+                    "children": [
+                        {
+                            "name": "Rakuzenkakinuma",
+                            "value": 3.1,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 9.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sichuan Cuisine",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Shisen",
+                            "value": 3.08,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 34.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Omiya",
+                    "children": [
+                        {
+                            "name": "Machiyashisenhoshitsukiyo",
+                            "value": 3.53,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 14.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Mototanaka",
+                    "children": [
+                        {
+                            "name": "Ryuumon",
+                            "value": 3.08,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 26.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Steak",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "LODGE",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 4.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo",
+                    "children": [
+                        {
+                            "name": "GRILL&PUB The NICK STOCK",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 19.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Gottie'sBEEF",
+                            "value": 3.09,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 50.0
+                        },
+                        {
+                            "name": "Sutekihanasato",
+                            "value": 3.17,
+                            "lunch_price": "6000-7999",
+                            "dinner_price": "20000-29999",
+                            "review_num": 5.0
+                        },
+                        {
+                            "name": "Giommikaku",
+                            "value": 3.1,
+                            "lunch_price": "15000-19999",
+                            "dinner_price": "15000-19999",
+                            "review_num": 21.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "sute-kihausupondo",
+                            "value": 3.2,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 41.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Parinijuuikku",
+                            "value": 3.15,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 45.0
+                        },
+                        {
+                            "name": "Kyameron",
+                            "value": 3.07,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 50.0
+                        },
+                        {
+                            "name": "sute-kihausupondo",
+                            "value": 3.31,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 40.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "sumibisute-kisakaikyoutosanjou",
+                            "value": 3.5,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 14.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sushi",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Nijoukiduki",
+                            "value": 3.57,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 27.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Hikohachi",
+                            "value": 3.04,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 7.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashiyama",
+                    "children": [
+                        {
+                            "name": "Gionemon",
+                            "value": 3.48,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 17.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kitaoji",
+                    "children": [
+                        {
+                            "name": "Sushikawano",
+                            "value": 3.59,
+                            "lunch_price": "8000-9999",
+                            "dinner_price": "20000-29999",
+                            "review_num": 16.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cafe",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Saredokafe",
+                            "value": 3.11,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 21.0
+                        },
+                        {
+                            "name": "cafe Cento Cento",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 84.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "kafeandopanke-kiguramu",
+                            "value": 3.03,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 13.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "mo-shondaina-",
+                            "value": 3.12,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 19.0
+                        },
+                        {
+                            "name": "Teinojikafe",
+                            "value": 3.55,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 25.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Kafecherisshu",
+                            "value": 3.45,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 34.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "coLLabo",
+                            "value": 3.27,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 67.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Tambaguchi",
+                    "children": [
+                        {
+                            "name": "nikugaumaikafenikkusutokku",
+                            "value": 3.19,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 41.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Toji",
+                    "children": [
+                        {
+                            "name": "nikugaumaikafenikkusutokku",
+                            "value": 3.19,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 17.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Imadegawa",
+                    "children": [
+                        {
+                            "name": "Amakudoparadhikambaikan",
+                            "value": 3.39,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 59.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashino",
+                    "children": [
+                        {
+                            "name": "Kunseimaketto",
+                            "value": 3.33,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 12.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Uzumasa Tenjingawa",
+                    "children": [
+                        {
+                            "name": "Garejisankyukafe",
+                            "value": 3.03,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 7.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shanghai Cuisine",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Tenshinchashitsu",
+                            "value": 3.54,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 52.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sweets",
+            "children": [
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "kyoutoayanokoujimangetsunohana",
+                            "value": 3.26,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 26.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Udon",
+            "children": [
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Ikiikiudon",
+                            "value": 3.18,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 47.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kushi-age (Fried Skewer)",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Kushiyamonogatari",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 14.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Aiyoxtsu",
+                            "value": 3.05,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 5.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Western (Others)",
+            "children": [
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Brochette",
+                            "value": 3.55,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 44.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Okonomiyaki",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Okonomiyakitonchinkan",
+                            "value": 3.05,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 28.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Shougetsu",
+                            "value": 3.08,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 22.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sai",
+                    "children": [
+                        {
+                            "name": "Mossannobetayaki",
+                            "value": 3.51,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 19.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Momoyamagoryomae",
+                    "children": [
+                        {
+                            "name": "Teppen",
+                            "value": 3.06,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 11.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Thailand cooking",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Sajjoupakuchi",
+                            "value": 3.52,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 99.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kiyomizu Gojo",
+                    "children": [
+                        {
+                            "name": "Bussarakan",
+                            "value": 3.14,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 56.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Bankokugaden",
+                            "value": 3.08,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 34.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "shijoupakuchi-",
+                            "value": 3.34,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 52.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "konken",
+                            "value": 3.12,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 7.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shichijo",
+                    "children": [
+                        {
+                            "name": "Kinkao",
+                            "value": 3.55,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 74.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Western Cuisine",
+            "children": [
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Kyouyoushokumatsumoto",
+                            "value": 3.33,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 20.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Kikusui",
+                            "value": 3.18,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 82.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nijojo Mae",
+                    "children": [
+                        {
+                            "name": "Koji",
+                            "value": 3.21,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 60.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tofu",
+            "children": [
+                {
+                    "name": "Kiyomizu Gojo",
+                    "children": [
+                        {
+                            "name": "Kiyomizujunsei",
+                            "value": 3.31,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 82.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Higashiyama",
+                    "children": [
+                        {
+                            "name": "Rengetsudiya",
+                            "value": 3.11,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 23.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Arashiyama",
+                    "children": [
+                        {
+                            "name": "Yudoufutakemura",
+                            "value": 3.5,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 47.0
+                        },
+                        {
+                            "name": "Anju",
+                            "value": 3.0,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 40.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kitano Hakubaicho",
+                    "children": [
+                        {
+                            "name": "Kurosuke",
+                            "value": 3.09,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 26.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kokusaikaikan",
+                    "children": [
+                        {
+                            "name": "Yubasen",
+                            "value": 3.51,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 30.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ryokan",
+            "children": [
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Gionhatanaka",
+                            "value": 3.65,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 22.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kameoka",
+                    "children": [
+                        {
+                            "name": "Kyoutokeburikawa",
+                            "value": 3.42,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 27.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyotango",
+                    "children": [
+                        {
+                            "name": "Shourenkanyoshinoya",
+                            "value": 3.55,
+                            "lunch_price": "10000-14999",
+                            "dinner_price": "30000",
+                            "review_num": 24.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Beer garden",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Kyoutotawahoteruokujoubiagaden",
+                            "value": 3.04,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 15.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hamburger Steak",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Kitanoguriru",
+                            "value": 3.09,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 17.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Teramachihambagugokurakutombo",
+                            "value": 3.04,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 6.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Tambaguchi",
+                    "children": [
+                        {
+                            "name": "hamba-guandosute-kipondo",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 28.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fushimi Momoyama",
+                    "children": [
+                        {
+                            "name": "Saradanomisesancho",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 72.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Teppanyaki",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "teppanyakiaoi",
+                            "value": 3.09,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "10000-14999",
+                            "review_num": 11.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "guridorufo-suitsuraku",
+                            "value": 3.06,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 8.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Itoudainingu",
+                            "value": 3.33,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 18.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nijojo Mae",
+                    "children": [
+                        {
+                            "name": "Nijou",
+                            "value": 3.06,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 16.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "kyoutoteppantachibana",
+                            "value": 3.03,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 11.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shabu Shabu (Japanese Steamboat)",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Tajimaya",
+                            "value": 3.0,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 26.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Kyoutotsuyushabuchiriri",
+                            "value": 3.51,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "6000-7999",
+                            "review_num": 25.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mexico cuisine",
+            "children": [
+                {
+                    "name": "Sanjo",
+                    "children": [
+                        {
+                            "name": "mekishikandaininguabokado",
+                            "value": 3.14,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 58.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Roti Chicken&Jackie Tacos",
+                            "value": 3.53,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 67.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "European-style Curry",
+            "children": [
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Oumiyaseiemon",
+                            "value": 3.54,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 97.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pasta",
+            "children": [
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "konana",
+                            "value": 3.0,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 21.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Jingu Marutamachi",
+                    "children": [
+                        {
+                            "name": "Nagagutsutei",
+                            "value": 3.0,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 21.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Katsura",
+                    "children": [
+                        {
+                            "name": "Ishiyakinamapasutakuranosuke",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 35.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yakitori (Grilled chicken)",
+            "children": [
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Toriseetakoyakushiten",
+                            "value": 3.04,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 13.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Marutamachi",
+                    "children": [
+                        {
+                            "name": "Sumibikushiyakitsujiya",
+                            "value": 3.19,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 29.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nagaokakyo",
+                    "children": [
+                        {
+                            "name": "Sumibiyakitorikajian",
+                            "value": 3.03,
+                            "lunch_price": "999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 8.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Crepes",
+            "children": [
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Kurepurikyoutoshanderu",
+                            "value": 3.53,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 52.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pizza",
+            "children": [
+                {
+                    "name": "Sanjo",
+                    "children": [
+                        {
+                            "name": "Pittsusarubatorekuomoandoguriru",
+                            "value": 3.07,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 191.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Okinawan Cuisine",
+            "children": [
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Aguuru",
+                            "value": 3.5,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 62.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Modern French",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Byuandodainingukotoshieru",
+                            "value": 3.42,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 16.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Western Food (Other)",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Resutoranrejina",
+                            "value": 3.03,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "999",
+                            "review_num": 11.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Crab",
+            "children": [
+                {
+                    "name": "Saiin",
+                    "children": [
+                        {
+                            "name": "Kameya",
+                            "value": 3.02,
+                            "lunch_price": "2000-2999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 10.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Creative cuisine",
+            "children": [
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Mimasuyamonami",
+                            "value": 3.49,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 18.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Champon Noodle",
+            "children": [
+                {
+                    "name": "Emmachi",
+                    "children": [
+                        {
+                            "name": "Hisa",
+                            "value": 3.38,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 24.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Standing style soba",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Heso",
+                            "value": 3.35,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 54.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Beef dishes",
+            "children": [
+                {
+                    "name": "Nijojo Mae",
+                    "children": [
+                        {
+                            "name": "Watanabe",
+                            "value": 3.54,
+                            "lunch_price": "5000-5999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 15.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fugu (Blowfish)",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Gempinfugukyoutoekimaenoseki",
+                            "value": 3.07,
+                            "lunch_price": "3000-3999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 6.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Seafood",
+            "children": [
+                {
+                    "name": "Nishi Maizuru",
+                    "children": [
+                        {
+                            "name": "Toto",
+                            "value": 3.22,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 13.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ramen",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Ebisu",
+                            "value": 3.51,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 125.0
+                        },
+                        {
+                            "name": "Honkedaiichiasahi",
+                            "value": 3.6,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 1319.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Menshoutakamatsu",
+                            "value": 3.07,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 34.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Maboroshinochuukasobakatouyashijounibojirou",
+                            "value": 3.51,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 131.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Noukoutoripaitanramemmisora",
+                            "value": 3.09,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 20.0
+                        },
+                        {
+                            "name": "menkiya",
+                            "value": 3.08,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 11.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Tambaguchi",
+                    "children": [
+                        {
+                            "name": "Ajinomeimon",
+                            "value": 3.19,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 55.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Imadegawa",
+                    "children": [
+                        {
+                            "name": "Zekuu",
+                            "value": 3.34,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 39.0
+                        },
+                        {
+                            "name": "Ramenhikosaku",
+                            "value": 3.51,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 62.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Ichijoji",
+                    "children": [
+                        {
+                            "name": "chuukasobatakayasu",
+                            "value": 3.59,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 713.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pancake",
+            "children": [
+                {
+                    "name": "Nijojo Mae",
+                    "children": [
+                        {
+                            "name": "Yukinoshita",
+                            "value": 3.58,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 131.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "eruku",
+                            "value": 3.53,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 62.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Soba",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Shiunsen",
+                            "value": 3.53,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 40.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sanjo Keihan",
+                    "children": [
+                        {
+                            "name": "Giwontokiwa",
+                            "value": 3.6,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 106.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Teuchisobaminagawa",
+                            "value": 3.17,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 9.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "India cuisine",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Kerara",
+                            "value": 3.22,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 56.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fried Foods (other)",
+            "children": [
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Shunsaitempuraarima",
+                            "value": 3.25,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 22.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bread",
+            "children": [
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "ORENO PAN okumura",
+                            "value": 3.56,
+                            "lunch_price": "999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 68.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Curry (other)",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Kaosusupaisudaina",
+                            "value": 3.35,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 36.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Beer",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "Ginzaraion",
+                            "value": 3.08,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 30.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Robatayaki",
+            "children": [
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "Robatasushihotaru",
+                            "value": 3.38,
+                            "lunch_price": "999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 40.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Caf\u00e9 / coffee shop (and others)",
+            "children": [
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Nishikiichiha",
+                            "value": 3.46,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 44.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Izakaya (other)",
+            "children": [
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Haiborubakyoutoichikyunisan",
+                            "value": 3.32,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "2000-2999",
+                            "review_num": 38.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "table d'h\u00f4te",
+            "children": [
+                {
+                    "name": "Yamanouchi",
+                    "children": [
+                        {
+                            "name": "Hairaitoshiyokudou",
+                            "value": 3.08,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 41.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tonkatsu (Pork cutlet)",
+            "children": [
+                {
+                    "name": "Shijo",
+                    "children": [
+                        {
+                            "name": "Kimukatsu",
+                            "value": 3.08,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 86.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Oyako-don (Chicken Bowl)",
+            "children": [
+                {
+                    "name": "Gion Shijo",
+                    "children": [
+                        {
+                            "name": "Hisago",
+                            "value": 3.54,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 180.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Udon Suki",
+            "children": [
+                {
+                    "name": "Kawaramachi",
+                    "children": [
+                        {
+                            "name": "Kyoutogontaro",
+                            "value": 3.59,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "5000-5999",
+                            "review_num": 151.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cantonese Cuisine",
+            "children": [
+                {
+                    "name": "Higashiyama",
+                    "children": [
+                        {
+                            "name": "Giwommorikou",
+                            "value": 3.5,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "4000-4999",
+                            "review_num": 37.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Innovative cuisine",
+            "children": [
+                {
+                    "name": "Karasuma Oike",
+                    "children": [
+                        {
+                            "name": "ORTO",
+                            "value": 4.06,
+                            "lunch_price": "4000-4999",
+                            "dinner_price": "8000-9999",
+                            "review_num": 53.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Parfait",
+            "children": [
+                {
+                    "name": "Uji",
+                    "children": [
+                        {
+                            "name": "tsujiriheehonten",
+                            "value": 3.54,
+                            "lunch_price": "1000-1999",
+                            "dinner_price": "1000-1999",
+                            "review_num": 116.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Traditional Caf\u00e9",
+            "children": [
+                {
+                    "name": "Kyoto Shiyakusho Mae",
+                    "children": [
+                        {
+                            "name": "Karafuneyakohiten",
+                            "value": 3.52,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 99.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tsukemen",
+            "children": [
+                {
+                    "name": "Karasuma",
+                    "children": [
+                        {
+                            "name": "Menshoutakamatsu",
+                            "value": 3.58,
+                            "lunch_price": "999",
+                            "dinner_price": "999",
+                            "review_num": 203.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Beer bar",
+            "children": [
+                {
+                    "name": "Kyoto",
+                    "children": [
+                        {
+                            "name": "YEBISU BAR",
+                            "value": 3.08,
+                            "lunch_price": "999",
+                            "dinner_price": "3000-3999",
+                            "review_num": 70.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
