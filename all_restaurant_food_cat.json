@@ -12,40 +12,35 @@
                             "value": 3.39,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 56.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 56.0
                         },
                         {
                             "name": "o-rudeidainingukaza",
                             "value": 3.41,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 15.0
                         },
                         {
                             "name": "Tawaterasu",
                             "value": 3.35,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 29.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 29.0
                         },
                         {
                             "name": "Cafe Restaurant Le Temps",
                             "value": 3.46,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 129.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 129.0
                         },
                         {
                             "name": "Buruvaru",
                             "value": 3.08,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 39.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 39.0
                         }
                     ]
                 },
@@ -57,8 +52,7 @@
                             "value": 3.12,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 93.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 93.0
                         }
                     ]
                 },
@@ -70,8 +64,7 @@
                             "value": 3.03,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 15.0
                         }
                     ]
                 },
@@ -83,8 +76,7 @@
                             "value": 3.04,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 2.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 2.0
                         }
                     ]
                 },
@@ -96,8 +88,7 @@
                             "value": 3.16,
                             "lunch_price": "2000-2999",
                             "dinner_price": "2000-2999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 2000-2999"
+                            "review_num": 23.0
                         }
                     ]
                 },
@@ -109,16 +100,14 @@
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 21.0
                         },
                         {
                             "name": "Susumevaikingubaikingu",
                             "value": 3.03,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 21.0
                         }
                     ]
                 }
@@ -135,24 +124,21 @@
                             "value": 3.18,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 70.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 70.0
                         },
                         {
                             "name": "Kyoutodaina",
                             "value": 3.54,
                             "lunch_price": "2000-2999",
                             "dinner_price": "3000-3999",
-                            "review_num": 82.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 3000-3999"
+                            "review_num": 82.0
                         },
                         {
                             "name": "bisutorowaraku",
                             "value": 3.2,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 37.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 37.0
                         }
                     ]
                 },
@@ -164,8 +150,7 @@
                             "value": 3.59,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 107.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 107.0
                         }
                     ]
                 },
@@ -177,8 +162,7 @@
                             "value": 3.51,
                             "lunch_price": "3000-3999",
                             "dinner_price": "2000-2999",
-                            "review_num": 49.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 2000-2999"
+                            "review_num": 49.0
                         }
                     ]
                 },
@@ -190,8 +174,7 @@
                             "value": 3.58,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 48.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 48.0
                         }
                     ]
                 }
@@ -208,8 +191,7 @@
                             "value": 3.16,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 23.0
                         }
                     ]
                 }
@@ -226,32 +208,28 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 24.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 24.0
                         },
                         {
                             "name": "nikubaruginjirou",
                             "value": 3.44,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 32.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 32.0
                         },
                         {
                             "name": "Sukairaunjikuu",
                             "value": 3.09,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 56.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 56.0
                         },
                         {
                             "name": "nikutowaimbaruwaraku",
                             "value": 3.52,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 26.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 26.0
                         }
                     ]
                 },
@@ -263,8 +241,7 @@
                             "value": 3.25,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 35.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 35.0
                         }
                     ]
                 },
@@ -276,16 +253,14 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 6.0
                         },
                         {
                             "name": "nikubaruandohorumonnabetaigu",
                             "value": 3.04,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 2.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 2.0
                         }
                     ]
                 },
@@ -297,16 +272,14 @@
                             "value": 3.06,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 22.0
                         },
                         {
                             "name": "furenchigiombarumaruhashi",
                             "value": 3.54,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 54.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 54.0
                         }
                     ]
                 },
@@ -318,16 +291,14 @@
                             "value": 3.07,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 14.0
                         },
                         {
                             "name": "nikubaruginjirou",
                             "value": 3.52,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 39.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 39.0
                         }
                     ]
                 },
@@ -339,8 +310,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 2.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 2.0
                         }
                     ]
                 }
@@ -357,32 +327,28 @@
                             "value": 3.0,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 8.0
                         },
                         {
                             "name": "Zakicchinsaruvatorekuomo",
                             "value": 3.49,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 196.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 196.0
                         },
                         {
                             "name": "PASTA MORE",
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 77.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 77.0
                         },
                         {
                             "name": "Kyounojiyasaiitariampacchokone",
                             "value": 3.03,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 7.0
                         }
                     ]
                 },
@@ -394,64 +360,56 @@
                             "value": 3.51,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 52.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 52.0
                         },
                         {
                             "name": "pittsuxeriaba-rurenapori",
                             "value": 3.37,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 37.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 37.0
                         },
                         {
                             "name": "Feliz-Lana",
                             "value": 3.2,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 23.0
                         },
                         {
                             "name": "Trattoria La Voce",
                             "value": 3.5,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 76.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 76.0
                         },
                         {
                             "name": "Danieruzusore",
                             "value": 3.21,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 51.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 51.0
                         },
                         {
                             "name": "kafeandodainingubambikarasuma",
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 9.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 9.0
                         },
                         {
                             "name": "Osteria Bastille",
                             "value": 3.42,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 86.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 86.0
                         },
                         {
                             "name": "Daniel's",
                             "value": 3.26,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 108.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 108.0
                         }
                     ]
                 },
@@ -463,8 +421,7 @@
                             "value": 3.19,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 21.0
                         }
                     ]
                 },
@@ -476,8 +433,7 @@
                             "value": 3.04,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 22.0
                         }
                     ]
                 },
@@ -489,48 +445,42 @@
                             "value": 3.61,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 272.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 272.0
                         },
                         {
                             "name": "RIGOLETTO SMOKE GRILL & BAR",
                             "value": 3.52,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 113.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 113.0
                         },
                         {
                             "name": "itaria-nasagura",
                             "value": 3.59,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 76.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 76.0
                         },
                         {
                             "name": "Kenzoesuteitowainarigionten",
                             "value": 3.61,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 18.0
                         },
                         {
                             "name": "Risutoranteoraegion",
                             "value": 3.59,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 13.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 13.0
                         },
                         {
                             "name": "Ristorante t.v.b",
                             "value": 3.67,
                             "lunch_price": "5000-5999",
                             "dinner_price": "15000-19999",
-                            "review_num": 121.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 15000-19999"
+                            "review_num": 121.0
                         }
                     ]
                 },
@@ -542,8 +492,7 @@
                             "value": 3.85,
                             "lunch_price": "6000-7999",
                             "dinner_price": "10000-14999",
-                            "review_num": 39.0,
-                            "desc": "Lunch Price: 6000-7999\nDinner Price: 10000-14999"
+                            "review_num": 39.0
                         }
                     ]
                 },
@@ -555,8 +504,7 @@
                             "value": 3.44,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 33.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 33.0
                         }
                     ]
                 },
@@ -568,24 +516,21 @@
                             "value": 3.29,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 15.0
                         },
                         {
                             "name": "Rudensu",
                             "value": 3.46,
                             "lunch_price": "5000-5999",
                             "dinner_price": "10000-14999",
-                            "review_num": 4.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 10000-14999"
+                            "review_num": 4.0
                         },
                         {
                             "name": "ottimo",
                             "value": 3.48,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 22.0
                         }
                     ]
                 },
@@ -597,32 +542,28 @@
                             "value": 3.51,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 33.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 33.0
                         },
                         {
                             "name": "Sala Suite Caffe Rucola",
                             "value": 3.38,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 99.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 99.0
                         },
                         {
                             "name": "Oushokuyakappa",
                             "value": 3.06,
                             "lunch_price": "999",
                             "dinner_price": "4000-4999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 4000-4999"
+                            "review_num": 10.0
                         },
                         {
                             "name": "Osuteriakochinerra",
                             "value": 3.53,
                             "lunch_price": "1000-1999",
                             "dinner_price": "6000-7999",
-                            "review_num": 19.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 6000-7999"
+                            "review_num": 19.0
                         }
                     ]
                 },
@@ -634,8 +575,7 @@
                             "value": 3.0,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 7.0
                         }
                     ]
                 },
@@ -647,24 +587,21 @@
                             "value": 3.18,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 14.0
                         },
                         {
                             "name": "kyoumachiyaitarianronkusu",
                             "value": 3.0,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 15.0
                         },
                         {
                             "name": "Kamon",
                             "value": 3.31,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 20.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 20.0
                         }
                     ]
                 },
@@ -676,32 +613,28 @@
                             "value": 3.03,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 28.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 28.0
                         },
                         {
                             "name": "rino",
                             "value": 3.2,
                             "lunch_price": "1000-1999",
                             "dinner_price": "6000-7999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 6000-7999"
+                            "review_num": 10.0
                         },
                         {
                             "name": "il pozzo",
                             "value": 3.1,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 47.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 47.0
                         },
                         {
                             "name": "danieruzuaruba",
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 26.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 26.0
                         }
                     ]
                 },
@@ -713,16 +646,14 @@
                             "value": 3.05,
                             "lunch_price": "999",
                             "dinner_price": "4000-4999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 4000-4999"
+                            "review_num": 14.0
                         },
                         {
                             "name": "Umekoujikorabo",
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 11.0
                         }
                     ]
                 },
@@ -734,8 +665,7 @@
                             "value": 3.05,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 8.0
                         }
                     ]
                 },
@@ -747,8 +677,7 @@
                             "value": 3.07,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 48.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 48.0
                         }
                     ]
                 },
@@ -760,16 +689,14 @@
                             "value": 3.07,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 20.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 20.0
                         },
                         {
                             "name": "IN THE GREEN",
                             "value": 3.52,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 101.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 101.0
                         }
                     ]
                 },
@@ -781,8 +708,7 @@
                             "value": 3.57,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 112.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 112.0
                         }
                     ]
                 },
@@ -794,8 +720,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 10.0
                         }
                     ]
                 },
@@ -807,8 +732,7 @@
                             "value": 3.0,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 6.0
                         }
                     ]
                 }
@@ -825,16 +749,14 @@
                             "value": 3.07,
                             "lunch_price": "5000-5999",
                             "dinner_price": "10000-14999",
-                            "review_num": 33.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 10000-14999"
+                            "review_num": 33.0
                         },
                         {
                             "name": "kaisekifuransuryourigurumantachibana",
                             "value": 3.18,
                             "lunch_price": "4000-4999",
                             "dinner_price": "8000-9999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 8000-9999"
+                            "review_num": 12.0
                         }
                     ]
                 },
@@ -846,8 +768,7 @@
                             "value": 3.55,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 38.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 38.0
                         }
                     ]
                 },
@@ -859,24 +780,21 @@
                             "value": 3.58,
                             "lunch_price": "6000-7999",
                             "dinner_price": "8000-9999",
-                            "review_num": 120.0,
-                            "desc": "Lunch Price: 6000-7999\nDinner Price: 8000-9999"
+                            "review_num": 120.0
                         },
                         {
                             "name": "Yosuke YAMAJI",
                             "value": 4.02,
                             "lunch_price": "8000-9999",
                             "dinner_price": "20000-29999",
-                            "review_num": 44.0,
-                            "desc": "Lunch Price: 8000-9999\nDinner Price: 20000-29999"
+                            "review_num": 44.0
                         },
                         {
                             "name": "Grelot",
                             "value": 3.45,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 16.0
                         }
                     ]
                 },
@@ -888,8 +806,7 @@
                             "value": 3.17,
                             "lunch_price": "2000-2999",
                             "dinner_price": "8000-9999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 8000-9999"
+                            "review_num": 23.0
                         }
                     ]
                 },
@@ -901,8 +818,7 @@
                             "value": 3.31,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 18.0
                         }
                     ]
                 },
@@ -914,8 +830,7 @@
                             "value": 3.06,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 12.0
                         }
                     ]
                 },
@@ -927,8 +842,7 @@
                             "value": 3.44,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 15.0
                         }
                     ]
                 },
@@ -940,8 +854,7 @@
                             "value": 3.4,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 5.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 5.0
                         }
                     ]
                 },
@@ -953,8 +866,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 14.0
                         }
                     ]
                 },
@@ -966,16 +878,14 @@
                             "value": 3.66,
                             "lunch_price": "5000-5999",
                             "dinner_price": "10000-14999",
-                            "review_num": 30.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 10000-14999"
+                            "review_num": 30.0
                         },
                         {
                             "name": "Arashiyamakohakudou",
                             "value": 3.07,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 27.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 27.0
                         }
                     ]
                 },
@@ -987,8 +897,7 @@
                             "value": 3.39,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 36.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 36.0
                         }
                     ]
                 },
@@ -1000,8 +909,7 @@
                             "value": 3.04,
                             "lunch_price": "3000-3999",
                             "dinner_price": "5000-5999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 5000-5999"
+                            "review_num": 16.0
                         }
                     ]
                 }
@@ -1018,72 +926,63 @@
                             "value": 3.18,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 33.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 33.0
                         },
                         {
                             "name": "Ichishun",
                             "value": 3.53,
                             "lunch_price": "999",
                             "dinner_price": "4000-4999",
-                            "review_num": 72.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 4000-4999"
+                            "review_num": 72.0
                         },
                         {
                             "name": "Saketosakanatootokomaeshokudou",
                             "value": 3.0,
                             "lunch_price": "3000-3999",
                             "dinner_price": "3000-3999",
-                            "review_num": 5.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 3000-3999"
+                            "review_num": 5.0
                         },
                         {
                             "name": "Torisei",
                             "value": 3.16,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 21.0
                         },
                         {
                             "name": "Kyoutokimurayahonten",
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 48.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 48.0
                         },
                         {
                             "name": "Okonomiyakitsuruhashifuugetsu",
                             "value": 3.09,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 21.0
                         },
                         {
                             "name": "Juunikiyakan",
                             "value": 3.06,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 31.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 31.0
                         },
                         {
                             "name": "Kidoriya",
                             "value": 3.0,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 12.0
                         },
                         {
                             "name": "Kokekokko",
                             "value": 3.05,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 70.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 70.0
                         }
                     ]
                 },
@@ -1095,64 +994,56 @@
                             "value": 3.09,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 31.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 31.0
                         },
                         {
                             "name": "Kushiyachouemon",
                             "value": 3.03,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 10.0
                         },
                         {
                             "name": "Satsumagokamon",
                             "value": 3.07,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 27.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 27.0
                         },
                         {
                             "name": "Toriasa",
                             "value": 3.09,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 23.0
                         },
                         {
                             "name": "Kinnotsubasaerudoru",
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 23.0
                         },
                         {
                             "name": "nikubarudakara",
                             "value": 3.04,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 6.0
                         },
                         {
                             "name": "Enyanishiki",
                             "value": 3.12,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 37.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 37.0
                         },
                         {
                             "name": "Sakaguratamanohikari",
                             "value": 3.05,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 6.0
                         }
                     ]
                 },
@@ -1164,16 +1055,14 @@
                             "value": 3.12,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 27.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 27.0
                         },
                         {
                             "name": "kyoutofushimigurapontochouminamian",
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 4.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 4.0
                         }
                     ]
                 },
@@ -1185,8 +1074,7 @@
                             "value": 3.5,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 16.0
                         }
                     ]
                 },
@@ -1198,32 +1086,28 @@
                             "value": 3.17,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 35.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 35.0
                         },
                         {
                             "name": "pasutakorekushonandoba-dougetsuneo",
                             "value": 3.43,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 9.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 9.0
                         },
                         {
                             "name": "Kyoutosakagurakan",
                             "value": 3.25,
                             "lunch_price": "2000-2999",
                             "dinner_price": "3000-3999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 3000-3999"
+                            "review_num": 8.0
                         },
                         {
                             "name": "Kyounozenkuruma",
                             "value": 3.52,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 42.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 42.0
                         }
                     ]
                 },
@@ -1235,32 +1119,28 @@
                             "value": 3.02,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 10.0
                         },
                         {
                             "name": "Ichibakouji",
                             "value": 3.51,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 69.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 69.0
                         },
                         {
                             "name": "Kawamuraryourihei",
                             "value": 3.07,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 24.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 24.0
                         },
                         {
                             "name": "Kyounojidoriyaaki",
                             "value": 3.06,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 8.0
                         }
                     ]
                 },
@@ -1272,16 +1152,14 @@
                             "value": 3.03,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 10.0
                         },
                         {
                             "name": "Gohanya",
                             "value": 3.05,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 11.0
                         }
                     ]
                 },
@@ -1293,8 +1171,7 @@
                             "value": 3.5,
                             "lunch_price": "3000-3999",
                             "dinner_price": "1000-1999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 1000-1999"
+                            "review_num": 18.0
                         }
                     ]
                 },
@@ -1306,8 +1183,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 17.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 17.0
                         }
                     ]
                 },
@@ -1319,16 +1195,14 @@
                             "value": 3.39,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 9.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 9.0
                         },
                         {
                             "name": "teuchiudonishokuyabongu",
                             "value": 3.07,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 14.0
                         }
                     ]
                 },
@@ -1340,8 +1214,7 @@
                             "value": 3.05,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 2.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 2.0
                         }
                     ]
                 },
@@ -1353,8 +1226,7 @@
                             "value": 3.12,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 29.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 29.0
                         }
                     ]
                 },
@@ -1366,8 +1238,7 @@
                             "value": 3.05,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 7.0
                         }
                     ]
                 },
@@ -1379,8 +1250,7 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 27.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 27.0
                         }
                     ]
                 },
@@ -1392,8 +1262,7 @@
                             "value": 3.53,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 16.0
                         }
                     ]
                 },
@@ -1405,8 +1274,7 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 8.0
                         }
                     ]
                 },
@@ -1418,8 +1286,7 @@
                             "value": 3.23,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 24.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 24.0
                         }
                     ]
                 },
@@ -1431,8 +1298,7 @@
                             "value": 3.0,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 10.0
                         }
                     ]
                 },
@@ -1444,8 +1310,7 @@
                             "value": 3.0,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 12.0
                         }
                     ]
                 }
@@ -1462,8 +1327,7 @@
                             "value": 3.64,
                             "lunch_price": "2000-2999",
                             "dinner_price": "8000-9999",
-                            "review_num": 46.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 8000-9999"
+                            "review_num": 46.0
                         }
                     ]
                 },
@@ -1475,8 +1339,7 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 5.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 5.0
                         }
                     ]
                 }
@@ -1493,24 +1356,21 @@
                             "value": 3.13,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 14.0
                         },
                         {
                             "name": "Tenkanoyakinikudaishougun",
                             "value": 3.05,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 19.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 19.0
                         },
                         {
                             "name": "Yakinikutoraji",
                             "value": 3.13,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 39.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 39.0
                         }
                     ]
                 },
@@ -1522,16 +1382,14 @@
                             "value": 3.52,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 33.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 33.0
                         },
                         {
                             "name": "yakinikutobi-ruichibakouji",
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 4.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 4.0
                         }
                     ]
                 },
@@ -1543,16 +1401,14 @@
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 6.0
                         },
                         {
                             "name": "wagyuuyakinikutoku",
                             "value": 3.53,
                             "lunch_price": "1000-1999",
                             "dinner_price": "6000-7999",
-                            "review_num": 29.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 6000-7999"
+                            "review_num": 29.0
                         }
                     ]
                 },
@@ -1564,16 +1420,14 @@
                             "value": 3.22,
                             "lunch_price": "1000-1999",
                             "dinner_price": "6000-7999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 6000-7999"
+                            "review_num": 15.0
                         },
                         {
                             "name": "Yakinikuyaruki",
                             "value": 3.07,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 29.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 29.0
                         }
                     ]
                 },
@@ -1585,24 +1439,21 @@
                             "value": 3.5,
                             "lunch_price": "999",
                             "dinner_price": "5000-5999",
-                            "review_num": 13.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 5000-5999"
+                            "review_num": 13.0
                         },
                         {
                             "name": "nikudokoroikkou",
                             "value": 3.04,
                             "lunch_price": "999",
                             "dinner_price": "4000-4999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 4000-4999"
+                            "review_num": 12.0
                         },
                         {
                             "name": "Kihara",
                             "value": 3.15,
                             "lunch_price": "999",
                             "dinner_price": "4000-4999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 4000-4999"
+                            "review_num": 15.0
                         }
                     ]
                 },
@@ -1614,8 +1465,7 @@
                             "value": 3.04,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 16.0
                         }
                     ]
                 },
@@ -1627,8 +1477,7 @@
                             "value": 3.24,
                             "lunch_price": "999",
                             "dinner_price": "5000-5999",
-                            "review_num": 33.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 5000-5999"
+                            "review_num": 33.0
                         }
                     ]
                 },
@@ -1640,16 +1489,14 @@
                             "value": 3.28,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 26.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 26.0
                         },
                         {
                             "name": "Yakinikuhorumongyuuteruryourianiki",
                             "value": 3.14,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 14.0
                         }
                     ]
                 },
@@ -1661,8 +1508,7 @@
                             "value": 3.2,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 27.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 27.0
                         }
                     ]
                 },
@@ -1674,8 +1520,7 @@
                             "value": 3.03,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 21.0
                         }
                     ]
                 },
@@ -1687,8 +1532,7 @@
                             "value": 3.42,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 13.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 13.0
                         }
                     ]
                 },
@@ -1700,8 +1544,7 @@
                             "value": 3.09,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 13.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 13.0
                         }
                     ]
                 },
@@ -1713,8 +1556,7 @@
                             "value": 3.07,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 22.0
                         }
                     ]
                 },
@@ -1726,16 +1568,14 @@
                             "value": 3.58,
                             "lunch_price": "1000-1999",
                             "dinner_price": "8000-9999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 8000-9999"
+                            "review_num": 18.0
                         },
                         {
                             "name": "Kamogawatakashi",
                             "value": 3.59,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 58.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 58.0
                         }
                     ]
                 },
@@ -1747,8 +1587,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 5.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 5.0
                         }
                     ]
                 },
@@ -1760,8 +1599,7 @@
                             "value": 3.19,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 11.0
                         }
                     ]
                 },
@@ -1773,8 +1611,7 @@
                             "value": 3.07,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 10.0
                         }
                     ]
                 },
@@ -1786,8 +1623,7 @@
                             "value": 3.05,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 19.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 19.0
                         }
                     ]
                 }
@@ -1804,16 +1640,14 @@
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 9.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 9.0
                         },
                         {
                             "name": "Tenichi",
                             "value": 3.51,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 52.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 52.0
                         }
                     ]
                 },
@@ -1825,16 +1659,14 @@
                             "value": 3.55,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 140.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 140.0
                         },
                         {
                             "name": "Kyoutonishikitempurasakabataneshichi",
                             "value": 3.06,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 12.0
                         }
                     ]
                 },
@@ -1846,16 +1678,14 @@
                             "value": 3.68,
                             "lunch_price": "5000-5999",
                             "dinner_price": "10000-14999",
-                            "review_num": 252.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 10000-14999"
+                            "review_num": 252.0
                         },
                         {
                             "name": "KYOTO GATTEN",
                             "value": 3.09,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 11.0
                         }
                     ]
                 },
@@ -1867,8 +1697,7 @@
                             "value": 3.55,
                             "lunch_price": "5000-5999",
                             "dinner_price": "10000-14999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 10000-14999"
+                            "review_num": 6.0
                         }
                     ]
                 },
@@ -1880,8 +1709,7 @@
                             "value": 3.02,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 17.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 17.0
                         }
                     ]
                 },
@@ -1893,8 +1721,7 @@
                             "value": 3.56,
                             "lunch_price": "3000-3999",
                             "dinner_price": "5000-5999",
-                            "review_num": 40.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 5000-5999"
+                            "review_num": 40.0
                         }
                     ]
                 }
@@ -1911,16 +1738,14 @@
                             "value": 3.5,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 68.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 68.0
                         },
                         {
                             "name": "Southern Court",
                             "value": 3.58,
                             "lunch_price": "2000-2999",
                             "dinner_price": "3000-3999",
-                            "review_num": 82.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 3000-3999"
+                            "review_num": 82.0
                         }
                     ]
                 },
@@ -1932,8 +1757,7 @@
                             "value": 3.06,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 19.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 19.0
                         }
                     ]
                 },
@@ -1945,8 +1769,7 @@
                             "value": 3.48,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 39.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 39.0
                         }
                     ]
                 },
@@ -1958,16 +1781,14 @@
                             "value": 3.07,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 32.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 32.0
                         },
                         {
                             "name": "Ginzaraion",
                             "value": 3.03,
                             "lunch_price": "999",
                             "dinner_price": "4000-4999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 4000-4999"
+                            "review_num": 21.0
                         }
                     ]
                 },
@@ -1979,8 +1800,7 @@
                             "value": 3.53,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 36.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 36.0
                         }
                     ]
                 },
@@ -1992,8 +1812,7 @@
                             "value": 3.04,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 10.0
                         }
                     ]
                 },
@@ -2005,8 +1824,7 @@
                             "value": 3.08,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 40.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 40.0
                         }
                     ]
                 },
@@ -2018,16 +1836,14 @@
                             "value": 3.07,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 11.0
                         },
                         {
                             "name": "Ujisoukokoro",
                             "value": 3.07,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 25.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 25.0
                         }
                     ]
                 }
@@ -2044,16 +1860,14 @@
                             "value": 3.53,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 42.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 42.0
                         },
                         {
                             "name": "Ganko",
                             "value": 3.18,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 50.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 50.0
                         }
                     ]
                 },
@@ -2065,16 +1879,14 @@
                             "value": 3.52,
                             "lunch_price": "3000-3999",
                             "dinner_price": "5000-5999",
-                            "review_num": 79.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 5000-5999"
+                            "review_num": 79.0
                         },
                         {
                             "name": "nihonryourisakuragawa",
                             "value": 3.89,
                             "lunch_price": "8000-9999",
                             "dinner_price": "20000-29999",
-                            "review_num": 61.0,
-                            "desc": "Lunch Price: 8000-9999\nDinner Price: 20000-29999"
+                            "review_num": 61.0
                         }
                     ]
                 },
@@ -2086,8 +1898,7 @@
                             "value": 3.23,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 15.0
                         }
                     ]
                 },
@@ -2099,32 +1910,28 @@
                             "value": 3.57,
                             "lunch_price": "3000-3999",
                             "dinner_price": "10000-14999",
-                            "review_num": 57.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 10000-14999"
+                            "review_num": 57.0
                         },
                         {
                             "name": "Gionyamamoto",
                             "value": 3.06,
                             "lunch_price": "10000-14999",
                             "dinner_price": "10000-14999",
-                            "review_num": 2.0,
-                            "desc": "Lunch Price: 10000-14999\nDinner Price: 10000-14999"
+                            "review_num": 2.0
                         },
                         {
                             "name": "kyoutogyuukaisekiinayoshi",
                             "value": 3.52,
                             "lunch_price": "3000-3999",
                             "dinner_price": "10000-14999",
-                            "review_num": 36.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 10000-14999"
+                            "review_num": 36.0
                         },
                         {
                             "name": "Nagamegawapontochouhana",
                             "value": 3.56,
                             "lunch_price": "3000-3999",
                             "dinner_price": "5000-5999",
-                            "review_num": 36.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 5000-5999"
+                            "review_num": 36.0
                         }
                     ]
                 },
@@ -2136,8 +1943,7 @@
                             "value": 3.51,
                             "lunch_price": "5000-5999",
                             "dinner_price": "8000-9999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 8000-9999"
+                            "review_num": 23.0
                         }
                     ]
                 },
@@ -2149,8 +1955,7 @@
                             "value": 3.18,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 28.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 28.0
                         }
                     ]
                 },
@@ -2162,8 +1967,7 @@
                             "value": 3.6,
                             "lunch_price": "5000-5999",
                             "dinner_price": "10000-14999",
-                            "review_num": 31.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 10000-14999"
+                            "review_num": 31.0
                         }
                     ]
                 },
@@ -2175,8 +1979,7 @@
                             "value": 3.0,
                             "lunch_price": "3000-3999",
                             "dinner_price": "5000-5999",
-                            "review_num": 31.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 5000-5999"
+                            "review_num": 31.0
                         }
                     ]
                 },
@@ -2188,8 +1991,7 @@
                             "value": 3.06,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 12.0
                         }
                     ]
                 },
@@ -2201,16 +2003,14 @@
                             "value": 3.16,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 33.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 33.0
                         },
                         {
                             "name": "Shimogamosaryou",
                             "value": 3.61,
                             "lunch_price": "8000-9999",
                             "dinner_price": "15000-19999",
-                            "review_num": 72.0,
-                            "desc": "Lunch Price: 8000-9999\nDinner Price: 15000-19999"
+                            "review_num": 72.0
                         }
                     ]
                 },
@@ -2222,8 +2022,7 @@
                             "value": 3.63,
                             "lunch_price": "6000-7999",
                             "dinner_price": "10000-14999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 6000-7999\nDinner Price: 10000-14999"
+                            "review_num": 8.0
                         }
                     ]
                 },
@@ -2235,24 +2034,21 @@
                             "value": 3.59,
                             "lunch_price": "15000-19999",
                             "dinner_price": "15000-19999",
-                            "review_num": 51.0,
-                            "desc": "Lunch Price: 15000-19999\nDinner Price: 15000-19999"
+                            "review_num": 51.0
                         },
                         {
                             "name": "Kifunekiraku",
                             "value": 3.52,
                             "lunch_price": "3000-3999",
                             "dinner_price": "10000-14999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 10000-14999"
+                            "review_num": 23.0
                         },
                         {
                             "name": "kibunebeniya",
                             "value": 3.54,
                             "lunch_price": "6000-7999",
                             "dinner_price": "6000-7999",
-                            "review_num": 30.0,
-                            "desc": "Lunch Price: 6000-7999\nDinner Price: 6000-7999"
+                            "review_num": 30.0
                         }
                     ]
                 },
@@ -2264,8 +2060,7 @@
                             "value": 3.06,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 22.0
                         }
                     ]
                 },
@@ -2277,8 +2072,7 @@
                             "value": 3.06,
                             "lunch_price": "5000-5999",
                             "dinner_price": "8000-9999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 8000-9999"
+                            "review_num": 8.0
                         }
                     ]
                 },
@@ -2290,8 +2084,7 @@
                             "value": 3.27,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 17.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 17.0
                         }
                     ]
                 }
@@ -2308,8 +2101,7 @@
                             "value": 3.31,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 16.0
                         }
                     ]
                 },
@@ -2321,8 +2113,7 @@
                             "value": 3.5,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 66.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 66.0
                         }
                     ]
                 },
@@ -2334,8 +2125,7 @@
                             "value": 3.5,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 44.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 44.0
                         }
                     ]
                 },
@@ -2347,8 +2137,7 @@
                             "value": 3.51,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 32.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 32.0
                         }
                     ]
                 },
@@ -2360,8 +2149,7 @@
                             "value": 3.14,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 19.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 19.0
                         }
                     ]
                 },
@@ -2373,16 +2161,14 @@
                             "value": 3.88,
                             "lunch_price": "1000-1999",
                             "dinner_price": "10000-14999",
-                            "review_num": 148.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 10000-14999"
+                            "review_num": 148.0
                         },
                         {
                             "name": "Yukari",
                             "value": 3.32,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 8.0
                         }
                     ]
                 },
@@ -2394,8 +2180,7 @@
                             "value": 3.09,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 36.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 36.0
                         }
                     ]
                 },
@@ -2407,8 +2192,7 @@
                             "value": 3.12,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 29.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 29.0
                         }
                     ]
                 },
@@ -2420,8 +2204,7 @@
                             "value": 3.06,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 9.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 9.0
                         }
                     ]
                 },
@@ -2433,8 +2216,7 @@
                             "value": 3.2,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 62.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 62.0
                         }
                     ]
                 },
@@ -2446,8 +2228,7 @@
                             "value": 3.15,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 25.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 25.0
                         }
                     ]
                 }
@@ -2464,8 +2245,7 @@
                             "value": 3.0,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 6.0
                         }
                     ]
                 },
@@ -2477,40 +2257,35 @@
                             "value": 3.58,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 30.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 30.0
                         },
                         {
                             "name": "Mukadeya",
                             "value": 3.07,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 21.0
                         },
                         {
                             "name": "Kyouwazentainotai",
                             "value": 3.42,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 3.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 3.0
                         },
                         {
                             "name": "Ippinhashinaga",
                             "value": 3.51,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 15.0
                         },
                         {
                             "name": "IZAMA",
                             "value": 3.53,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 40.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 40.0
                         }
                     ]
                 },
@@ -2522,24 +2297,21 @@
                             "value": 3.38,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 21.0
                         },
                         {
                             "name": "Kyouryouritakeshimaichigo",
                             "value": 3.07,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 10.0
                         },
                         {
                             "name": "Ryuunohige",
                             "value": 3.7,
                             "lunch_price": "3000-3999",
                             "dinner_price": "5000-5999",
-                            "review_num": 70.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 5000-5999"
+                            "review_num": 70.0
                         }
                     ]
                 },
@@ -2551,16 +2323,14 @@
                             "value": 3.48,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 29.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 29.0
                         },
                         {
                             "name": "Fujiya",
                             "value": 3.09,
                             "lunch_price": "5000-5999",
                             "dinner_price": "8000-9999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 8000-9999"
+                            "review_num": 7.0
                         }
                     ]
                 },
@@ -2572,80 +2342,70 @@
                             "value": 3.5,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 56.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 56.0
                         },
                         {
                             "name": "Gionramburu",
                             "value": 3.56,
                             "lunch_price": "3000-3999",
                             "dinner_price": "5000-5999",
-                            "review_num": 24.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 5000-5999"
+                            "review_num": 24.0
                         },
                         {
                             "name": "Daitouryou",
                             "value": 3.08,
                             "lunch_price": "4000-4999",
                             "dinner_price": "6000-7999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 6000-7999"
+                            "review_num": 16.0
                         },
                         {
                             "name": "Karyou",
                             "value": 3.68,
                             "lunch_price": "5000-5999",
                             "dinner_price": "10000-14999",
-                            "review_num": 56.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 10000-14999"
+                            "review_num": 56.0
                         },
                         {
                             "name": "gionkurashita",
                             "value": 3.39,
                             "lunch_price": "3000-3999",
                             "dinner_price": "10000-14999",
-                            "review_num": 20.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 10000-14999"
+                            "review_num": 20.0
                         },
                         {
                             "name": "Gionshimbashinakatani",
                             "value": 3.56,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 8.0
                         },
                         {
                             "name": "Gioniwamoto",
                             "value": 3.63,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 18.0
                         },
                         {
                             "name": "Kyoutomamehachi",
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 22.0
                         },
                         {
                             "name": "Kyoutogionkawamuraryourihei",
                             "value": 3.0,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 3.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 3.0
                         },
                         {
                             "name": "Koudaijihashiba",
                             "value": 3.23,
                             "lunch_price": "2000-2999",
                             "dinner_price": "2000-2999",
-                            "review_num": 31.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 2000-2999"
+                            "review_num": 31.0
                         }
                     ]
                 },
@@ -2657,24 +2417,21 @@
                             "value": 3.51,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 11.0
                         },
                         {
                             "name": "kyouryourikaji",
                             "value": 3.56,
                             "lunch_price": "5000-5999",
                             "dinner_price": "8000-9999",
-                            "review_num": 67.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 8000-9999"
+                            "review_num": 67.0
                         },
                         {
                             "name": "Kyouryouriyumekaisekitaniguchi",
                             "value": 3.51,
                             "lunch_price": "4000-4999",
                             "dinner_price": "6000-7999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 6000-7999"
+                            "review_num": 6.0
                         }
                     ]
                 },
@@ -2686,16 +2443,14 @@
                             "value": 3.15,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 16.0
                         },
                         {
                             "name": "Shusaishokubouichi",
                             "value": 3.22,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 50.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 50.0
                         }
                     ]
                 },
@@ -2707,8 +2462,7 @@
                             "value": 3.06,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 7.0
                         }
                     ]
                 },
@@ -2720,8 +2474,7 @@
                             "value": 3.59,
                             "lunch_price": "6000-7999",
                             "dinner_price": "20000-29999",
-                            "review_num": 74.0,
-                            "desc": "Lunch Price: 6000-7999\nDinner Price: 20000-29999"
+                            "review_num": 74.0
                         }
                     ]
                 },
@@ -2733,8 +2486,7 @@
                             "value": 3.02,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 4.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 4.0
                         }
                     ]
                 },
@@ -2746,8 +2498,7 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 11.0
                         }
                     ]
                 },
@@ -2759,8 +2510,7 @@
                             "value": 3.54,
                             "lunch_price": "6000-7999",
                             "dinner_price": "10000-14999",
-                            "review_num": 55.0,
-                            "desc": "Lunch Price: 6000-7999\nDinner Price: 10000-14999"
+                            "review_num": 55.0
                         }
                     ]
                 },
@@ -2772,8 +2522,7 @@
                             "value": 3.56,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 29.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 29.0
                         }
                     ]
                 },
@@ -2785,16 +2534,14 @@
                             "value": 3.04,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 5.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 5.0
                         },
                         {
                             "name": "Tatsumiya",
                             "value": 3.07,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 20.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 20.0
                         }
                     ]
                 },
@@ -2806,8 +2553,7 @@
                             "value": 3.07,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 12.0
                         }
                     ]
                 }
@@ -2824,8 +2570,7 @@
                             "value": 3.58,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 24.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 24.0
                         }
                     ]
                 },
@@ -2837,8 +2582,7 @@
                             "value": 3.16,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 23.0
                         }
                     ]
                 },
@@ -2850,8 +2594,7 @@
                             "value": 3.28,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 10.0
                         }
                     ]
                 }
@@ -2868,16 +2611,14 @@
                             "value": 3.46,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 34.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 34.0
                         },
                         {
                             "name": "Minari",
                             "value": 3.05,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 18.0
                         }
                     ]
                 },
@@ -2889,8 +2630,7 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 20.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 20.0
                         }
                     ]
                 },
@@ -2902,8 +2642,7 @@
                             "value": 3.33,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 78.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 78.0
                         }
                     ]
                 },
@@ -2915,8 +2654,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 22.0
                         }
                     ]
                 }
@@ -2933,8 +2671,7 @@
                             "value": 3.21,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 7.0
                         }
                     ]
                 }
@@ -2951,8 +2688,7 @@
                             "value": 3.04,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 18.0
                         }
                     ]
                 },
@@ -2964,8 +2700,7 @@
                             "value": 3.41,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 50.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 50.0
                         }
                     ]
                 }
@@ -2982,8 +2717,7 @@
                             "value": 3.26,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 21.0
                         }
                     ]
                 },
@@ -2995,24 +2729,21 @@
                             "value": 3.58,
                             "lunch_price": "10000-14999",
                             "dinner_price": "10000-14999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 10000-14999\nDinner Price: 10000-14999"
+                            "review_num": 16.0
                         },
                         {
                             "name": "matono",
                             "value": 3.72,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 69.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 69.0
                         },
                         {
                             "name": "Kabochanotane",
                             "value": 3.51,
                             "lunch_price": "2000-2999",
                             "dinner_price": "3000-3999",
-                            "review_num": 25.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 3000-3999"
+                            "review_num": 25.0
                         }
                     ]
                 },
@@ -3024,16 +2755,14 @@
                             "value": 3.53,
                             "lunch_price": "2000-2999",
                             "dinner_price": "8000-9999",
-                            "review_num": 13.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 8000-9999"
+                            "review_num": 13.0
                         },
                         {
                             "name": "Kyoukarasuma",
                             "value": 3.04,
                             "lunch_price": "2000-2999",
                             "dinner_price": "5000-5999",
-                            "review_num": 3.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 5000-5999"
+                            "review_num": 3.0
                         }
                     ]
                 },
@@ -3045,16 +2774,14 @@
                             "value": 3.15,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 6.0
                         },
                         {
                             "name": "Kaisekihyouki",
                             "value": 3.47,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 39.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 39.0
                         }
                     ]
                 },
@@ -3066,8 +2793,7 @@
                             "value": 3.5,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 110.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 110.0
                         }
                     ]
                 },
@@ -3079,8 +2805,7 @@
                             "value": 3.1,
                             "lunch_price": "2000-2999",
                             "dinner_price": "8000-9999",
-                            "review_num": 9.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 8000-9999"
+                            "review_num": 9.0
                         }
                     ]
                 }
@@ -3097,8 +2822,7 @@
                             "value": 3.08,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 34.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 34.0
                         }
                     ]
                 },
@@ -3110,8 +2834,7 @@
                             "value": 3.53,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 14.0
                         }
                     ]
                 },
@@ -3123,8 +2846,7 @@
                             "value": 3.08,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 26.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 26.0
                         }
                     ]
                 }
@@ -3141,8 +2863,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 4.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 4.0
                         }
                     ]
                 },
@@ -3154,8 +2875,7 @@
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 19.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 19.0
                         }
                     ]
                 },
@@ -3167,24 +2887,21 @@
                             "value": 3.09,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 50.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 50.0
                         },
                         {
                             "name": "Sutekihanasato",
                             "value": 3.17,
                             "lunch_price": "6000-7999",
                             "dinner_price": "20000-29999",
-                            "review_num": 5.0,
-                            "desc": "Lunch Price: 6000-7999\nDinner Price: 20000-29999"
+                            "review_num": 5.0
                         },
                         {
                             "name": "Giommikaku",
                             "value": 3.1,
                             "lunch_price": "15000-19999",
                             "dinner_price": "15000-19999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 15000-19999\nDinner Price: 15000-19999"
+                            "review_num": 21.0
                         }
                     ]
                 },
@@ -3196,8 +2913,7 @@
                             "value": 3.2,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 41.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 41.0
                         }
                     ]
                 },
@@ -3209,24 +2925,21 @@
                             "value": 3.15,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 45.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 45.0
                         },
                         {
                             "name": "Kyameron",
                             "value": 3.07,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 50.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 50.0
                         },
                         {
                             "name": "sute-kihausupondo",
                             "value": 3.31,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 40.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 40.0
                         }
                     ]
                 },
@@ -3238,8 +2951,7 @@
                             "value": 3.5,
                             "lunch_price": "1000-1999",
                             "dinner_price": "10000-14999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 10000-14999"
+                            "review_num": 14.0
                         }
                     ]
                 }
@@ -3256,8 +2968,7 @@
                             "value": 3.57,
                             "lunch_price": "1000-1999",
                             "dinner_price": "6000-7999",
-                            "review_num": 27.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 6000-7999"
+                            "review_num": 27.0
                         }
                     ]
                 },
@@ -3269,8 +2980,7 @@
                             "value": 3.04,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 7.0
                         }
                     ]
                 },
@@ -3282,8 +2992,7 @@
                             "value": 3.48,
                             "lunch_price": "1000-1999",
                             "dinner_price": "6000-7999",
-                            "review_num": 17.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 6000-7999"
+                            "review_num": 17.0
                         }
                     ]
                 },
@@ -3295,8 +3004,7 @@
                             "value": 3.59,
                             "lunch_price": "8000-9999",
                             "dinner_price": "20000-29999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 8000-9999\nDinner Price: 20000-29999"
+                            "review_num": 16.0
                         }
                     ]
                 }
@@ -3313,16 +3021,14 @@
                             "value": 3.11,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 21.0
                         },
                         {
                             "name": "cafe Cento Cento",
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 84.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 84.0
                         }
                     ]
                 },
@@ -3334,8 +3040,7 @@
                             "value": 3.03,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 13.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 13.0
                         }
                     ]
                 },
@@ -3347,16 +3052,14 @@
                             "value": 3.12,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 19.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 19.0
                         },
                         {
                             "name": "Teinojikafe",
                             "value": 3.55,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 25.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 25.0
                         }
                     ]
                 },
@@ -3368,8 +3071,7 @@
                             "value": 3.45,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 34.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 34.0
                         }
                     ]
                 },
@@ -3381,8 +3083,7 @@
                             "value": 3.27,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 67.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 67.0
                         }
                     ]
                 },
@@ -3394,8 +3095,7 @@
                             "value": 3.19,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 41.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 41.0
                         }
                     ]
                 },
@@ -3407,8 +3107,7 @@
                             "value": 3.19,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 17.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 17.0
                         }
                     ]
                 },
@@ -3420,8 +3119,7 @@
                             "value": 3.39,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 59.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 59.0
                         }
                     ]
                 },
@@ -3433,8 +3131,7 @@
                             "value": 3.33,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 12.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 12.0
                         }
                     ]
                 },
@@ -3446,8 +3143,7 @@
                             "value": 3.03,
                             "lunch_price": "2000-2999",
                             "dinner_price": "2000-2999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 2000-2999"
+                            "review_num": 7.0
                         }
                     ]
                 }
@@ -3464,8 +3160,7 @@
                             "value": 3.54,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 52.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 52.0
                         }
                     ]
                 }
@@ -3482,8 +3177,7 @@
                             "value": 3.26,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 26.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 26.0
                         }
                     ]
                 }
@@ -3500,8 +3194,7 @@
                             "value": 3.18,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 47.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 47.0
                         }
                     ]
                 }
@@ -3518,8 +3211,7 @@
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 14.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 14.0
                         }
                     ]
                 },
@@ -3531,8 +3223,7 @@
                             "value": 3.05,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 5.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 5.0
                         }
                     ]
                 }
@@ -3549,8 +3240,7 @@
                             "value": 3.55,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 44.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 44.0
                         }
                     ]
                 }
@@ -3567,8 +3257,7 @@
                             "value": 3.05,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 28.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 28.0
                         }
                     ]
                 },
@@ -3580,8 +3269,7 @@
                             "value": 3.08,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 22.0
                         }
                     ]
                 },
@@ -3593,8 +3281,7 @@
                             "value": 3.51,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 19.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 19.0
                         }
                     ]
                 },
@@ -3606,8 +3293,7 @@
                             "value": 3.06,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 11.0
                         }
                     ]
                 }
@@ -3624,8 +3310,7 @@
                             "value": 3.52,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 99.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 99.0
                         }
                     ]
                 },
@@ -3637,8 +3322,7 @@
                             "value": 3.14,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 56.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 56.0
                         }
                     ]
                 },
@@ -3650,8 +3334,7 @@
                             "value": 3.08,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 34.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 34.0
                         }
                     ]
                 },
@@ -3663,8 +3346,7 @@
                             "value": 3.34,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 52.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 52.0
                         }
                     ]
                 },
@@ -3676,8 +3358,7 @@
                             "value": 3.12,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 7.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 7.0
                         }
                     ]
                 },
@@ -3689,8 +3370,7 @@
                             "value": 3.55,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 74.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 74.0
                         }
                     ]
                 }
@@ -3707,8 +3387,7 @@
                             "value": 3.33,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 20.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 20.0
                         }
                     ]
                 },
@@ -3720,8 +3399,7 @@
                             "value": 3.18,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 82.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 82.0
                         }
                     ]
                 },
@@ -3733,8 +3411,7 @@
                             "value": 3.21,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 60.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 60.0
                         }
                     ]
                 }
@@ -3751,8 +3428,7 @@
                             "value": 3.31,
                             "lunch_price": "2000-2999",
                             "dinner_price": "2000-2999",
-                            "review_num": 82.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 2000-2999"
+                            "review_num": 82.0
                         }
                     ]
                 },
@@ -3764,8 +3440,7 @@
                             "value": 3.11,
                             "lunch_price": "3000-3999",
                             "dinner_price": "3000-3999",
-                            "review_num": 23.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 3000-3999"
+                            "review_num": 23.0
                         }
                     ]
                 },
@@ -3777,16 +3452,14 @@
                             "value": 3.5,
                             "lunch_price": "3000-3999",
                             "dinner_price": "3000-3999",
-                            "review_num": 47.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 3000-3999"
+                            "review_num": 47.0
                         },
                         {
                             "name": "Anju",
                             "value": 3.0,
                             "lunch_price": "3000-3999",
                             "dinner_price": "3000-3999",
-                            "review_num": 40.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 3000-3999"
+                            "review_num": 40.0
                         }
                     ]
                 },
@@ -3798,8 +3471,7 @@
                             "value": 3.09,
                             "lunch_price": "3000-3999",
                             "dinner_price": "6000-7999",
-                            "review_num": 26.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 6000-7999"
+                            "review_num": 26.0
                         }
                     ]
                 },
@@ -3811,8 +3483,7 @@
                             "value": 3.51,
                             "lunch_price": "2000-2999",
                             "dinner_price": "3000-3999",
-                            "review_num": 30.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 3000-3999"
+                            "review_num": 30.0
                         }
                     ]
                 }
@@ -3829,8 +3500,7 @@
                             "value": 3.65,
                             "lunch_price": "5000-5999",
                             "dinner_price": "10000-14999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 10000-14999"
+                            "review_num": 22.0
                         }
                     ]
                 },
@@ -3842,8 +3512,7 @@
                             "value": 3.42,
                             "lunch_price": "2000-2999",
                             "dinner_price": "8000-9999",
-                            "review_num": 27.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 8000-9999"
+                            "review_num": 27.0
                         }
                     ]
                 },
@@ -3855,8 +3524,7 @@
                             "value": 3.55,
                             "lunch_price": "10000-14999",
                             "dinner_price": "30000",
-                            "review_num": 24.0,
-                            "desc": "Lunch Price: 10000-14999\nDinner Price: 30000"
+                            "review_num": 24.0
                         }
                     ]
                 }
@@ -3873,8 +3541,7 @@
                             "value": 3.04,
                             "lunch_price": "4000-4999",
                             "dinner_price": "3000-3999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 3000-3999"
+                            "review_num": 15.0
                         }
                     ]
                 }
@@ -3891,8 +3558,7 @@
                             "value": 3.09,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 17.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 17.0
                         }
                     ]
                 },
@@ -3904,8 +3570,7 @@
                             "value": 3.04,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 6.0
                         }
                     ]
                 },
@@ -3917,8 +3582,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 28.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 28.0
                         }
                     ]
                 },
@@ -3930,8 +3594,7 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 72.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 72.0
                         }
                     ]
                 }
@@ -3948,8 +3611,7 @@
                             "value": 3.09,
                             "lunch_price": "4000-4999",
                             "dinner_price": "10000-14999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 10000-14999"
+                            "review_num": 11.0
                         }
                     ]
                 },
@@ -3961,8 +3623,7 @@
                             "value": 3.06,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 8.0
                         }
                     ]
                 },
@@ -3974,8 +3635,7 @@
                             "value": 3.33,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 18.0
                         }
                     ]
                 },
@@ -3987,8 +3647,7 @@
                             "value": 3.06,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 16.0
                         }
                     ]
                 },
@@ -4000,8 +3659,7 @@
                             "value": 3.03,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 11.0
                         }
                     ]
                 }
@@ -4018,8 +3676,7 @@
                             "value": 3.0,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 26.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 26.0
                         }
                     ]
                 },
@@ -4031,8 +3688,7 @@
                             "value": 3.51,
                             "lunch_price": "2000-2999",
                             "dinner_price": "6000-7999",
-                            "review_num": 25.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 6000-7999"
+                            "review_num": 25.0
                         }
                     ]
                 }
@@ -4049,8 +3705,7 @@
                             "value": 3.14,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 58.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 58.0
                         }
                     ]
                 },
@@ -4062,8 +3717,7 @@
                             "value": 3.53,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 67.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 67.0
                         }
                     ]
                 }
@@ -4080,8 +3734,7 @@
                             "value": 3.54,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 97.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 97.0
                         }
                     ]
                 }
@@ -4098,8 +3751,7 @@
                             "value": 3.0,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 21.0
                         }
                     ]
                 },
@@ -4111,8 +3763,7 @@
                             "value": 3.0,
                             "lunch_price": "2000-2999",
                             "dinner_price": "3000-3999",
-                            "review_num": 21.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 3000-3999"
+                            "review_num": 21.0
                         }
                     ]
                 },
@@ -4124,8 +3775,7 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 35.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 35.0
                         }
                     ]
                 }
@@ -4142,8 +3792,7 @@
                             "value": 3.04,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 13.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 13.0
                         }
                     ]
                 },
@@ -4155,8 +3804,7 @@
                             "value": 3.19,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 29.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 29.0
                         }
                     ]
                 },
@@ -4168,8 +3816,7 @@
                             "value": 3.03,
                             "lunch_price": "999",
                             "dinner_price": "2000-2999",
-                            "review_num": 8.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 2000-2999"
+                            "review_num": 8.0
                         }
                     ]
                 }
@@ -4186,8 +3833,7 @@
                             "value": 3.53,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 52.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 52.0
                         }
                     ]
                 }
@@ -4204,8 +3850,7 @@
                             "value": 3.07,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 191.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 191.0
                         }
                     ]
                 }
@@ -4222,8 +3867,7 @@
                             "value": 3.5,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 62.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 62.0
                         }
                     ]
                 }
@@ -4240,8 +3884,7 @@
                             "value": 3.42,
                             "lunch_price": "3000-3999",
                             "dinner_price": "8000-9999",
-                            "review_num": 16.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 8000-9999"
+                            "review_num": 16.0
                         }
                     ]
                 }
@@ -4258,8 +3901,7 @@
                             "value": 3.03,
                             "lunch_price": "1000-1999",
                             "dinner_price": "999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 999"
+                            "review_num": 11.0
                         }
                     ]
                 }
@@ -4276,8 +3918,7 @@
                             "value": 3.02,
                             "lunch_price": "2000-2999",
                             "dinner_price": "4000-4999",
-                            "review_num": 10.0,
-                            "desc": "Lunch Price: 2000-2999\nDinner Price: 4000-4999"
+                            "review_num": 10.0
                         }
                     ]
                 }
@@ -4294,8 +3935,7 @@
                             "value": 3.49,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 18.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 18.0
                         }
                     ]
                 }
@@ -4312,8 +3952,7 @@
                             "value": 3.38,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 24.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 24.0
                         }
                     ]
                 }
@@ -4330,8 +3969,7 @@
                             "value": 3.35,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 54.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 54.0
                         }
                     ]
                 }
@@ -4348,8 +3986,7 @@
                             "value": 3.54,
                             "lunch_price": "5000-5999",
                             "dinner_price": "5000-5999",
-                            "review_num": 15.0,
-                            "desc": "Lunch Price: 5000-5999\nDinner Price: 5000-5999"
+                            "review_num": 15.0
                         }
                     ]
                 }
@@ -4366,8 +4003,7 @@
                             "value": 3.07,
                             "lunch_price": "3000-3999",
                             "dinner_price": "4000-4999",
-                            "review_num": 6.0,
-                            "desc": "Lunch Price: 3000-3999\nDinner Price: 4000-4999"
+                            "review_num": 6.0
                         }
                     ]
                 }
@@ -4384,8 +4020,7 @@
                             "value": 3.22,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 13.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 13.0
                         }
                     ]
                 }
@@ -4402,16 +4037,14 @@
                             "value": 3.51,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 125.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 125.0
                         },
                         {
                             "name": "Honkedaiichiasahi",
                             "value": 3.6,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 1319.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 1319.0
                         }
                     ]
                 },
@@ -4423,8 +4056,7 @@
                             "value": 3.07,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 34.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 34.0
                         }
                     ]
                 },
@@ -4436,8 +4068,7 @@
                             "value": 3.51,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 131.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 131.0
                         }
                     ]
                 },
@@ -4449,16 +4080,14 @@
                             "value": 3.09,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 20.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 20.0
                         },
                         {
                             "name": "menkiya",
                             "value": 3.08,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 11.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 11.0
                         }
                     ]
                 },
@@ -4470,8 +4099,7 @@
                             "value": 3.19,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 55.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 55.0
                         }
                     ]
                 },
@@ -4483,16 +4111,14 @@
                             "value": 3.34,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 39.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 39.0
                         },
                         {
                             "name": "Ramenhikosaku",
                             "value": 3.51,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 62.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 62.0
                         }
                     ]
                 },
@@ -4504,8 +4130,7 @@
                             "value": 3.59,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 713.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 713.0
                         }
                     ]
                 }
@@ -4522,8 +4147,7 @@
                             "value": 3.58,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 131.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 131.0
                         }
                     ]
                 },
@@ -4535,8 +4159,7 @@
                             "value": 3.53,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 62.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 62.0
                         }
                     ]
                 }
@@ -4553,8 +4176,7 @@
                             "value": 3.53,
                             "lunch_price": "1000-1999",
                             "dinner_price": "3000-3999",
-                            "review_num": 40.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 3000-3999"
+                            "review_num": 40.0
                         }
                     ]
                 },
@@ -4566,8 +4188,7 @@
                             "value": 3.6,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 106.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 106.0
                         }
                     ]
                 },
@@ -4579,8 +4200,7 @@
                             "value": 3.17,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 9.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 9.0
                         }
                     ]
                 }
@@ -4597,8 +4217,7 @@
                             "value": 3.22,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 56.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 56.0
                         }
                     ]
                 }
@@ -4615,8 +4234,7 @@
                             "value": 3.25,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 22.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 22.0
                         }
                     ]
                 }
@@ -4633,8 +4251,7 @@
                             "value": 3.56,
                             "lunch_price": "999",
                             "dinner_price": "1000-1999",
-                            "review_num": 68.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 1000-1999"
+                            "review_num": 68.0
                         }
                     ]
                 }
@@ -4651,8 +4268,7 @@
                             "value": 3.35,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 36.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 36.0
                         }
                     ]
                 }
@@ -4669,8 +4285,7 @@
                             "value": 3.08,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 30.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 30.0
                         }
                     ]
                 }
@@ -4687,8 +4302,7 @@
                             "value": 3.38,
                             "lunch_price": "999",
                             "dinner_price": "4000-4999",
-                            "review_num": 40.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 4000-4999"
+                            "review_num": 40.0
                         }
                     ]
                 }
@@ -4705,8 +4319,7 @@
                             "value": 3.46,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 44.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 44.0
                         }
                     ]
                 }
@@ -4723,8 +4336,7 @@
                             "value": 3.32,
                             "lunch_price": "1000-1999",
                             "dinner_price": "2000-2999",
-                            "review_num": 38.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 2000-2999"
+                            "review_num": 38.0
                         }
                     ]
                 }
@@ -4741,8 +4353,7 @@
                             "value": 3.08,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 41.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 41.0
                         }
                     ]
                 }
@@ -4759,8 +4370,7 @@
                             "value": 3.08,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 86.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 86.0
                         }
                     ]
                 }
@@ -4777,8 +4387,7 @@
                             "value": 3.54,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 180.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 180.0
                         }
                     ]
                 }
@@ -4795,8 +4404,7 @@
                             "value": 3.59,
                             "lunch_price": "1000-1999",
                             "dinner_price": "5000-5999",
-                            "review_num": 151.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 5000-5999"
+                            "review_num": 151.0
                         }
                     ]
                 }
@@ -4813,8 +4421,7 @@
                             "value": 3.5,
                             "lunch_price": "1000-1999",
                             "dinner_price": "4000-4999",
-                            "review_num": 37.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 4000-4999"
+                            "review_num": 37.0
                         }
                     ]
                 }
@@ -4831,8 +4438,7 @@
                             "value": 4.06,
                             "lunch_price": "4000-4999",
                             "dinner_price": "8000-9999",
-                            "review_num": 53.0,
-                            "desc": "Lunch Price: 4000-4999\nDinner Price: 8000-9999"
+                            "review_num": 53.0
                         }
                     ]
                 }
@@ -4849,8 +4455,7 @@
                             "value": 3.54,
                             "lunch_price": "1000-1999",
                             "dinner_price": "1000-1999",
-                            "review_num": 116.0,
-                            "desc": "Lunch Price: 1000-1999\nDinner Price: 1000-1999"
+                            "review_num": 116.0
                         }
                     ]
                 }
@@ -4867,8 +4472,7 @@
                             "value": 3.52,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 99.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 99.0
                         }
                     ]
                 }
@@ -4885,8 +4489,7 @@
                             "value": 3.58,
                             "lunch_price": "999",
                             "dinner_price": "999",
-                            "review_num": 203.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 999"
+                            "review_num": 203.0
                         }
                     ]
                 }
@@ -4903,8 +4506,7 @@
                             "value": 3.08,
                             "lunch_price": "999",
                             "dinner_price": "3000-3999",
-                            "review_num": 70.0,
-                            "desc": "Lunch Price: 999\nDinner Price: 3000-3999"
+                            "review_num": 70.0
                         }
                     ]
                 }
