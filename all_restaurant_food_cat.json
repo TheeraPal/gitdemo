@@ -1,6 +1,6 @@
 {
     "name": "restaurant",
-	"test": "test",
+	
     "children": [
         {
             "name": "Buffet style",
@@ -349,6 +349,7 @@
         },
         {
             "name": "Italian",
+			"test" : "test",
             "children": [
                 {
                     "name": "Kyoto",
